@@ -1,0 +1,1485 @@
+[
+  {
+    "dish": "French Fries",
+    "original": "original-fries.jpg",
+    "originalWidth": 600,
+    "originalHeight": 900,
+    "variants": [
+      {
+        "src": "menu-photos/french-fries-480.webp",
+        "width": 480,
+        "height": 720
+      },
+      {
+        "src": "menu-photos/french-fries-600.webp",
+        "width": 600,
+        "height": 900
+      }
+    ],
+    "representative": false,
+    "credit": null,
+    "changes": "Resized without upscaling; encoded as WebP. Aspect ratio retained."
+  },
+  {
+    "dish": "Baked Potato",
+    "original": "original-bakedpotato.jpg",
+    "originalWidth": 1066,
+    "originalHeight": 1600,
+    "variants": [
+      {
+        "src": "menu-photos/baked-potato-480.webp",
+        "width": 480,
+        "height": 720
+      },
+      {
+        "src": "menu-photos/baked-potato-960.webp",
+        "width": 960,
+        "height": 1441
+      },
+      {
+        "src": "menu-photos/baked-potato-1066.webp",
+        "width": 1066,
+        "height": 1600
+      }
+    ],
+    "representative": false,
+    "credit": null,
+    "changes": "Resized without upscaling; encoded as WebP. Aspect ratio retained."
+  },
+  {
+    "dish": "Onion Rings",
+    "original": "original-onionrings.jpg",
+    "originalWidth": 612,
+    "originalHeight": 408,
+    "variants": [
+      {
+        "src": "menu-photos/onion-rings-480.webp",
+        "width": 480,
+        "height": 320
+      },
+      {
+        "src": "menu-photos/onion-rings-612.webp",
+        "width": 612,
+        "height": 408
+      }
+    ],
+    "representative": false,
+    "credit": null,
+    "changes": "Resized without upscaling; encoded as WebP. Aspect ratio retained."
+  },
+  {
+    "dish": "Fried Mac & Cheese Bites",
+    "original": "original-cheesebites.jpg",
+    "originalWidth": 600,
+    "originalHeight": 416,
+    "variants": [
+      {
+        "src": "menu-photos/fried-mac-cheese-bites-480.webp",
+        "width": 480,
+        "height": 333
+      },
+      {
+        "src": "menu-photos/fried-mac-cheese-bites-600.webp",
+        "width": 600,
+        "height": 416
+      }
+    ],
+    "representative": false,
+    "credit": null,
+    "changes": "Resized without upscaling; encoded as WebP. Aspect ratio retained."
+  },
+  {
+    "dish": "Chips & Housemade Guacamole",
+    "original": "original-chips.jpg",
+    "originalWidth": 612,
+    "originalHeight": 408,
+    "variants": [
+      {
+        "src": "menu-photos/chips-housemade-guacamole-480.webp",
+        "width": 480,
+        "height": 320
+      },
+      {
+        "src": "menu-photos/chips-housemade-guacamole-612.webp",
+        "width": 612,
+        "height": 408
+      }
+    ],
+    "representative": false,
+    "credit": null,
+    "changes": "Resized without upscaling; encoded as WebP. Aspect ratio retained."
+  },
+  {
+    "dish": "Boneless Wings",
+    "original": "original-boneless.jpg",
+    "originalWidth": 600,
+    "originalHeight": 800,
+    "variants": [
+      {
+        "src": "menu-photos/boneless-wings-480.webp",
+        "width": 480,
+        "height": 640
+      },
+      {
+        "src": "menu-photos/boneless-wings-600.webp",
+        "width": 600,
+        "height": 800
+      }
+    ],
+    "representative": false,
+    "credit": null,
+    "changes": "Resized without upscaling; encoded as WebP. Aspect ratio retained."
+  },
+  {
+    "dish": "Bone-In Wings",
+    "original": "original-boneinwings.jpg",
+    "originalWidth": 600,
+    "originalHeight": 400,
+    "variants": [
+      {
+        "src": "menu-photos/bone-in-wings-480.webp",
+        "width": 480,
+        "height": 320
+      },
+      {
+        "src": "menu-photos/bone-in-wings-600.webp",
+        "width": 600,
+        "height": 400
+      }
+    ],
+    "representative": false,
+    "credit": null,
+    "changes": "Resized without upscaling; encoded as WebP. Aspect ratio retained."
+  },
+  {
+    "dish": "VJ's Signature Sampler",
+    "original": "menu-photo-sources/vj-s-signature-sampler.jpg",
+    "originalWidth": 1280,
+    "originalHeight": 960,
+    "variants": [
+      {
+        "src": "menu-photos/vj-s-signature-sampler-480.webp",
+        "width": 480,
+        "height": 266
+      },
+      {
+        "src": "menu-photos/vj-s-signature-sampler-960.webp",
+        "width": 960,
+        "height": 532
+      },
+      {
+        "src": "menu-photos/vj-s-signature-sampler-1280.webp",
+        "width": 1280,
+        "height": 710
+      }
+    ],
+    "representative": true,
+    "credit": {
+      "author": "Famartin",
+      "source": "https://commons.wikimedia.org/wiki/File:2018-02-22_16_52_42_Classic_appetizer_combo_(Chips_with_spinach-artichoke_dip,_mozzarella_sticks,_honey-bbq_buffalo_wings_and_chicken_quesadilla)_at_the_Applebee%27s_in_Fair_Lakes,_Fairfax_County,_Virginia.jpg",
+      "title": "2018-02-22 16 52 42 Classic appetizer combo (Chips with spinach-artichoke dip, mozzarella sticks, honey-bbq buffalo wings and chicken quesadilla) at the Applebee's in Fair Lakes, Fairfax County, Virginia.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+    },
+    "changes": "Cropped to focus on food, resized without upscaling and encoded as WebP."
+  },
+  {
+    "dish": "Classic Caesar Salad",
+    "original": "original-cessarsalad.jpg",
+    "originalWidth": 4288,
+    "originalHeight": 2859,
+    "variants": [
+      {
+        "src": "menu-photos/classic-caesar-salad-480.webp",
+        "width": 480,
+        "height": 320
+      },
+      {
+        "src": "menu-photos/classic-caesar-salad-960.webp",
+        "width": 960,
+        "height": 640
+      },
+      {
+        "src": "menu-photos/classic-caesar-salad-1600.webp",
+        "width": 1600,
+        "height": 1067
+      }
+    ],
+    "representative": false,
+    "credit": null,
+    "changes": "Resized without upscaling; encoded as WebP. Aspect ratio retained."
+  },
+  {
+    "dish": "Mediterranean Power Salad",
+    "original": "original-powersalad.jpg",
+    "originalWidth": 2048,
+    "originalHeight": 1367,
+    "variants": [
+      {
+        "src": "menu-photos/mediterranean-power-salad-480.webp",
+        "width": 480,
+        "height": 320
+      },
+      {
+        "src": "menu-photos/mediterranean-power-salad-960.webp",
+        "width": 960,
+        "height": 641
+      },
+      {
+        "src": "menu-photos/mediterranean-power-salad-1600.webp",
+        "width": 1600,
+        "height": 1068
+      }
+    ],
+    "representative": false,
+    "credit": null,
+    "changes": "Resized without upscaling; encoded as WebP. Aspect ratio retained."
+  },
+  {
+    "dish": "Berry & Goat Cheese Salad",
+    "original": "original-berrysalad.jpg",
+    "originalWidth": 2048,
+    "originalHeight": 1365,
+    "variants": [
+      {
+        "src": "menu-photos/berry-goat-cheese-salad-480.webp",
+        "width": 480,
+        "height": 320
+      },
+      {
+        "src": "menu-photos/berry-goat-cheese-salad-960.webp",
+        "width": 960,
+        "height": 640
+      },
+      {
+        "src": "menu-photos/berry-goat-cheese-salad-1600.webp",
+        "width": 1600,
+        "height": 1066
+      }
+    ],
+    "representative": false,
+    "credit": null,
+    "changes": "Resized without upscaling; encoded as WebP. Aspect ratio retained."
+  },
+  {
+    "dish": "Classic Hamburger",
+    "original": "menu-photo-sources/classic-hamburger.jpg",
+    "originalWidth": 1920,
+    "originalHeight": 1247,
+    "variants": [
+      {
+        "src": "menu-photos/classic-hamburger-480.webp",
+        "width": 480,
+        "height": 312
+      },
+      {
+        "src": "menu-photos/classic-hamburger-960.webp",
+        "width": 960,
+        "height": 624
+      },
+      {
+        "src": "menu-photos/classic-hamburger-1920.webp",
+        "width": 1920,
+        "height": 1247
+      }
+    ],
+    "representative": true,
+    "credit": {
+      "author": "Len Rizzi (photographer, original image), reprocessed by Off-shell",
+      "source": "https://commons.wikimedia.org/wiki/File:Hamburger_(black_bg).jpg",
+      "title": "Hamburger (black bg).jpg",
+      "license": "Public domain",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    "changes": "Resized without upscaling and encoded as WebP."
+  },
+  {
+    "dish": "Western Chicken Burger",
+    "original": "original-burger7.jpg",
+    "originalWidth": 1857,
+    "originalHeight": 1614,
+    "variants": [
+      {
+        "src": "menu-photos/western-chicken-burger-480.webp",
+        "width": 480,
+        "height": 417
+      },
+      {
+        "src": "menu-photos/western-chicken-burger-960.webp",
+        "width": 960,
+        "height": 834
+      },
+      {
+        "src": "menu-photos/western-chicken-burger-1600.webp",
+        "width": 1600,
+        "height": 1391
+      }
+    ],
+    "representative": false,
+    "credit": null,
+    "changes": "Resized without upscaling; encoded as WebP. Aspect ratio retained."
+  },
+  {
+    "dish": "Bacon Cheese Burger",
+    "original": "original-burger3.jpg",
+    "originalWidth": 2048,
+    "originalHeight": 1365,
+    "variants": [
+      {
+        "src": "menu-photos/bacon-cheese-burger-480.webp",
+        "width": 480,
+        "height": 320
+      },
+      {
+        "src": "menu-photos/bacon-cheese-burger-960.webp",
+        "width": 960,
+        "height": 640
+      },
+      {
+        "src": "menu-photos/bacon-cheese-burger-1600.webp",
+        "width": 1600,
+        "height": 1066
+      }
+    ],
+    "representative": false,
+    "credit": null,
+    "changes": "Resized without upscaling; encoded as WebP. Aspect ratio retained."
+  },
+  {
+    "dish": "Avocado Mushroom Burger",
+    "original": "original-burger5.jpg",
+    "originalWidth": 630,
+    "originalHeight": 339,
+    "variants": [
+      {
+        "src": "menu-photos/avocado-mushroom-burger-480.webp",
+        "width": 480,
+        "height": 258
+      },
+      {
+        "src": "menu-photos/avocado-mushroom-burger-630.webp",
+        "width": 630,
+        "height": 339
+      }
+    ],
+    "representative": false,
+    "credit": null,
+    "changes": "Resized without upscaling; encoded as WebP. Aspect ratio retained."
+  },
+  {
+    "dish": "Double Cheese Burger",
+    "original": "original-burger4.jpg",
+    "originalWidth": 2047,
+    "originalHeight": 2048,
+    "variants": [
+      {
+        "src": "menu-photos/double-cheese-burger-480.webp",
+        "width": 480,
+        "height": 480
+      },
+      {
+        "src": "menu-photos/double-cheese-burger-960.webp",
+        "width": 960,
+        "height": 960
+      },
+      {
+        "src": "menu-photos/double-cheese-burger-1600.webp",
+        "width": 1600,
+        "height": 1601
+      }
+    ],
+    "representative": false,
+    "credit": null,
+    "changes": "Resized without upscaling; encoded as WebP. Aspect ratio retained."
+  },
+  {
+    "dish": "Big Pappa Burger",
+    "original": "original-big-pappa-burger.jpg",
+    "originalWidth": 3947,
+    "originalHeight": 5920,
+    "variants": [
+      {
+        "src": "menu-photos/big-pappa-burger-480.webp",
+        "width": 480,
+        "height": 720
+      },
+      {
+        "src": "menu-photos/big-pappa-burger-960.webp",
+        "width": 960,
+        "height": 1440
+      },
+      {
+        "src": "menu-photos/big-pappa-burger-1600.webp",
+        "width": 1600,
+        "height": 2400
+      }
+    ],
+    "representative": false,
+    "credit": null,
+    "changes": "Resized without upscaling; encoded as WebP. Aspect ratio retained."
+  },
+  {
+    "dish": "Teriyaki Salmon Burger",
+    "original": "menu-photo-sources/teriyaki-salmon-burger.jpg",
+    "originalWidth": 1024,
+    "originalHeight": 683,
+    "variants": [
+      {
+        "src": "menu-photos/teriyaki-salmon-burger-480.webp",
+        "width": 480,
+        "height": 320
+      },
+      {
+        "src": "menu-photos/teriyaki-salmon-burger-960.webp",
+        "width": 960,
+        "height": 640
+      },
+      {
+        "src": "menu-photos/teriyaki-salmon-burger-1024.webp",
+        "width": 1024,
+        "height": 683
+      }
+    ],
+    "representative": true,
+    "credit": {
+      "author": "Kyle Lam",
+      "source": "https://commons.wikimedia.org/wiki/File:Salmon_burger.jpg",
+      "title": "Salmon burger.jpg",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0"
+    },
+    "changes": "Resized without upscaling; encoded as WebP. Aspect ratio retained."
+  },
+  {
+    "dish": "Chicken Club Sandwich",
+    "original": "original-chicken-club-sandwich.jpg",
+    "originalWidth": 9504,
+    "originalHeight": 6336,
+    "variants": [
+      {
+        "src": "menu-photos/chicken-club-sandwich-480.webp",
+        "width": 480,
+        "height": 320
+      },
+      {
+        "src": "menu-photos/chicken-club-sandwich-960.webp",
+        "width": 960,
+        "height": 640
+      },
+      {
+        "src": "menu-photos/chicken-club-sandwich-1600.webp",
+        "width": 1600,
+        "height": 1067
+      }
+    ],
+    "representative": false,
+    "credit": null,
+    "changes": "Resized without upscaling; encoded as WebP. Aspect ratio retained."
+  },
+  {
+    "dish": "Fish Sandwich",
+    "original": "original-fish-sandwich-2.jpg",
+    "originalWidth": 6720,
+    "originalHeight": 4480,
+    "variants": [
+      {
+        "src": "menu-photos/fish-sandwich-480.webp",
+        "width": 480,
+        "height": 320
+      },
+      {
+        "src": "menu-photos/fish-sandwich-960.webp",
+        "width": 960,
+        "height": 640
+      },
+      {
+        "src": "menu-photos/fish-sandwich-1600.webp",
+        "width": 1600,
+        "height": 1067
+      }
+    ],
+    "representative": false,
+    "credit": null,
+    "changes": "Resized without upscaling; encoded as WebP. Aspect ratio retained."
+  },
+  {
+    "dish": "Santa Fe Chicken Sandwich",
+    "original": "original-santa-fe-chicken-sandwich.avif",
+    "originalWidth": 600,
+    "originalHeight": 900,
+    "variants": [
+      {
+        "src": "menu-photos/santa-fe-chicken-sandwich-480.webp",
+        "width": 480,
+        "height": 720
+      },
+      {
+        "src": "menu-photos/santa-fe-chicken-sandwich-600.webp",
+        "width": 600,
+        "height": 900
+      }
+    ],
+    "representative": false,
+    "credit": null,
+    "changes": "Resized without upscaling; encoded as WebP. Aspect ratio retained."
+  },
+  {
+    "dish": "Chicken Kebab",
+    "original": "original-cgk2.jpg",
+    "originalWidth": 1500,
+    "originalHeight": 2000,
+    "variants": [
+      {
+        "src": "menu-photos/chicken-kebab-480.webp",
+        "width": 480,
+        "height": 640
+      },
+      {
+        "src": "menu-photos/chicken-kebab-960.webp",
+        "width": 960,
+        "height": 1280
+      },
+      {
+        "src": "menu-photos/chicken-kebab-1500.webp",
+        "width": 1500,
+        "height": 2000
+      }
+    ],
+    "representative": false,
+    "credit": null,
+    "changes": "Resized without upscaling; encoded as WebP. Aspect ratio retained."
+  },
+  {
+    "dish": "Garlic Parmesan Steak Kebab",
+    "original": "original-garlic-parmesan-steak-kebab.jpg",
+    "originalWidth": 2832,
+    "originalHeight": 4240,
+    "variants": [
+      {
+        "src": "menu-photos/garlic-parmesan-steak-kebab-480.webp",
+        "width": 480,
+        "height": 719
+      },
+      {
+        "src": "menu-photos/garlic-parmesan-steak-kebab-960.webp",
+        "width": 960,
+        "height": 1437
+      },
+      {
+        "src": "menu-photos/garlic-parmesan-steak-kebab-1600.webp",
+        "width": 1600,
+        "height": 2395
+      }
+    ],
+    "representative": false,
+    "credit": null,
+    "changes": "Resized without upscaling; encoded as WebP. Aspect ratio retained."
+  },
+  {
+    "dish": "Steakhouse Beef Kebab",
+    "original": "original-charcola.jpg",
+    "originalWidth": 2048,
+    "originalHeight": 1365,
+    "variants": [
+      {
+        "src": "menu-photos/steakhouse-beef-kebab-480.webp",
+        "width": 480,
+        "height": 320
+      },
+      {
+        "src": "menu-photos/steakhouse-beef-kebab-960.webp",
+        "width": 960,
+        "height": 640
+      },
+      {
+        "src": "menu-photos/steakhouse-beef-kebab-1600.webp",
+        "width": 1600,
+        "height": 1066
+      }
+    ],
+    "representative": false,
+    "credit": null,
+    "changes": "Resized without upscaling; encoded as WebP. Aspect ratio retained."
+  },
+  {
+    "dish": "Mediterranean Lamb Kebab",
+    "original": "menu-photo-sources/mediterranean-lamb-kebab.jpg",
+    "originalWidth": 1280,
+    "originalHeight": 960,
+    "variants": [
+      {
+        "src": "menu-photos/mediterranean-lamb-kebab-480.webp",
+        "width": 480,
+        "height": 360
+      },
+      {
+        "src": "menu-photos/mediterranean-lamb-kebab-960.webp",
+        "width": 960,
+        "height": 720
+      },
+      {
+        "src": "menu-photos/mediterranean-lamb-kebab-1280.webp",
+        "width": 1280,
+        "height": 960
+      }
+    ],
+    "representative": true,
+    "credit": {
+      "author": "Maksym Kozlenko",
+      "source": "https://commons.wikimedia.org/wiki/File:2023-01-20_Lamb_Shish_Kebab.jpg",
+      "title": "2023-01-20 Lamb Shish Kebab.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+    },
+    "changes": "Resized without upscaling; encoded as WebP. Aspect ratio retained."
+  },
+  {
+    "dish": "Mixed Grill Kebab",
+    "original": "menu-photo-sources/mixed-grill-kebab.jpg",
+    "originalWidth": 1280,
+    "originalHeight": 851,
+    "variants": [
+      {
+        "src": "menu-photos/mixed-grill-kebab-480.webp",
+        "width": 480,
+        "height": 319
+      },
+      {
+        "src": "menu-photos/mixed-grill-kebab-960.webp",
+        "width": 960,
+        "height": 638
+      },
+      {
+        "src": "menu-photos/mixed-grill-kebab-1280.webp",
+        "width": 1280,
+        "height": 851
+      }
+    ],
+    "representative": true,
+    "credit": {
+      "author": "User:Jpatokal",
+      "source": "https://commons.wikimedia.org/wiki/File:Arabic_MixedGrill.JPG",
+      "title": "Arabic MixedGrill.JPG",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+    },
+    "changes": "Resized without upscaling; encoded as WebP. Aspect ratio retained."
+  },
+  {
+    "dish": "Tri-Tip & Chicken Combo",
+    "original": "original-trichicken.jpg",
+    "originalWidth": 5268,
+    "originalHeight": 3512,
+    "variants": [
+      {
+        "src": "menu-photos/tri-tip-chicken-combo-480.webp",
+        "width": 480,
+        "height": 320
+      },
+      {
+        "src": "menu-photos/tri-tip-chicken-combo-960.webp",
+        "width": 960,
+        "height": 640
+      },
+      {
+        "src": "menu-photos/tri-tip-chicken-combo-1600.webp",
+        "width": 1600,
+        "height": 1067
+      }
+    ],
+    "representative": false,
+    "credit": null,
+    "changes": "Resized without upscaling; encoded as WebP. Aspect ratio retained."
+  },
+  {
+    "dish": "Tri-Tip & Shrimp Combo",
+    "original": "original-tritip.jpg",
+    "originalWidth": 5572,
+    "originalHeight": 3471,
+    "variants": [
+      {
+        "src": "menu-photos/tri-tip-shrimp-combo-480.webp",
+        "width": 480,
+        "height": 299
+      },
+      {
+        "src": "menu-photos/tri-tip-shrimp-combo-960.webp",
+        "width": 960,
+        "height": 598
+      },
+      {
+        "src": "menu-photos/tri-tip-shrimp-combo-1600.webp",
+        "width": 1600,
+        "height": 997
+      }
+    ],
+    "representative": false,
+    "credit": null,
+    "changes": "Resized without upscaling; encoded as WebP. Aspect ratio retained."
+  },
+  {
+    "dish": "Fish & Chips",
+    "original": "original-fishchips.jpg",
+    "originalWidth": 2048,
+    "originalHeight": 1367,
+    "variants": [
+      {
+        "src": "menu-photos/fish-chips-480.webp",
+        "width": 480,
+        "height": 320
+      },
+      {
+        "src": "menu-photos/fish-chips-960.webp",
+        "width": 960,
+        "height": 641
+      },
+      {
+        "src": "menu-photos/fish-chips-1600.webp",
+        "width": 1600,
+        "height": 1068
+      }
+    ],
+    "representative": false,
+    "credit": null,
+    "changes": "Resized without upscaling; encoded as WebP. Aspect ratio retained."
+  },
+  {
+    "dish": "Chicken Alfredo",
+    "original": "original-chickenal.jpg",
+    "originalWidth": 2048,
+    "originalHeight": 1445,
+    "variants": [
+      {
+        "src": "menu-photos/chicken-alfredo-480.webp",
+        "width": 480,
+        "height": 339
+      },
+      {
+        "src": "menu-photos/chicken-alfredo-960.webp",
+        "width": 960,
+        "height": 677
+      },
+      {
+        "src": "menu-photos/chicken-alfredo-1600.webp",
+        "width": 1600,
+        "height": 1129
+      }
+    ],
+    "representative": false,
+    "credit": null,
+    "changes": "Resized without upscaling; encoded as WebP. Aspect ratio retained."
+  },
+  {
+    "dish": "Atlantic / Blackened Salmon",
+    "original": "original-salmon.jpg",
+    "originalWidth": 2121,
+    "originalHeight": 1414,
+    "variants": [
+      {
+        "src": "menu-photos/atlantic-blackened-salmon-480.webp",
+        "width": 480,
+        "height": 320
+      },
+      {
+        "src": "menu-photos/atlantic-blackened-salmon-960.webp",
+        "width": 960,
+        "height": 640
+      },
+      {
+        "src": "menu-photos/atlantic-blackened-salmon-1600.webp",
+        "width": 1600,
+        "height": 1067
+      }
+    ],
+    "representative": false,
+    "credit": null,
+    "changes": "Resized without upscaling; encoded as WebP. Aspect ratio retained."
+  },
+  {
+    "dish": "Slow Roasted Tri-Tip",
+    "original": "original-slowrib.jpg",
+    "originalWidth": 1280,
+    "originalHeight": 944,
+    "variants": [
+      {
+        "src": "menu-photos/slow-roasted-tri-tip-480.webp",
+        "width": 480,
+        "height": 354
+      },
+      {
+        "src": "menu-photos/slow-roasted-tri-tip-960.webp",
+        "width": 960,
+        "height": 708
+      },
+      {
+        "src": "menu-photos/slow-roasted-tri-tip-1280.webp",
+        "width": 1280,
+        "height": 944
+      }
+    ],
+    "representative": false,
+    "credit": null,
+    "changes": "Resized without upscaling; encoded as WebP. Aspect ratio retained."
+  },
+  {
+    "dish": "Lamb Chop Dinner",
+    "original": "menu-photo-sources/lamb-chop-dinner.jpg",
+    "originalWidth": 1280,
+    "originalHeight": 960,
+    "variants": [
+      {
+        "src": "menu-photos/lamb-chop-dinner-480.webp",
+        "width": 480,
+        "height": 360
+      },
+      {
+        "src": "menu-photos/lamb-chop-dinner-960.webp",
+        "width": 960,
+        "height": 720
+      },
+      {
+        "src": "menu-photos/lamb-chop-dinner-1280.webp",
+        "width": 1280,
+        "height": 960
+      }
+    ],
+    "representative": true,
+    "credit": {
+      "author": "Gatorfan252525",
+      "source": "https://commons.wikimedia.org/wiki/File:Lamb_Chops_from_a_Greek_restaurant_in_Fort_Lauderdale,_Florida.jpg",
+      "title": "Lamb Chops from a Greek restaurant in Fort Lauderdale, Florida.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+    },
+    "changes": "Resized without upscaling; encoded as WebP. Aspect ratio retained."
+  },
+  {
+    "dish": "BBQ Chicken Flat Bread",
+    "original": "original-bbq-chicken-flatbread.jpg",
+    "originalWidth": 2048,
+    "originalHeight": 1365,
+    "variants": [
+      {
+        "src": "menu-photos/bbq-chicken-flat-bread-480.webp",
+        "width": 480,
+        "height": 320
+      },
+      {
+        "src": "menu-photos/bbq-chicken-flat-bread-960.webp",
+        "width": 960,
+        "height": 640
+      },
+      {
+        "src": "menu-photos/bbq-chicken-flat-bread-1600.webp",
+        "width": 1600,
+        "height": 1066
+      }
+    ],
+    "representative": false,
+    "credit": null,
+    "changes": "Resized without upscaling; encoded as WebP. Aspect ratio retained."
+  },
+  {
+    "dish": "Pepperoni Flat Bread",
+    "original": "original-pepperoni.jpg",
+    "originalWidth": 4608,
+    "originalHeight": 3456,
+    "variants": [
+      {
+        "src": "menu-photos/pepperoni-flat-bread-480.webp",
+        "width": 480,
+        "height": 360
+      },
+      {
+        "src": "menu-photos/pepperoni-flat-bread-960.webp",
+        "width": 960,
+        "height": 720
+      },
+      {
+        "src": "menu-photos/pepperoni-flat-bread-1600.webp",
+        "width": 1600,
+        "height": 1200
+      }
+    ],
+    "representative": false,
+    "credit": null,
+    "changes": "Resized without upscaling; encoded as WebP. Aspect ratio retained."
+  },
+  {
+    "dish": "Steakhouse Flat Bread",
+    "original": "original-steak.jpg",
+    "originalWidth": 3024,
+    "originalHeight": 4032,
+    "variants": [
+      {
+        "src": "menu-photos/steakhouse-flat-bread-480.webp",
+        "width": 480,
+        "height": 640
+      },
+      {
+        "src": "menu-photos/steakhouse-flat-bread-960.webp",
+        "width": 960,
+        "height": 1280
+      },
+      {
+        "src": "menu-photos/steakhouse-flat-bread-1600.webp",
+        "width": 1600,
+        "height": 2133
+      }
+    ],
+    "representative": false,
+    "credit": null,
+    "changes": "Resized without upscaling; encoded as WebP. Aspect ratio retained."
+  },
+  {
+    "dish": "Mini Cheese Burger",
+    "original": "original-km1.jpg",
+    "originalWidth": 2048,
+    "originalHeight": 1453,
+    "variants": [
+      {
+        "src": "menu-photos/mini-cheese-burger-480.webp",
+        "width": 480,
+        "height": 341
+      },
+      {
+        "src": "menu-photos/mini-cheese-burger-960.webp",
+        "width": 960,
+        "height": 681
+      },
+      {
+        "src": "menu-photos/mini-cheese-burger-1600.webp",
+        "width": 1600,
+        "height": 1135
+      }
+    ],
+    "representative": false,
+    "credit": null,
+    "changes": "Resized without upscaling; encoded as WebP. Aspect ratio retained."
+  },
+  {
+    "dish": "Crispy Chicken Bites",
+    "original": "original-km2.jpg",
+    "originalWidth": 1200,
+    "originalHeight": 800,
+    "variants": [
+      {
+        "src": "menu-photos/crispy-chicken-bites-480.webp",
+        "width": 480,
+        "height": 320
+      },
+      {
+        "src": "menu-photos/crispy-chicken-bites-960.webp",
+        "width": 960,
+        "height": 640
+      },
+      {
+        "src": "menu-photos/crispy-chicken-bites-1200.webp",
+        "width": 1200,
+        "height": 800
+      }
+    ],
+    "representative": false,
+    "credit": null,
+    "changes": "Resized without upscaling; encoded as WebP. Aspect ratio retained."
+  },
+  {
+    "dish": "Mini Cheese Pizza",
+    "original": "original-km3.jpg",
+    "originalWidth": 1200,
+    "originalHeight": 1200,
+    "variants": [
+      {
+        "src": "menu-photos/mini-cheese-pizza-480.webp",
+        "width": 480,
+        "height": 480
+      },
+      {
+        "src": "menu-photos/mini-cheese-pizza-960.webp",
+        "width": 960,
+        "height": 960
+      },
+      {
+        "src": "menu-photos/mini-cheese-pizza-1200.webp",
+        "width": 1200,
+        "height": 1200
+      }
+    ],
+    "representative": false,
+    "credit": null,
+    "changes": "Resized without upscaling; encoded as WebP. Aspect ratio retained."
+  },
+  {
+    "dish": "Kids Boneless Wings",
+    "original": "original-km4.jpg",
+    "originalWidth": 3016,
+    "originalHeight": 3016,
+    "variants": [
+      {
+        "src": "menu-photos/kids-boneless-wings-480.webp",
+        "width": 480,
+        "height": 480
+      },
+      {
+        "src": "menu-photos/kids-boneless-wings-960.webp",
+        "width": 960,
+        "height": 960
+      },
+      {
+        "src": "menu-photos/kids-boneless-wings-1600.webp",
+        "width": 1600,
+        "height": 1600
+      }
+    ],
+    "representative": false,
+    "credit": null,
+    "changes": "Resized without upscaling; encoded as WebP. Aspect ratio retained."
+  },
+  {
+    "dish": "Mini Corn Dogs",
+    "original": "original-km5.jpg",
+    "originalWidth": 1200,
+    "originalHeight": 900,
+    "variants": [
+      {
+        "src": "menu-photos/mini-corn-dogs-480.webp",
+        "width": 480,
+        "height": 360
+      },
+      {
+        "src": "menu-photos/mini-corn-dogs-960.webp",
+        "width": 960,
+        "height": 720
+      },
+      {
+        "src": "menu-photos/mini-corn-dogs-1200.webp",
+        "width": 1200,
+        "height": 900
+      }
+    ],
+    "representative": false,
+    "credit": null,
+    "changes": "Resized without upscaling; encoded as WebP. Aspect ratio retained."
+  },
+  {
+    "dish": "Kids Alfredo",
+    "original": "original-km6.jpg",
+    "originalWidth": 636,
+    "originalHeight": 424,
+    "variants": [
+      {
+        "src": "menu-photos/kids-alfredo-480.webp",
+        "width": 480,
+        "height": 320
+      },
+      {
+        "src": "menu-photos/kids-alfredo-636.webp",
+        "width": 636,
+        "height": 424
+      }
+    ],
+    "representative": false,
+    "credit": null,
+    "changes": "Resized without upscaling; encoded as WebP. Aspect ratio retained."
+  },
+  {
+    "dish": "Vanilla Milkshake",
+    "original": "original-vanilla-milkshake.jpg",
+    "originalWidth": 1366,
+    "originalHeight": 2048,
+    "variants": [
+      {
+        "src": "menu-photos/vanilla-milkshake-480.webp",
+        "width": 480,
+        "height": 720
+      },
+      {
+        "src": "menu-photos/vanilla-milkshake-960.webp",
+        "width": 960,
+        "height": 1439
+      },
+      {
+        "src": "menu-photos/vanilla-milkshake-1366.webp",
+        "width": 1366,
+        "height": 2048
+      }
+    ],
+    "representative": false,
+    "credit": null,
+    "changes": "Resized without upscaling; encoded as WebP. Aspect ratio retained."
+  },
+  {
+    "dish": "Mango Milkshake",
+    "original": "original-mango-milkshake.avif",
+    "originalWidth": 687,
+    "originalHeight": 1031,
+    "variants": [
+      {
+        "src": "menu-photos/mango-milkshake-480.webp",
+        "width": 480,
+        "height": 720
+      },
+      {
+        "src": "menu-photos/mango-milkshake-687.webp",
+        "width": 687,
+        "height": 1031
+      }
+    ],
+    "representative": false,
+    "credit": null,
+    "changes": "Resized without upscaling; encoded as WebP. Aspect ratio retained."
+  },
+  {
+    "dish": "Chocolate Milkshake",
+    "original": "original-chocolate-milkshake.avif",
+    "originalWidth": 600,
+    "originalHeight": 900,
+    "variants": [
+      {
+        "src": "menu-photos/chocolate-milkshake-480.webp",
+        "width": 480,
+        "height": 720
+      },
+      {
+        "src": "menu-photos/chocolate-milkshake-600.webp",
+        "width": 600,
+        "height": 900
+      }
+    ],
+    "representative": false,
+    "credit": null,
+    "changes": "Resized without upscaling; encoded as WebP. Aspect ratio retained."
+  },
+  {
+    "dish": "Cheesecake",
+    "original": "original-d1.jpg",
+    "originalWidth": 2068,
+    "originalHeight": 1449,
+    "variants": [
+      {
+        "src": "menu-photos/cheesecake-480.webp",
+        "width": 480,
+        "height": 336
+      },
+      {
+        "src": "menu-photos/cheesecake-960.webp",
+        "width": 960,
+        "height": 673
+      },
+      {
+        "src": "menu-photos/cheesecake-1600.webp",
+        "width": 1600,
+        "height": 1121
+      }
+    ],
+    "representative": false,
+    "credit": null,
+    "changes": "Resized without upscaling; encoded as WebP. Aspect ratio retained."
+  },
+  {
+    "dish": "Chocolate Cake",
+    "original": "original-d2.jpg",
+    "originalWidth": 2048,
+    "originalHeight": 1365,
+    "variants": [
+      {
+        "src": "menu-photos/chocolate-cake-480.webp",
+        "width": 480,
+        "height": 320
+      },
+      {
+        "src": "menu-photos/chocolate-cake-960.webp",
+        "width": 960,
+        "height": 640
+      },
+      {
+        "src": "menu-photos/chocolate-cake-1600.webp",
+        "width": 1600,
+        "height": 1066
+      }
+    ],
+    "representative": false,
+    "credit": null,
+    "changes": "Resized without upscaling; encoded as WebP. Aspect ratio retained."
+  },
+  {
+    "dish": "Cookies & Cream Cookie Skillet",
+    "original": "original-d8.jpg",
+    "originalWidth": 2048,
+    "originalHeight": 1282,
+    "variants": [
+      {
+        "src": "menu-photos/cookies-cream-cookie-skillet-480.webp",
+        "width": 480,
+        "height": 300
+      },
+      {
+        "src": "menu-photos/cookies-cream-cookie-skillet-960.webp",
+        "width": 960,
+        "height": 601
+      },
+      {
+        "src": "menu-photos/cookies-cream-cookie-skillet-1600.webp",
+        "width": 1600,
+        "height": 1002
+      }
+    ],
+    "representative": false,
+    "credit": null,
+    "changes": "Resized without upscaling; encoded as WebP. Aspect ratio retained."
+  },
+  {
+    "dish": "Chocolate Chunk Cookie Skillet",
+    "original": "original-d7.jpg",
+    "originalWidth": 2048,
+    "originalHeight": 1367,
+    "variants": [
+      {
+        "src": "menu-photos/chocolate-chunk-cookie-skillet-480.webp",
+        "width": 480,
+        "height": 320
+      },
+      {
+        "src": "menu-photos/chocolate-chunk-cookie-skillet-960.webp",
+        "width": 960,
+        "height": 641
+      },
+      {
+        "src": "menu-photos/chocolate-chunk-cookie-skillet-1600.webp",
+        "width": 1600,
+        "height": 1068
+      }
+    ],
+    "representative": false,
+    "credit": null,
+    "changes": "Resized without upscaling; encoded as WebP. Aspect ratio retained."
+  },
+  {
+    "dish": "Strawberry Shortcake Cookie Sundae",
+    "original": "original-strawberry-shortcake-cookie-skillet.jpg",
+    "originalWidth": 928,
+    "originalHeight": 1232,
+    "variants": [
+      {
+        "src": "menu-photos/strawberry-shortcake-cookie-sundae-480.webp",
+        "width": 480,
+        "height": 637
+      },
+      {
+        "src": "menu-photos/strawberry-shortcake-cookie-sundae-928.webp",
+        "width": 928,
+        "height": 1232
+      }
+    ],
+    "representative": false,
+    "credit": null,
+    "changes": "Resized without upscaling; encoded as WebP. Aspect ratio retained."
+  },
+  {
+    "dish": "Triple Chocolate Cookie Sundae",
+    "original": "original-triple-chocolate-cookie-skillet.jpg",
+    "originalWidth": 1200,
+    "originalHeight": 1800,
+    "variants": [
+      {
+        "src": "menu-photos/triple-chocolate-cookie-sundae-480.webp",
+        "width": 480,
+        "height": 720
+      },
+      {
+        "src": "menu-photos/triple-chocolate-cookie-sundae-960.webp",
+        "width": 960,
+        "height": 1440
+      },
+      {
+        "src": "menu-photos/triple-chocolate-cookie-sundae-1200.webp",
+        "width": 1200,
+        "height": 1800
+      }
+    ],
+    "representative": false,
+    "credit": null,
+    "changes": "Resized without upscaling; encoded as WebP. Aspect ratio retained."
+  },
+  {
+    "dish": "Cookie Trio Skillet",
+    "original": "original-cookie-skillet-trio.jpg",
+    "originalWidth": 800,
+    "originalHeight": 800,
+    "variants": [
+      {
+        "src": "menu-photos/cookie-trio-skillet-480.webp",
+        "width": 480,
+        "height": 480
+      },
+      {
+        "src": "menu-photos/cookie-trio-skillet-800.webp",
+        "width": 800,
+        "height": 800
+      }
+    ],
+    "representative": false,
+    "credit": null,
+    "changes": "Resized without upscaling; encoded as WebP. Aspect ratio retained."
+  },
+  {
+    "dish": "Honey Sriracha Chicken Biscuit",
+    "original": "menu-photo-sources/honey-sriracha-chicken-biscuit.jpg",
+    "originalWidth": 1280,
+    "originalHeight": 1600,
+    "variants": [
+      {
+        "src": "menu-photos/honey-sriracha-chicken-biscuit-480.webp",
+        "width": 480,
+        "height": 600
+      },
+      {
+        "src": "menu-photos/honey-sriracha-chicken-biscuit-960.webp",
+        "width": 960,
+        "height": 1200
+      },
+      {
+        "src": "menu-photos/honey-sriracha-chicken-biscuit-1280.webp",
+        "width": 1280,
+        "height": 1600
+      }
+    ],
+    "representative": true,
+    "credit": {
+      "author": "CalebJay",
+      "source": "https://commons.wikimedia.org/wiki/File:North_Carolina_Style_Southern_Fried_Chicken_Biscuit_Sandwich.jpg",
+      "title": "North Carolina Style Southern Fried Chicken Biscuit Sandwich.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+    },
+    "changes": "Resized without upscaling; encoded as WebP. Aspect ratio retained."
+  },
+  {
+    "dish": "Biscuits & Gravy",
+    "original": "menu-photo-sources/biscuits-gravy.jpg",
+    "originalWidth": 1280,
+    "originalHeight": 1707,
+    "variants": [
+      {
+        "src": "menu-photos/biscuits-gravy-480.webp",
+        "width": 480,
+        "height": 640
+      },
+      {
+        "src": "menu-photos/biscuits-gravy-960.webp",
+        "width": 960,
+        "height": 1280
+      },
+      {
+        "src": "menu-photos/biscuits-gravy-1280.webp",
+        "width": 1280,
+        "height": 1707
+      }
+    ],
+    "representative": true,
+    "credit": {
+      "author": "Elvenjewel777",
+      "source": "https://commons.wikimedia.org/wiki/File:Biscuits_and_gravy_grits.jpg",
+      "title": "Biscuits and gravy grits.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+    },
+    "changes": "Resized without upscaling; encoded as WebP. Aspect ratio retained."
+  },
+  {
+    "dish": "Chicken & Waffle",
+    "original": "menu-photo-sources/chicken-waffle.jpg",
+    "originalWidth": 1280,
+    "originalHeight": 960,
+    "variants": [
+      {
+        "src": "menu-photos/chicken-waffle-480.webp",
+        "width": 480,
+        "height": 360
+      },
+      {
+        "src": "menu-photos/chicken-waffle-960.webp",
+        "width": 960,
+        "height": 720
+      },
+      {
+        "src": "menu-photos/chicken-waffle-1280.webp",
+        "width": 1280,
+        "height": 960
+      }
+    ],
+    "representative": true,
+    "credit": {
+      "author": "Andy Li",
+      "source": "https://commons.wikimedia.org/wiki/File:Fried_Chicken,_Bacon_%26_Waffles_-_The_Breakfast_Club_2023-09-03.jpg",
+      "title": "Fried Chicken, Bacon & Waffles - The Breakfast Club 2023-09-03.jpg",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en"
+    },
+    "changes": "Resized without upscaling; encoded as WebP. Aspect ratio retained."
+  },
+  {
+    "dish": "Shrimp & Grits",
+    "original": "menu-photo-sources/shrimp-grits.jpg",
+    "originalWidth": 1280,
+    "originalHeight": 850,
+    "variants": [
+      {
+        "src": "menu-photos/shrimp-grits-480.webp",
+        "width": 480,
+        "height": 319
+      },
+      {
+        "src": "menu-photos/shrimp-grits-960.webp",
+        "width": 960,
+        "height": 638
+      },
+      {
+        "src": "menu-photos/shrimp-grits-1280.webp",
+        "width": 1280,
+        "height": 850
+      }
+    ],
+    "representative": true,
+    "credit": {
+      "author": "vxla",
+      "source": "https://commons.wikimedia.org/wiki/File:Shrimp_and_Grits_at_L%C3%BCke_Restaurant.jpg",
+      "title": "Shrimp and Grits at Lüke Restaurant.jpg",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0"
+    },
+    "changes": "Resized without upscaling; encoded as WebP. Aspect ratio retained."
+  },
+  {
+    "dish": "Country Boy Waffle",
+    "original": "menu-photo-sources/country-boy-waffle.jpg",
+    "originalWidth": 1280,
+    "originalHeight": 964,
+    "variants": [
+      {
+        "src": "menu-photos/country-boy-waffle-480.webp",
+        "width": 480,
+        "height": 362
+      },
+      {
+        "src": "menu-photos/country-boy-waffle-960.webp",
+        "width": 960,
+        "height": 723
+      },
+      {
+        "src": "menu-photos/country-boy-waffle-1280.webp",
+        "width": 1280,
+        "height": 964
+      }
+    ],
+    "representative": true,
+    "credit": {
+      "author": "Andy Li",
+      "source": "https://commons.wikimedia.org/wiki/File:Egg_%26_bacon_and_Belgian_waffles_-_Brewhouse_%26_Kitchen_2026-04-14.jpg",
+      "title": "Egg & bacon and Belgian waffles - Brewhouse & Kitchen 2026-04-14.jpg",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en"
+    },
+    "changes": "Resized without upscaling; encoded as WebP. Aspect ratio retained."
+  }
+]

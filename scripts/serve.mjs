@@ -1,7 +1,7 @@
 import { createServer } from 'node:http';
 import { readFile } from 'node:fs/promises';
 import { resolve, extname, sep } from 'node:path';
-const root = resolve(new URL('../dist', import.meta.url).pathname);
+const root = resolve(new URL('../vjs-website', import.meta.url).pathname);
 const port = Number(process.env.PORT || 3000);
 const types = {'.html':'text/html; charset=utf-8','.css':'text/css; charset=utf-8','.js':'text/javascript; charset=utf-8','.json':'application/json; charset=utf-8','.webp':'image/webp','.png':'image/png','.jpg':'image/jpeg','.jpeg':'image/jpeg','.pdf':'application/pdf','.svg':'image/svg+xml','.avif':'image/avif','.woff2':'font/woff2'};
 createServer(async (req, res) => {
