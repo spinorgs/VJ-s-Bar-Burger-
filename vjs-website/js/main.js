@@ -420,31 +420,31 @@ const MENU_ITEMS = [
     "name": "Bacon Cheese Burger",
     "price": 16,
     "description": "Smoked Gouda, onion rings, bacon & BBQ sauce.",
-    "image": "menu-photos/bacon-cheese-burger-960.webp",
+    "image": "bacon-burger-light-bbq-960.webp",
     "tags": [],
     "featured": true,
-    "detailImage": "menu-photos/bacon-cheese-burger-1600.webp",
-    "representative": false,
+    "detailImage": "bacon-burger-light-bbq-1536.webp",
+    "representative": true,
     "imageVariants": [
       {
-        "src": "menu-photos/bacon-cheese-burger-480.webp",
+        "src": "bacon-burger-light-bbq-480.webp",
         "width": 480,
         "height": 320
       },
       {
-        "src": "menu-photos/bacon-cheese-burger-960.webp",
+        "src": "bacon-burger-light-bbq-960.webp",
         "width": 960,
         "height": 640
       },
       {
-        "src": "menu-photos/bacon-cheese-burger-1600.webp",
-        "width": 1600,
-        "height": 1066
+        "src": "bacon-burger-light-bbq-1536.webp",
+        "width": 1536,
+        "height": 1024
       }
     ],
     "imageFit": "cover",
-    "imageAlt": "Bacon Cheese Burger",
-    "photoOriginal": "original-burger3.jpg"
+    "imageAlt": "Illustrative Bacon Cheese Burger with crisp bacon, onion rings and a light BBQ glaze",
+    "photoOriginal": "bacon-burger-light-bbq-1536.webp"
   },
   {
     "category": "burgers",

@@ -321,29 +321,29 @@
   },
   {
     "dish": "Bacon Cheese Burger",
-    "original": "original-burger3.jpg",
-    "originalWidth": 2048,
-    "originalHeight": 1365,
+    "original": "bacon-burger-light-bbq-1536.webp",
+    "originalWidth": 1536,
+    "originalHeight": 1024,
     "variants": [
       {
-        "src": "menu-photos/bacon-cheese-burger-480.webp",
+        "src": "bacon-burger-light-bbq-480.webp",
         "width": 480,
         "height": 320
       },
       {
-        "src": "menu-photos/bacon-cheese-burger-960.webp",
+        "src": "bacon-burger-light-bbq-960.webp",
         "width": 960,
         "height": 640
       },
       {
-        "src": "menu-photos/bacon-cheese-burger-1600.webp",
-        "width": 1600,
-        "height": 1066
+        "src": "bacon-burger-light-bbq-1536.webp",
+        "width": 1536,
+        "height": 1024
       }
     ],
-    "representative": false,
+    "representative": true,
     "credit": null,
-    "changes": "Resized without upscaling; encoded as WebP. Aspect ratio retained."
+    "changes": "AI-edited illustrative image using built-in imagegen: replace thick red sauce with a light brown BBQ glaze; make crispy bacon and golden onion rings recognizable; preserve burger, plate, pickles and warm photography."
   },
   {
     "dish": "Avocado Mushroom Burger",
