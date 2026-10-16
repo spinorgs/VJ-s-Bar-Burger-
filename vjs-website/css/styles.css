@@ -147,24 +147,25 @@ body{line-height:1.6}h1,h2,h3{letter-spacing:-.025em}h1,h2{font-weight:800}h2{fo
 .menu-tools label{font-size:.85rem}
 @media(min-width:1080px){#main-nav>a,#main-nav .nav-menu>a{font-size:.85rem}}
 
-/* Keep the complete burger visible instead of enlarging a landscape photo to
+/* Keep every carousel dish fully visible instead of enlarging a landscape photo to
    cover a tall banner. Copy and photography get separate space on small screens. */
-.slide-burger{background:#1c1510;height:auto;min-height:794px;padding-bottom:374px}
-.slide-burger .hero-content{padding-top:36px;padding-bottom:24px}
-.slide-burger .hero-photo{inset:auto 0 110px;width:100%;height:260px;object-fit:contain;object-position:center}
-.slide-burger .hero-shade{display:none}
-.slide-burger .hero-description{margin-bottom:20px}
-.slide-burger .hero-offer{margin-bottom:20px}
+.slide-feature{background:#1c1510;height:auto;min-height:794px;padding-bottom:374px}
+.slide-feature .hero-content{padding-top:36px;padding-bottom:24px}
+.slide-feature .hero-photo{inset:auto 0 110px;width:100%;height:260px;object-fit:contain;object-position:center}
+.slide-feature .hero-shade{display:none}
+.slide-feature .hero-description{margin-bottom:20px}
+.slide-feature .hero-offer{margin-bottom:20px}
 .hero-image-note{position:absolute;right:20px;bottom:94px;font-size:.65rem;color:#d9cbbd;background:#1c1510;padding:2px 6px}
 @media(min-width:640px) and (max-width:799px){
-  .slide-burger{min-height:834px;padding-bottom:434px}
-  .slide-burger .hero-photo{height:340px}
+  .slide-feature{min-height:834px;padding-bottom:434px}
+  .slide-feature .hero-photo{height:340px}
 }
 @media(min-width:800px){
-  .slide-burger{height:570px;min-height:570px;padding-bottom:0}
-  .slide-burger .hero-photo{inset:0 0 0 auto;width:56%;height:100%;object-fit:contain;object-position:center}
-  .slide-burger .hero-content{padding-top:70px;padding-bottom:100px}
-  .slide-burger .hero-content>*{max-width:42%}
-  .slide-burger h1{font-size:clamp(2.6rem,4vw,3.7rem)}
-  .slide-burger .hero-image-note{bottom:60px;right:24px}
+  .slide-feature{height:570px;min-height:570px;padding-bottom:0}
+  .slide-feature .hero-photo{inset:0 0 0 auto;width:56%;height:100%;object-fit:contain;object-position:center}
+  .slide-feature .hero-content{padding-top:70px;padding-bottom:100px}
+  .slide-feature .hero-content>*{max-width:42%}
+  .slide-feature h1{font-size:clamp(2.6rem,4vw,3.7rem)}
+  .slide-feature h2{font-size:clamp(2.1rem,3.6vw,3.5rem)}
+  .slide-feature .hero-image-note{bottom:60px;right:24px}
 }
