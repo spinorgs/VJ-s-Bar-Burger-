@@ -29,21 +29,21 @@ const MENU_ITEMS = [
     "name": "French Fries",
     "price": 4,
     "description": "Crisp, golden fries.",
-    "image": "menu-photos/french-fries-600.webp",
+    "image": "menu-photos/french-fries-hq-600.webp",
     "tags": [
       "V"
     ],
     "featured": false,
-    "detailImage": "menu-photos/french-fries-600.webp",
+    "detailImage": "menu-photos/french-fries-hq-600.webp",
     "representative": false,
     "imageVariants": [
       {
-        "src": "menu-photos/french-fries-480.webp",
+        "src": "menu-photos/french-fries-hq-480.webp",
         "width": 480,
         "height": 720
       },
       {
-        "src": "menu-photos/french-fries-600.webp",
+        "src": "menu-photos/french-fries-hq-600.webp",
         "width": 600,
         "height": 900
       }
@@ -57,24 +57,24 @@ const MENU_ITEMS = [
     "name": "Baked Potato",
     "price": 5,
     "description": "Warm with butter and sour cream; add bacon +$3.",
-    "image": "menu-photos/baked-potato-960.webp",
+    "image": "menu-photos/baked-potato-hq-960.webp",
     "tags": [],
     "featured": false,
-    "detailImage": "menu-photos/baked-potato-1066.webp",
+    "detailImage": "menu-photos/baked-potato-hq-1066.webp",
     "representative": false,
     "imageVariants": [
       {
-        "src": "menu-photos/baked-potato-480.webp",
+        "src": "menu-photos/baked-potato-hq-480.webp",
         "width": 480,
         "height": 720
       },
       {
-        "src": "menu-photos/baked-potato-960.webp",
+        "src": "menu-photos/baked-potato-hq-960.webp",
         "width": 960,
         "height": 1441
       },
       {
-        "src": "menu-photos/baked-potato-1066.webp",
+        "src": "menu-photos/baked-potato-hq-1066.webp",
         "width": 1066,
         "height": 1600
       }
@@ -88,24 +88,24 @@ const MENU_ITEMS = [
     "name": "Onion Rings",
     "price": 10,
     "description": "Golden, crispy onion rings.",
-    "image": "menu-photos/onion-rings-612.webp",
+    "image": "menu-photos/onion-rings-hq-612.webp",
     "tags": [],
     "featured": false,
-    "detailImage": "menu-photos/onion-rings-612.webp",
+    "detailImage": "menu-photos/onion-rings-hq-612.webp",
     "representative": false,
     "imageVariants": [
       {
-        "src": "menu-photos/onion-rings-480.webp",
+        "src": "menu-photos/onion-rings-hq-480.webp",
         "width": 480,
         "height": 320
       },
       {
-        "src": "menu-photos/onion-rings-612.webp",
+        "src": "menu-photos/onion-rings-hq-612.webp",
         "width": 612,
         "height": 408
       }
     ],
-    "imageFit": "cover",
+    "imageFit": "contain",
     "imageAlt": "Onion Rings",
     "photoOriginal": "original-onionrings.jpg"
   },
@@ -114,24 +114,24 @@ const MENU_ITEMS = [
     "name": "Fried Mac & Cheese Bites",
     "price": 11,
     "description": "Crispy golden bites filled with creamy macaroni and casein cheese sauce.",
-    "image": "menu-photos/fried-mac-cheese-bites-600.webp",
+    "image": "menu-photos/fried-mac-cheese-bites-hq-600.webp",
     "tags": [],
     "featured": false,
-    "detailImage": "menu-photos/fried-mac-cheese-bites-600.webp",
+    "detailImage": "menu-photos/fried-mac-cheese-bites-hq-600.webp",
     "representative": false,
     "imageVariants": [
       {
-        "src": "menu-photos/fried-mac-cheese-bites-480.webp",
+        "src": "menu-photos/fried-mac-cheese-bites-hq-480.webp",
         "width": 480,
         "height": 333
       },
       {
-        "src": "menu-photos/fried-mac-cheese-bites-600.webp",
+        "src": "menu-photos/fried-mac-cheese-bites-hq-600.webp",
         "width": 600,
         "height": 416
       }
     ],
-    "imageFit": "cover",
+    "imageFit": "contain",
     "imageAlt": "Fried Mac & Cheese Bites",
     "photoOriginal": "original-cheesebites.jpg"
   },
@@ -140,26 +140,26 @@ const MENU_ITEMS = [
     "name": "Chips & Housemade Guacamole",
     "price": 11,
     "description": "House chips with fresh guacamole.",
-    "image": "menu-photos/chips-housemade-guacamole-612.webp",
+    "image": "menu-photos/chips-housemade-guacamole-hq-612.webp",
     "tags": [
       "V"
     ],
     "featured": false,
-    "detailImage": "menu-photos/chips-housemade-guacamole-612.webp",
+    "detailImage": "menu-photos/chips-housemade-guacamole-hq-612.webp",
     "representative": false,
     "imageVariants": [
       {
-        "src": "menu-photos/chips-housemade-guacamole-480.webp",
+        "src": "menu-photos/chips-housemade-guacamole-hq-480.webp",
         "width": 480,
         "height": 320
       },
       {
-        "src": "menu-photos/chips-housemade-guacamole-612.webp",
+        "src": "menu-photos/chips-housemade-guacamole-hq-612.webp",
         "width": 612,
         "height": 408
       }
     ],
-    "imageFit": "cover",
+    "imageFit": "contain",
     "imageAlt": "Chips & Housemade Guacamole",
     "photoOriginal": "original-chips.jpg"
   },
@@ -168,19 +168,19 @@ const MENU_ITEMS = [
     "name": "Boneless Wings",
     "price": 15,
     "description": "Eight wings; choose lemon pepper, BBQ, Buffalo, honey Sriracha or garlic butter.",
-    "image": "menu-photos/boneless-wings-600.webp",
+    "image": "menu-photos/boneless-wings-hq-600.webp",
     "tags": [],
     "featured": false,
-    "detailImage": "menu-photos/boneless-wings-600.webp",
+    "detailImage": "menu-photos/boneless-wings-hq-600.webp",
     "representative": false,
     "imageVariants": [
       {
-        "src": "menu-photos/boneless-wings-480.webp",
+        "src": "menu-photos/boneless-wings-hq-480.webp",
         "width": 480,
         "height": 640
       },
       {
-        "src": "menu-photos/boneless-wings-600.webp",
+        "src": "menu-photos/boneless-wings-hq-600.webp",
         "width": 600,
         "height": 800
       }
@@ -194,24 +194,24 @@ const MENU_ITEMS = [
     "name": "Bone-In Wings",
     "price": 16,
     "description": "Eight wings, your choice of five sauces.",
-    "image": "menu-photos/bone-in-wings-600.webp",
+    "image": "menu-photos/bone-in-wings-hq-600.webp",
     "tags": [],
     "featured": true,
-    "detailImage": "menu-photos/bone-in-wings-600.webp",
+    "detailImage": "menu-photos/bone-in-wings-hq-600.webp",
     "representative": false,
     "imageVariants": [
       {
-        "src": "menu-photos/bone-in-wings-480.webp",
+        "src": "menu-photos/bone-in-wings-hq-480.webp",
         "width": 480,
         "height": 320
       },
       {
-        "src": "menu-photos/bone-in-wings-600.webp",
+        "src": "menu-photos/bone-in-wings-hq-600.webp",
         "width": 600,
         "height": 400
       }
     ],
-    "imageFit": "cover",
+    "imageFit": "contain",
     "imageAlt": "Bone-In Wings",
     "photoOriginal": "original-boneinwings.jpg"
   },
@@ -220,10 +220,10 @@ const MENU_ITEMS = [
     "name": "VJ's Signature Sampler",
     "price": 22,
     "description": "A shareable assortment of house starters.",
-    "image": "menu-photos/vj-s-signature-sampler-960.webp",
+    "image": "menu-photos/vj-s-signature-sampler-hq-960.webp",
     "tags": [],
     "featured": false,
-    "detailImage": "menu-photos/vj-s-signature-sampler-1280.webp",
+    "detailImage": "menu-photos/vj-s-signature-sampler-hq-1280.webp",
     "representative": true,
     "photoCredit": {
       "author": "Famartin",
@@ -234,22 +234,22 @@ const MENU_ITEMS = [
     },
     "imageVariants": [
       {
-        "src": "menu-photos/vj-s-signature-sampler-480.webp",
+        "src": "menu-photos/vj-s-signature-sampler-hq-480.webp",
         "width": 480,
-        "height": 266
+        "height": 360
       },
       {
-        "src": "menu-photos/vj-s-signature-sampler-960.webp",
+        "src": "menu-photos/vj-s-signature-sampler-hq-960.webp",
         "width": 960,
-        "height": 532
+        "height": 720
       },
       {
-        "src": "menu-photos/vj-s-signature-sampler-1280.webp",
+        "src": "menu-photos/vj-s-signature-sampler-hq-1280.webp",
         "width": 1280,
-        "height": 710
+        "height": 960
       }
     ],
-    "imageFit": "cover",
+    "imageFit": "contain",
     "imageAlt": "Representative photo of VJ's Signature Sampler",
     "photoOriginal": "menu-photo-sources/vj-s-signature-sampler.jpg"
   },
@@ -258,29 +258,29 @@ const MENU_ITEMS = [
     "name": "Classic Caesar Salad",
     "price": 12,
     "description": "Romaine, Parmesan and croutons in Caesar dressing.",
-    "image": "menu-photos/classic-caesar-salad-960.webp",
+    "image": "menu-photos/classic-caesar-salad-hq-960.webp",
     "tags": [],
     "featured": false,
-    "detailImage": "menu-photos/classic-caesar-salad-1600.webp",
+    "detailImage": "menu-photos/classic-caesar-salad-hq-1600.webp",
     "representative": false,
     "imageVariants": [
       {
-        "src": "menu-photos/classic-caesar-salad-480.webp",
+        "src": "menu-photos/classic-caesar-salad-hq-480.webp",
         "width": 480,
         "height": 320
       },
       {
-        "src": "menu-photos/classic-caesar-salad-960.webp",
+        "src": "menu-photos/classic-caesar-salad-hq-960.webp",
         "width": 960,
         "height": 640
       },
       {
-        "src": "menu-photos/classic-caesar-salad-1600.webp",
+        "src": "menu-photos/classic-caesar-salad-hq-1600.webp",
         "width": 1600,
         "height": 1067
       }
     ],
-    "imageFit": "cover",
+    "imageFit": "contain",
     "imageAlt": "Classic Caesar Salad",
     "photoOriginal": "original-cessarsalad.jpg"
   },
@@ -289,29 +289,29 @@ const MENU_ITEMS = [
     "name": "Mediterranean Power Salad",
     "price": 14,
     "description": "Greens, feta, tomato, cucumber and red wine vinaigrette.",
-    "image": "menu-photos/mediterranean-power-salad-960.webp",
+    "image": "menu-photos/mediterranean-power-salad-hq-960.webp",
     "tags": [],
     "featured": false,
-    "detailImage": "menu-photos/mediterranean-power-salad-1600.webp",
+    "detailImage": "menu-photos/mediterranean-power-salad-hq-1600.webp",
     "representative": false,
     "imageVariants": [
       {
-        "src": "menu-photos/mediterranean-power-salad-480.webp",
+        "src": "menu-photos/mediterranean-power-salad-hq-480.webp",
         "width": 480,
         "height": 320
       },
       {
-        "src": "menu-photos/mediterranean-power-salad-960.webp",
+        "src": "menu-photos/mediterranean-power-salad-hq-960.webp",
         "width": 960,
         "height": 641
       },
       {
-        "src": "menu-photos/mediterranean-power-salad-1600.webp",
+        "src": "menu-photos/mediterranean-power-salad-hq-1600.webp",
         "width": 1600,
         "height": 1068
       }
     ],
-    "imageFit": "cover",
+    "imageFit": "contain",
     "imageAlt": "Mediterranean Power Salad",
     "photoOriginal": "original-powersalad.jpg"
   },
@@ -320,29 +320,29 @@ const MENU_ITEMS = [
     "name": "Berry & Goat Cheese Salad",
     "price": 15,
     "description": "Berries, walnuts, goat cheese and raspberry vinaigrette.",
-    "image": "menu-photos/berry-goat-cheese-salad-960.webp",
+    "image": "menu-photos/berry-goat-cheese-salad-hq-960.webp",
     "tags": [],
     "featured": false,
-    "detailImage": "menu-photos/berry-goat-cheese-salad-1600.webp",
+    "detailImage": "menu-photos/berry-goat-cheese-salad-hq-1600.webp",
     "representative": false,
     "imageVariants": [
       {
-        "src": "menu-photos/berry-goat-cheese-salad-480.webp",
+        "src": "menu-photos/berry-goat-cheese-salad-hq-480.webp",
         "width": 480,
         "height": 320
       },
       {
-        "src": "menu-photos/berry-goat-cheese-salad-960.webp",
+        "src": "menu-photos/berry-goat-cheese-salad-hq-960.webp",
         "width": 960,
         "height": 640
       },
       {
-        "src": "menu-photos/berry-goat-cheese-salad-1600.webp",
+        "src": "menu-photos/berry-goat-cheese-salad-hq-1600.webp",
         "width": 1600,
         "height": 1066
       }
     ],
-    "imageFit": "cover",
+    "imageFit": "contain",
     "imageAlt": "Berry & Goat Cheese Salad",
     "photoOriginal": "original-berrysalad.jpg"
   },
@@ -351,29 +351,29 @@ const MENU_ITEMS = [
     "name": "Classic Hamburger",
     "price": 13,
     "description": "Juicy, handmade half-pound beef patty with lettuce, tomato, onion and pickles.",
-    "image": "menu-photos/classic-hamburger-960.webp",
+    "image": "menu-photos/classic-hamburger-hq-960.webp",
     "tags": [],
     "featured": false,
-    "detailImage": "menu-photos/classic-hamburger-1920.webp",
+    "detailImage": "menu-photos/classic-hamburger-hq-1920.webp",
     "representative": true,
     "imageVariants": [
       {
-        "src": "menu-photos/classic-hamburger-480.webp",
+        "src": "menu-photos/classic-hamburger-hq-480.webp",
         "width": 480,
         "height": 312
       },
       {
-        "src": "menu-photos/classic-hamburger-960.webp",
+        "src": "menu-photos/classic-hamburger-hq-960.webp",
         "width": 960,
         "height": 624
       },
       {
-        "src": "menu-photos/classic-hamburger-1920.webp",
+        "src": "menu-photos/classic-hamburger-hq-1920.webp",
         "width": 1920,
         "height": 1247
       }
     ],
-    "imageFit": "cover",
+    "imageFit": "contain",
     "imageAlt": "Representative photo of Classic Hamburger",
     "photoOriginal": "menu-photo-sources/classic-hamburger.jpg",
     "photoCredit": {
@@ -389,29 +389,29 @@ const MENU_ITEMS = [
     "name": "Western Chicken Burger",
     "price": 16,
     "description": "Juicy chicken breast with mayo, BBQ, bacon, onion rings, smoked Gouda, lettuce and tomatoes.",
-    "image": "menu-photos/western-chicken-burger-960.webp",
+    "image": "menu-photos/western-chicken-burger-hq-960.webp",
     "tags": [],
     "featured": false,
-    "detailImage": "menu-photos/western-chicken-burger-1600.webp",
+    "detailImage": "menu-photos/western-chicken-burger-hq-1600.webp",
     "representative": false,
     "imageVariants": [
       {
-        "src": "menu-photos/western-chicken-burger-480.webp",
+        "src": "menu-photos/western-chicken-burger-hq-480.webp",
         "width": 480,
         "height": 417
       },
       {
-        "src": "menu-photos/western-chicken-burger-960.webp",
+        "src": "menu-photos/western-chicken-burger-hq-960.webp",
         "width": 960,
         "height": 834
       },
       {
-        "src": "menu-photos/western-chicken-burger-1600.webp",
+        "src": "menu-photos/western-chicken-burger-hq-1600.webp",
         "width": 1600,
         "height": 1391
       }
     ],
-    "imageFit": "cover",
+    "imageFit": "contain",
     "imageAlt": "Western Chicken Burger",
     "photoOriginal": "original-burger7.jpg"
   },
@@ -420,29 +420,29 @@ const MENU_ITEMS = [
     "name": "Bacon Cheese Burger",
     "price": 16,
     "description": "Smoked Gouda, onion rings, bacon & BBQ sauce.",
-    "image": "bacon-burger-light-bbq-960.webp",
+    "image": "menu-photos/bacon-cheese-burger-hq-960.webp",
     "tags": [],
     "featured": true,
-    "detailImage": "bacon-burger-light-bbq-1536.webp",
+    "detailImage": "menu-photos/bacon-cheese-burger-hq-1536.webp",
     "representative": true,
     "imageVariants": [
       {
-        "src": "bacon-burger-light-bbq-480.webp",
+        "src": "menu-photos/bacon-cheese-burger-hq-480.webp",
         "width": 480,
         "height": 320
       },
       {
-        "src": "bacon-burger-light-bbq-960.webp",
+        "src": "menu-photos/bacon-cheese-burger-hq-960.webp",
         "width": 960,
         "height": 640
       },
       {
-        "src": "bacon-burger-light-bbq-1536.webp",
+        "src": "menu-photos/bacon-cheese-burger-hq-1536.webp",
         "width": 1536,
         "height": 1024
       }
     ],
-    "imageFit": "cover",
+    "imageFit": "contain",
     "imageAlt": "Illustrative Bacon Cheese Burger with crisp bacon, onion rings and a light BBQ glaze",
     "photoOriginal": "bacon-burger-light-bbq-1536.webp"
   },
@@ -451,24 +451,24 @@ const MENU_ITEMS = [
     "name": "Avocado Mushroom Burger",
     "price": 17,
     "description": "Juicy, handmade half-pound beef patty with avocado, mushrooms, Swiss cheese and mayo.",
-    "image": "menu-photos/avocado-mushroom-burger-630.webp",
+    "image": "menu-photos/avocado-mushroom-burger-hq-630.webp",
     "tags": [],
     "featured": false,
-    "detailImage": "menu-photos/avocado-mushroom-burger-630.webp",
+    "detailImage": "menu-photos/avocado-mushroom-burger-hq-630.webp",
     "representative": false,
     "imageVariants": [
       {
-        "src": "menu-photos/avocado-mushroom-burger-480.webp",
+        "src": "menu-photos/avocado-mushroom-burger-hq-480.webp",
         "width": 480,
         "height": 258
       },
       {
-        "src": "menu-photos/avocado-mushroom-burger-630.webp",
+        "src": "menu-photos/avocado-mushroom-burger-hq-630.webp",
         "width": 630,
         "height": 339
       }
     ],
-    "imageFit": "cover",
+    "imageFit": "contain",
     "imageAlt": "Avocado Mushroom Burger",
     "photoOriginal": "original-burger5.jpg"
   },
@@ -477,29 +477,29 @@ const MENU_ITEMS = [
     "name": "Double Cheese Burger",
     "price": 17,
     "description": "Half pound of juicy, handmade beef in two patties with American cheese and classic toppings.",
-    "image": "menu-photos/double-cheese-burger-960.webp",
+    "image": "menu-photos/double-cheese-burger-hq-960.webp",
     "tags": [],
     "featured": false,
-    "detailImage": "menu-photos/double-cheese-burger-1600.webp",
+    "detailImage": "menu-photos/double-cheese-burger-hq-1600.webp",
     "representative": false,
     "imageVariants": [
       {
-        "src": "menu-photos/double-cheese-burger-480.webp",
+        "src": "menu-photos/double-cheese-burger-hq-480.webp",
         "width": 480,
         "height": 480
       },
       {
-        "src": "menu-photos/double-cheese-burger-960.webp",
+        "src": "menu-photos/double-cheese-burger-hq-960.webp",
         "width": 960,
         "height": 960
       },
       {
-        "src": "menu-photos/double-cheese-burger-1600.webp",
+        "src": "menu-photos/double-cheese-burger-hq-1600.webp",
         "width": 1600,
         "height": 1601
       }
     ],
-    "imageFit": "cover",
+    "imageFit": "contain",
     "imageAlt": "Double Cheese Burger",
     "photoOriginal": "original-burger4.jpg"
   },
@@ -508,24 +508,24 @@ const MENU_ITEMS = [
     "name": "Big Pappa Burger",
     "price": 18,
     "description": "Juicy, handmade half-pound beef patty with bacon, avocado, pepper jack, fried egg and Thousand Island sauce.",
-    "image": "menu-photos/big-pappa-burger-960.webp",
+    "image": "menu-photos/big-pappa-burger-hq-960.webp",
     "tags": [],
     "featured": false,
-    "detailImage": "menu-photos/big-pappa-burger-1600.webp",
+    "detailImage": "menu-photos/big-pappa-burger-hq-1600.webp",
     "representative": false,
     "imageVariants": [
       {
-        "src": "menu-photos/big-pappa-burger-480.webp",
+        "src": "menu-photos/big-pappa-burger-hq-480.webp",
         "width": 480,
         "height": 720
       },
       {
-        "src": "menu-photos/big-pappa-burger-960.webp",
+        "src": "menu-photos/big-pappa-burger-hq-960.webp",
         "width": 960,
         "height": 1440
       },
       {
-        "src": "menu-photos/big-pappa-burger-1600.webp",
+        "src": "menu-photos/big-pappa-burger-hq-1600.webp",
         "width": 1600,
         "height": 2400
       }
@@ -539,10 +539,10 @@ const MENU_ITEMS = [
     "name": "Teriyaki Salmon Burger",
     "price": 18,
     "description": "Seasoned salmon, lettuce, tomato, grilled pineapple finished with teriyaki glaze.",
-    "image": "menu-photos/teriyaki-salmon-burger-960.webp",
+    "image": "menu-photos/teriyaki-salmon-burger-hq-960.webp",
     "tags": [],
     "featured": false,
-    "detailImage": "menu-photos/teriyaki-salmon-burger-1024.webp",
+    "detailImage": "menu-photos/teriyaki-salmon-burger-hq-1024.webp",
     "representative": true,
     "photoCredit": {
       "author": "Kyle Lam",
@@ -553,22 +553,22 @@ const MENU_ITEMS = [
     },
     "imageVariants": [
       {
-        "src": "menu-photos/teriyaki-salmon-burger-480.webp",
+        "src": "menu-photos/teriyaki-salmon-burger-hq-480.webp",
         "width": 480,
         "height": 320
       },
       {
-        "src": "menu-photos/teriyaki-salmon-burger-960.webp",
+        "src": "menu-photos/teriyaki-salmon-burger-hq-960.webp",
         "width": 960,
         "height": 640
       },
       {
-        "src": "menu-photos/teriyaki-salmon-burger-1024.webp",
+        "src": "menu-photos/teriyaki-salmon-burger-hq-1024.webp",
         "width": 1024,
         "height": 683
       }
     ],
-    "imageFit": "cover",
+    "imageFit": "contain",
     "imageAlt": "Representative photo of Teriyaki Salmon Burger",
     "photoOriginal": "menu-photo-sources/teriyaki-salmon-burger.jpg"
   },
@@ -577,29 +577,29 @@ const MENU_ITEMS = [
     "name": "Chicken Club Sandwich",
     "price": 16,
     "description": "Toasted sourdough, chicken, bacon, lettuce and tomato.",
-    "image": "menu-photos/chicken-club-sandwich-960.webp",
+    "image": "menu-photos/chicken-club-sandwich-hq-960.webp",
     "tags": [],
     "featured": false,
-    "detailImage": "menu-photos/chicken-club-sandwich-1600.webp",
+    "detailImage": "menu-photos/chicken-club-sandwich-hq-1600.webp",
     "representative": false,
     "imageVariants": [
       {
-        "src": "menu-photos/chicken-club-sandwich-480.webp",
+        "src": "menu-photos/chicken-club-sandwich-hq-480.webp",
         "width": 480,
         "height": 320
       },
       {
-        "src": "menu-photos/chicken-club-sandwich-960.webp",
+        "src": "menu-photos/chicken-club-sandwich-hq-960.webp",
         "width": 960,
         "height": 640
       },
       {
-        "src": "menu-photos/chicken-club-sandwich-1600.webp",
+        "src": "menu-photos/chicken-club-sandwich-hq-1600.webp",
         "width": 1600,
         "height": 1067
       }
     ],
-    "imageFit": "cover",
+    "imageFit": "contain",
     "imageAlt": "Chicken Club Sandwich",
     "photoOriginal": "original-chicken-club-sandwich.jpg"
   },
@@ -608,29 +608,29 @@ const MENU_ITEMS = [
     "name": "Fish Sandwich",
     "price": 16,
     "description": "Toasted sourdough with fish, tartar sauce, lettuce and tomato.",
-    "image": "menu-photos/fish-sandwich-960.webp",
+    "image": "menu-photos/fish-sandwich-hq-960.webp",
     "tags": [],
     "featured": false,
-    "detailImage": "menu-photos/fish-sandwich-1600.webp",
+    "detailImage": "menu-photos/fish-sandwich-hq-1600.webp",
     "representative": false,
     "imageVariants": [
       {
-        "src": "menu-photos/fish-sandwich-480.webp",
+        "src": "menu-photos/fish-sandwich-hq-480.webp",
         "width": 480,
         "height": 320
       },
       {
-        "src": "menu-photos/fish-sandwich-960.webp",
+        "src": "menu-photos/fish-sandwich-hq-960.webp",
         "width": 960,
         "height": 640
       },
       {
-        "src": "menu-photos/fish-sandwich-1600.webp",
+        "src": "menu-photos/fish-sandwich-hq-1600.webp",
         "width": 1600,
         "height": 1067
       }
     ],
-    "imageFit": "cover",
+    "imageFit": "contain",
     "imageAlt": "Fish Sandwich",
     "photoOriginal": "original-fish-sandwich-2.jpg"
   },
@@ -639,19 +639,19 @@ const MENU_ITEMS = [
     "name": "Santa Fe Chicken Sandwich",
     "price": 17,
     "description": "Sourdough, chipotle aioli, guacamole, peppers and jalapeño.",
-    "image": "menu-photos/santa-fe-chicken-sandwich-600.webp",
+    "image": "menu-photos/santa-fe-chicken-sandwich-hq-600.webp",
     "tags": [],
     "featured": false,
-    "detailImage": "menu-photos/santa-fe-chicken-sandwich-600.webp",
+    "detailImage": "menu-photos/santa-fe-chicken-sandwich-hq-600.webp",
     "representative": false,
     "imageVariants": [
       {
-        "src": "menu-photos/santa-fe-chicken-sandwich-480.webp",
+        "src": "menu-photos/santa-fe-chicken-sandwich-hq-480.webp",
         "width": 480,
         "height": 720
       },
       {
-        "src": "menu-photos/santa-fe-chicken-sandwich-600.webp",
+        "src": "menu-photos/santa-fe-chicken-sandwich-hq-600.webp",
         "width": 600,
         "height": 900
       }
@@ -665,24 +665,24 @@ const MENU_ITEMS = [
     "name": "Chicken Kebab",
     "price": 18,
     "description": "Choose BBQ, Nashville hot or pineapple teriyaki with vegetables.",
-    "image": "menu-photos/chicken-kebab-960.webp",
+    "image": "menu-photos/chicken-kebab-hq-960.webp",
     "tags": [],
     "featured": false,
-    "detailImage": "menu-photos/chicken-kebab-1500.webp",
+    "detailImage": "menu-photos/chicken-kebab-hq-1500.webp",
     "representative": false,
     "imageVariants": [
       {
-        "src": "menu-photos/chicken-kebab-480.webp",
+        "src": "menu-photos/chicken-kebab-hq-480.webp",
         "width": 480,
         "height": 640
       },
       {
-        "src": "menu-photos/chicken-kebab-960.webp",
+        "src": "menu-photos/chicken-kebab-hq-960.webp",
         "width": 960,
         "height": 1280
       },
       {
-        "src": "menu-photos/chicken-kebab-1500.webp",
+        "src": "menu-photos/chicken-kebab-hq-1500.webp",
         "width": 1500,
         "height": 2000
       }
@@ -696,24 +696,24 @@ const MENU_ITEMS = [
     "name": "Garlic Parmesan Steak Kebab",
     "price": 20,
     "description": "Marinated steak, garlic Parmesan and sautéed vegetables.",
-    "image": "menu-photos/garlic-parmesan-steak-kebab-960.webp",
+    "image": "menu-photos/garlic-parmesan-steak-kebab-hq-960.webp",
     "tags": [],
     "featured": false,
-    "detailImage": "menu-photos/garlic-parmesan-steak-kebab-1600.webp",
+    "detailImage": "menu-photos/garlic-parmesan-steak-kebab-hq-1600.webp",
     "representative": false,
     "imageVariants": [
       {
-        "src": "menu-photos/garlic-parmesan-steak-kebab-480.webp",
+        "src": "menu-photos/garlic-parmesan-steak-kebab-hq-480.webp",
         "width": 480,
         "height": 719
       },
       {
-        "src": "menu-photos/garlic-parmesan-steak-kebab-960.webp",
+        "src": "menu-photos/garlic-parmesan-steak-kebab-hq-960.webp",
         "width": 960,
         "height": 1437
       },
       {
-        "src": "menu-photos/garlic-parmesan-steak-kebab-1600.webp",
+        "src": "menu-photos/garlic-parmesan-steak-kebab-hq-1600.webp",
         "width": 1600,
         "height": 2395
       }
@@ -727,29 +727,29 @@ const MENU_ITEMS = [
     "name": "Steakhouse Beef Kebab",
     "price": 20,
     "description": "Steak skewer with peppers, onions and mushrooms.",
-    "image": "menu-photos/steakhouse-beef-kebab-960.webp",
+    "image": "menu-photos/steakhouse-beef-kebab-hq-960.webp",
     "tags": [],
     "featured": false,
-    "detailImage": "menu-photos/steakhouse-beef-kebab-1600.webp",
+    "detailImage": "menu-photos/steakhouse-beef-kebab-hq-1600.webp",
     "representative": false,
     "imageVariants": [
       {
-        "src": "menu-photos/steakhouse-beef-kebab-480.webp",
+        "src": "menu-photos/steakhouse-beef-kebab-hq-480.webp",
         "width": 480,
         "height": 320
       },
       {
-        "src": "menu-photos/steakhouse-beef-kebab-960.webp",
+        "src": "menu-photos/steakhouse-beef-kebab-hq-960.webp",
         "width": 960,
         "height": 640
       },
       {
-        "src": "menu-photos/steakhouse-beef-kebab-1600.webp",
+        "src": "menu-photos/steakhouse-beef-kebab-hq-1600.webp",
         "width": 1600,
         "height": 1066
       }
     ],
-    "imageFit": "cover",
+    "imageFit": "contain",
     "imageAlt": "Steakhouse Beef Kebab",
     "photoOriginal": "original-charcola.jpg"
   },
@@ -758,10 +758,10 @@ const MENU_ITEMS = [
     "name": "Mediterranean Lamb Kebab",
     "price": 20,
     "description": "Grilled lamb skewer with vegetables.",
-    "image": "menu-photos/mediterranean-lamb-kebab-960.webp",
+    "image": "menu-photos/mediterranean-lamb-kebab-hq-960.webp",
     "tags": [],
     "featured": false,
-    "detailImage": "menu-photos/mediterranean-lamb-kebab-1280.webp",
+    "detailImage": "menu-photos/mediterranean-lamb-kebab-hq-1280.webp",
     "representative": true,
     "photoCredit": {
       "author": "Maksym Kozlenko",
@@ -772,22 +772,22 @@ const MENU_ITEMS = [
     },
     "imageVariants": [
       {
-        "src": "menu-photos/mediterranean-lamb-kebab-480.webp",
+        "src": "menu-photos/mediterranean-lamb-kebab-hq-480.webp",
         "width": 480,
         "height": 360
       },
       {
-        "src": "menu-photos/mediterranean-lamb-kebab-960.webp",
+        "src": "menu-photos/mediterranean-lamb-kebab-hq-960.webp",
         "width": 960,
         "height": 720
       },
       {
-        "src": "menu-photos/mediterranean-lamb-kebab-1280.webp",
+        "src": "menu-photos/mediterranean-lamb-kebab-hq-1280.webp",
         "width": 1280,
         "height": 960
       }
     ],
-    "imageFit": "cover",
+    "imageFit": "contain",
     "imageAlt": "Representative photo of Mediterranean Lamb Kebab",
     "photoOriginal": "menu-photo-sources/mediterranean-lamb-kebab.jpg"
   },
@@ -796,10 +796,10 @@ const MENU_ITEMS = [
     "name": "Mixed Grill Kebab",
     "price": 30,
     "description": "Assorted house kebabs; ask which skewers are included.",
-    "image": "menu-photos/mixed-grill-kebab-960.webp",
+    "image": "menu-photos/mixed-grill-kebab-hq-960.webp",
     "tags": [],
     "featured": false,
-    "detailImage": "menu-photos/mixed-grill-kebab-1280.webp",
+    "detailImage": "menu-photos/mixed-grill-kebab-hq-1280.webp",
     "representative": true,
     "photoCredit": {
       "author": "User:Jpatokal",
@@ -810,22 +810,22 @@ const MENU_ITEMS = [
     },
     "imageVariants": [
       {
-        "src": "menu-photos/mixed-grill-kebab-480.webp",
+        "src": "menu-photos/mixed-grill-kebab-hq-480.webp",
         "width": 480,
         "height": 319
       },
       {
-        "src": "menu-photos/mixed-grill-kebab-960.webp",
+        "src": "menu-photos/mixed-grill-kebab-hq-960.webp",
         "width": 960,
         "height": 638
       },
       {
-        "src": "menu-photos/mixed-grill-kebab-1280.webp",
+        "src": "menu-photos/mixed-grill-kebab-hq-1280.webp",
         "width": 1280,
         "height": 851
       }
     ],
-    "imageFit": "cover",
+    "imageFit": "contain",
     "imageAlt": "Representative photo of Mixed Grill Kebab",
     "photoOriginal": "menu-photo-sources/mixed-grill-kebab.jpg"
   },
@@ -834,29 +834,29 @@ const MENU_ITEMS = [
     "name": "Tri-Tip & Chicken Combo",
     "price": 28,
     "description": "Tri-tip and chicken with your choice of two sides.",
-    "image": "menu-photos/tri-tip-chicken-combo-960.webp",
+    "image": "menu-photos/tri-tip-chicken-combo-hq-960.webp",
     "tags": [],
     "featured": false,
-    "detailImage": "menu-photos/tri-tip-chicken-combo-1600.webp",
+    "detailImage": "menu-photos/tri-tip-chicken-combo-hq-1600.webp",
     "representative": false,
     "imageVariants": [
       {
-        "src": "menu-photos/tri-tip-chicken-combo-480.webp",
+        "src": "menu-photos/tri-tip-chicken-combo-hq-480.webp",
         "width": 480,
         "height": 320
       },
       {
-        "src": "menu-photos/tri-tip-chicken-combo-960.webp",
+        "src": "menu-photos/tri-tip-chicken-combo-hq-960.webp",
         "width": 960,
         "height": 640
       },
       {
-        "src": "menu-photos/tri-tip-chicken-combo-1600.webp",
+        "src": "menu-photos/tri-tip-chicken-combo-hq-1600.webp",
         "width": 1600,
         "height": 1067
       }
     ],
-    "imageFit": "cover",
+    "imageFit": "contain",
     "imageAlt": "Tri-Tip & Chicken Combo",
     "photoOriginal": "original-trichicken.jpg"
   },
@@ -865,29 +865,29 @@ const MENU_ITEMS = [
     "name": "Tri-Tip & Shrimp Combo",
     "price": 29,
     "description": "Tri-tip and shrimp with your choice of two sides.",
-    "image": "menu-photos/tri-tip-shrimp-combo-960.webp",
+    "image": "menu-photos/tri-tip-shrimp-combo-hq-960.webp",
     "tags": [],
     "featured": false,
-    "detailImage": "menu-photos/tri-tip-shrimp-combo-1600.webp",
+    "detailImage": "menu-photos/tri-tip-shrimp-combo-hq-1600.webp",
     "representative": false,
     "imageVariants": [
       {
-        "src": "menu-photos/tri-tip-shrimp-combo-480.webp",
+        "src": "menu-photos/tri-tip-shrimp-combo-hq-480.webp",
         "width": 480,
         "height": 299
       },
       {
-        "src": "menu-photos/tri-tip-shrimp-combo-960.webp",
+        "src": "menu-photos/tri-tip-shrimp-combo-hq-960.webp",
         "width": 960,
         "height": 598
       },
       {
-        "src": "menu-photos/tri-tip-shrimp-combo-1600.webp",
+        "src": "menu-photos/tri-tip-shrimp-combo-hq-1600.webp",
         "width": 1600,
         "height": 997
       }
     ],
-    "imageFit": "cover",
+    "imageFit": "contain",
     "imageAlt": "Tri-Tip & Shrimp Combo",
     "photoOriginal": "original-tritip.jpg"
   },
@@ -896,29 +896,29 @@ const MENU_ITEMS = [
     "name": "Fish & Chips",
     "price": 21,
     "description": "Crispy battered cod with fries.",
-    "image": "menu-photos/fish-chips-960.webp",
+    "image": "menu-photos/fish-chips-hq-960.webp",
     "tags": [],
     "featured": false,
-    "detailImage": "menu-photos/fish-chips-1600.webp",
+    "detailImage": "menu-photos/fish-chips-hq-1600.webp",
     "representative": false,
     "imageVariants": [
       {
-        "src": "menu-photos/fish-chips-480.webp",
+        "src": "menu-photos/fish-chips-hq-480.webp",
         "width": 480,
         "height": 320
       },
       {
-        "src": "menu-photos/fish-chips-960.webp",
+        "src": "menu-photos/fish-chips-hq-960.webp",
         "width": 960,
         "height": 641
       },
       {
-        "src": "menu-photos/fish-chips-1600.webp",
+        "src": "menu-photos/fish-chips-hq-1600.webp",
         "width": 1600,
         "height": 1068
       }
     ],
-    "imageFit": "cover",
+    "imageFit": "contain",
     "imageAlt": "Fish & Chips",
     "photoOriginal": "original-fishchips.jpg"
   },
@@ -927,29 +927,29 @@ const MENU_ITEMS = [
     "name": "Chicken Alfredo",
     "price": 22,
     "description": "Chicken over creamy Alfredo noodles with broccoli.",
-    "image": "menu-photos/chicken-alfredo-960.webp",
+    "image": "menu-photos/chicken-alfredo-hq-960.webp",
     "tags": [],
     "featured": false,
-    "detailImage": "menu-photos/chicken-alfredo-1600.webp",
+    "detailImage": "menu-photos/chicken-alfredo-hq-1600.webp",
     "representative": false,
     "imageVariants": [
       {
-        "src": "menu-photos/chicken-alfredo-480.webp",
+        "src": "menu-photos/chicken-alfredo-hq-480.webp",
         "width": 480,
         "height": 339
       },
       {
-        "src": "menu-photos/chicken-alfredo-960.webp",
+        "src": "menu-photos/chicken-alfredo-hq-960.webp",
         "width": 960,
         "height": 677
       },
       {
-        "src": "menu-photos/chicken-alfredo-1600.webp",
+        "src": "menu-photos/chicken-alfredo-hq-1600.webp",
         "width": 1600,
         "height": 1129
       }
     ],
-    "imageFit": "cover",
+    "imageFit": "contain",
     "imageAlt": "Chicken Alfredo",
     "photoOriginal": "original-chickenal.jpg"
   },
@@ -958,29 +958,29 @@ const MENU_ITEMS = [
     "name": "Atlantic / Blackened Salmon",
     "price": 25,
     "description": "8 oz salmon, lemon butter, jasmine rice and a half salad.",
-    "image": "menu-photos/atlantic-blackened-salmon-960.webp",
+    "image": "menu-photos/atlantic-blackened-salmon-hq-960.webp",
     "tags": [],
     "featured": false,
-    "detailImage": "menu-photos/atlantic-blackened-salmon-1600.webp",
+    "detailImage": "menu-photos/atlantic-blackened-salmon-hq-1600.webp",
     "representative": false,
     "imageVariants": [
       {
-        "src": "menu-photos/atlantic-blackened-salmon-480.webp",
+        "src": "menu-photos/atlantic-blackened-salmon-hq-480.webp",
         "width": 480,
         "height": 320
       },
       {
-        "src": "menu-photos/atlantic-blackened-salmon-960.webp",
+        "src": "menu-photos/atlantic-blackened-salmon-hq-960.webp",
         "width": 960,
         "height": 640
       },
       {
-        "src": "menu-photos/atlantic-blackened-salmon-1600.webp",
+        "src": "menu-photos/atlantic-blackened-salmon-hq-1600.webp",
         "width": 1600,
         "height": 1067
       }
     ],
-    "imageFit": "cover",
+    "imageFit": "contain",
     "imageAlt": "Atlantic / Blackened Salmon",
     "photoOriginal": "original-salmon.jpg"
   },
@@ -989,29 +989,29 @@ const MENU_ITEMS = [
     "name": "Slow Roasted Tri-Tip",
     "price": 29,
     "description": "Juicy 8 oz tri-tip cut, dry rubbed with a flavorful blend of spices and slow cooked at temperature.",
-    "image": "menu-photos/slow-roasted-tri-tip-960.webp",
+    "image": "menu-photos/slow-roasted-tri-tip-hq-960.webp",
     "tags": [],
     "featured": false,
-    "detailImage": "menu-photos/slow-roasted-tri-tip-1280.webp",
+    "detailImage": "menu-photos/slow-roasted-tri-tip-hq-1280.webp",
     "representative": false,
     "imageVariants": [
       {
-        "src": "menu-photos/slow-roasted-tri-tip-480.webp",
+        "src": "menu-photos/slow-roasted-tri-tip-hq-480.webp",
         "width": 480,
         "height": 354
       },
       {
-        "src": "menu-photos/slow-roasted-tri-tip-960.webp",
+        "src": "menu-photos/slow-roasted-tri-tip-hq-960.webp",
         "width": 960,
         "height": 708
       },
       {
-        "src": "menu-photos/slow-roasted-tri-tip-1280.webp",
+        "src": "menu-photos/slow-roasted-tri-tip-hq-1280.webp",
         "width": 1280,
         "height": 944
       }
     ],
-    "imageFit": "cover",
+    "imageFit": "contain",
     "imageAlt": "Slow Roasted Tri-Tip",
     "photoOriginal": "original-slowrib.jpg"
   },
@@ -1020,10 +1020,10 @@ const MENU_ITEMS = [
     "name": "Lamb Chop Dinner",
     "price": 36,
     "description": "4 grilled lamb chops with rosemary seasoning, garlic mashed potatoes, honey-glazed roasted carrots and a blackberry-balsamic red wine reduction.",
-    "image": "menu-photos/lamb-chop-dinner-960.webp",
+    "image": "menu-photos/lamb-chop-dinner-hq-960.webp",
     "tags": [],
     "featured": false,
-    "detailImage": "menu-photos/lamb-chop-dinner-1280.webp",
+    "detailImage": "menu-photos/lamb-chop-dinner-hq-1280.webp",
     "representative": true,
     "photoCredit": {
       "author": "Gatorfan252525",
@@ -1034,22 +1034,22 @@ const MENU_ITEMS = [
     },
     "imageVariants": [
       {
-        "src": "menu-photos/lamb-chop-dinner-480.webp",
+        "src": "menu-photos/lamb-chop-dinner-hq-480.webp",
         "width": 480,
         "height": 360
       },
       {
-        "src": "menu-photos/lamb-chop-dinner-960.webp",
+        "src": "menu-photos/lamb-chop-dinner-hq-960.webp",
         "width": 960,
         "height": 720
       },
       {
-        "src": "menu-photos/lamb-chop-dinner-1280.webp",
+        "src": "menu-photos/lamb-chop-dinner-hq-1280.webp",
         "width": 1280,
         "height": 960
       }
     ],
-    "imageFit": "cover",
+    "imageFit": "contain",
     "imageAlt": "Representative photo of Lamb Chop Dinner",
     "photoOriginal": "menu-photo-sources/lamb-chop-dinner.jpg"
   },
@@ -1058,29 +1058,29 @@ const MENU_ITEMS = [
     "name": "BBQ Chicken Flat Bread",
     "price": 15,
     "description": "Grilled chicken, BBQ sauce, red onion, mozzarella and cilantro.",
-    "image": "menu-photos/bbq-chicken-flat-bread-960.webp",
+    "image": "menu-photos/bbq-chicken-flat-bread-hq-960.webp",
     "tags": [],
     "featured": false,
-    "detailImage": "menu-photos/bbq-chicken-flat-bread-1600.webp",
+    "detailImage": "menu-photos/bbq-chicken-flat-bread-hq-1600.webp",
     "representative": false,
     "imageVariants": [
       {
-        "src": "menu-photos/bbq-chicken-flat-bread-480.webp",
+        "src": "menu-photos/bbq-chicken-flat-bread-hq-480.webp",
         "width": 480,
         "height": 320
       },
       {
-        "src": "menu-photos/bbq-chicken-flat-bread-960.webp",
+        "src": "menu-photos/bbq-chicken-flat-bread-hq-960.webp",
         "width": 960,
         "height": 640
       },
       {
-        "src": "menu-photos/bbq-chicken-flat-bread-1600.webp",
+        "src": "menu-photos/bbq-chicken-flat-bread-hq-1600.webp",
         "width": 1600,
         "height": 1066
       }
     ],
-    "imageFit": "cover",
+    "imageFit": "contain",
     "imageAlt": "BBQ Chicken Flat Bread",
     "photoOriginal": "original-bbq-chicken-flatbread.jpg"
   },
@@ -1089,29 +1089,29 @@ const MENU_ITEMS = [
     "name": "Pepperoni Flat Bread",
     "price": 16,
     "description": "Pepperoni, mozzarella, house pizza sauce and Italian herbs.",
-    "image": "menu-photos/pepperoni-flat-bread-960.webp",
+    "image": "menu-photos/pepperoni-flat-bread-hq-960.webp",
     "tags": [],
     "featured": true,
-    "detailImage": "menu-photos/pepperoni-flat-bread-1600.webp",
+    "detailImage": "menu-photos/pepperoni-flat-bread-hq-1600.webp",
     "representative": false,
     "imageVariants": [
       {
-        "src": "menu-photos/pepperoni-flat-bread-480.webp",
+        "src": "menu-photos/pepperoni-flat-bread-hq-480.webp",
         "width": 480,
         "height": 360
       },
       {
-        "src": "menu-photos/pepperoni-flat-bread-960.webp",
+        "src": "menu-photos/pepperoni-flat-bread-hq-960.webp",
         "width": 960,
         "height": 720
       },
       {
-        "src": "menu-photos/pepperoni-flat-bread-1600.webp",
+        "src": "menu-photos/pepperoni-flat-bread-hq-1600.webp",
         "width": 1600,
         "height": 1200
       }
     ],
-    "imageFit": "cover",
+    "imageFit": "contain",
     "imageAlt": "Pepperoni Flat Bread",
     "photoOriginal": "original-pepperoni.jpg"
   },
@@ -1120,24 +1120,24 @@ const MENU_ITEMS = [
     "name": "Steakhouse Flat Bread",
     "price": 17,
     "description": "Steak, caramelized onions, peppers, mozzarella and blue cheese.",
-    "image": "menu-photos/steakhouse-flat-bread-960.webp",
+    "image": "menu-photos/steakhouse-flat-bread-hq-960.webp",
     "tags": [],
     "featured": false,
-    "detailImage": "menu-photos/steakhouse-flat-bread-1600.webp",
+    "detailImage": "menu-photos/steakhouse-flat-bread-hq-1600.webp",
     "representative": false,
     "imageVariants": [
       {
-        "src": "menu-photos/steakhouse-flat-bread-480.webp",
+        "src": "menu-photos/steakhouse-flat-bread-hq-480.webp",
         "width": 480,
         "height": 640
       },
       {
-        "src": "menu-photos/steakhouse-flat-bread-960.webp",
+        "src": "menu-photos/steakhouse-flat-bread-hq-960.webp",
         "width": 960,
         "height": 1280
       },
       {
-        "src": "menu-photos/steakhouse-flat-bread-1600.webp",
+        "src": "menu-photos/steakhouse-flat-bread-hq-1600.webp",
         "width": 1600,
         "height": 2133
       }
@@ -1151,29 +1151,29 @@ const MENU_ITEMS = [
     "name": "Mini Cheese Burger",
     "price": 10,
     "description": "Kid-sized cheeseburger with fries and a drink.",
-    "image": "menu-photos/mini-cheese-burger-960.webp",
+    "image": "menu-photos/mini-cheese-burger-hq-960.webp",
     "tags": [],
     "featured": false,
-    "detailImage": "menu-photos/mini-cheese-burger-1600.webp",
+    "detailImage": "menu-photos/mini-cheese-burger-hq-1600.webp",
     "representative": false,
     "imageVariants": [
       {
-        "src": "menu-photos/mini-cheese-burger-480.webp",
+        "src": "menu-photos/mini-cheese-burger-hq-480.webp",
         "width": 480,
         "height": 341
       },
       {
-        "src": "menu-photos/mini-cheese-burger-960.webp",
+        "src": "menu-photos/mini-cheese-burger-hq-960.webp",
         "width": 960,
         "height": 681
       },
       {
-        "src": "menu-photos/mini-cheese-burger-1600.webp",
+        "src": "menu-photos/mini-cheese-burger-hq-1600.webp",
         "width": 1600,
         "height": 1135
       }
     ],
-    "imageFit": "cover",
+    "imageFit": "contain",
     "imageAlt": "Mini Cheese Burger",
     "photoOriginal": "original-km1.jpg"
   },
@@ -1182,29 +1182,29 @@ const MENU_ITEMS = [
     "name": "Crispy Chicken Bites",
     "price": 10,
     "description": "Bite-sized crispy chicken with fries and a drink.",
-    "image": "menu-photos/crispy-chicken-bites-960.webp",
+    "image": "menu-photos/crispy-chicken-bites-hq-960.webp",
     "tags": [],
     "featured": false,
-    "detailImage": "menu-photos/crispy-chicken-bites-1200.webp",
+    "detailImage": "menu-photos/crispy-chicken-bites-hq-1200.webp",
     "representative": false,
     "imageVariants": [
       {
-        "src": "menu-photos/crispy-chicken-bites-480.webp",
+        "src": "menu-photos/crispy-chicken-bites-hq-480.webp",
         "width": 480,
         "height": 320
       },
       {
-        "src": "menu-photos/crispy-chicken-bites-960.webp",
+        "src": "menu-photos/crispy-chicken-bites-hq-960.webp",
         "width": 960,
         "height": 640
       },
       {
-        "src": "menu-photos/crispy-chicken-bites-1200.webp",
+        "src": "menu-photos/crispy-chicken-bites-hq-1200.webp",
         "width": 1200,
         "height": 800
       }
     ],
-    "imageFit": "cover",
+    "imageFit": "contain",
     "imageAlt": "Crispy Chicken Bites",
     "photoOriginal": "original-km2.jpg"
   },
@@ -1213,29 +1213,29 @@ const MENU_ITEMS = [
     "name": "Mini Cheese Pizza",
     "price": 10,
     "description": "Small cheese pizza with fries and a drink.",
-    "image": "menu-photos/mini-cheese-pizza-960.webp",
+    "image": "menu-photos/mini-cheese-pizza-hq-960.webp",
     "tags": [],
     "featured": false,
-    "detailImage": "menu-photos/mini-cheese-pizza-1200.webp",
+    "detailImage": "menu-photos/mini-cheese-pizza-hq-1200.webp",
     "representative": false,
     "imageVariants": [
       {
-        "src": "menu-photos/mini-cheese-pizza-480.webp",
+        "src": "menu-photos/mini-cheese-pizza-hq-480.webp",
         "width": 480,
         "height": 480
       },
       {
-        "src": "menu-photos/mini-cheese-pizza-960.webp",
+        "src": "menu-photos/mini-cheese-pizza-hq-960.webp",
         "width": 960,
         "height": 960
       },
       {
-        "src": "menu-photos/mini-cheese-pizza-1200.webp",
+        "src": "menu-photos/mini-cheese-pizza-hq-1200.webp",
         "width": 1200,
         "height": 1200
       }
     ],
-    "imageFit": "cover",
+    "imageFit": "contain",
     "imageAlt": "Mini Cheese Pizza",
     "photoOriginal": "original-km3.jpg"
   },
@@ -1244,29 +1244,29 @@ const MENU_ITEMS = [
     "name": "Kids Boneless Wings",
     "price": 10,
     "description": "Boneless wings with fries and a drink.",
-    "image": "menu-photos/kids-boneless-wings-960.webp",
+    "image": "menu-photos/kids-boneless-wings-hq-960.webp",
     "tags": [],
     "featured": false,
-    "detailImage": "menu-photos/kids-boneless-wings-1600.webp",
+    "detailImage": "menu-photos/kids-boneless-wings-hq-1600.webp",
     "representative": false,
     "imageVariants": [
       {
-        "src": "menu-photos/kids-boneless-wings-480.webp",
+        "src": "menu-photos/kids-boneless-wings-hq-480.webp",
         "width": 480,
         "height": 480
       },
       {
-        "src": "menu-photos/kids-boneless-wings-960.webp",
+        "src": "menu-photos/kids-boneless-wings-hq-960.webp",
         "width": 960,
         "height": 960
       },
       {
-        "src": "menu-photos/kids-boneless-wings-1600.webp",
+        "src": "menu-photos/kids-boneless-wings-hq-1600.webp",
         "width": 1600,
         "height": 1600
       }
     ],
-    "imageFit": "cover",
+    "imageFit": "contain",
     "imageAlt": "Kids Boneless Wings",
     "photoOriginal": "original-km4.jpg"
   },
@@ -1275,29 +1275,29 @@ const MENU_ITEMS = [
     "name": "Mini Corn Dogs",
     "price": 10,
     "description": "Mini corn dogs with fries and a drink.",
-    "image": "menu-photos/mini-corn-dogs-960.webp",
+    "image": "menu-photos/mini-corn-dogs-hq-960.webp",
     "tags": [],
     "featured": false,
-    "detailImage": "menu-photos/mini-corn-dogs-1200.webp",
+    "detailImage": "menu-photos/mini-corn-dogs-hq-1200.webp",
     "representative": false,
     "imageVariants": [
       {
-        "src": "menu-photos/mini-corn-dogs-480.webp",
+        "src": "menu-photos/mini-corn-dogs-hq-480.webp",
         "width": 480,
         "height": 360
       },
       {
-        "src": "menu-photos/mini-corn-dogs-960.webp",
+        "src": "menu-photos/mini-corn-dogs-hq-960.webp",
         "width": 960,
         "height": 720
       },
       {
-        "src": "menu-photos/mini-corn-dogs-1200.webp",
+        "src": "menu-photos/mini-corn-dogs-hq-1200.webp",
         "width": 1200,
         "height": 900
       }
     ],
-    "imageFit": "cover",
+    "imageFit": "contain",
     "imageAlt": "Mini Corn Dogs",
     "photoOriginal": "original-km5.jpg"
   },
@@ -1306,24 +1306,24 @@ const MENU_ITEMS = [
     "name": "Kids Alfredo",
     "price": 11,
     "description": "Creamy Alfredo noodles for kids.",
-    "image": "menu-photos/kids-alfredo-636.webp",
+    "image": "menu-photos/kids-alfredo-hq-636.webp",
     "tags": [],
     "featured": false,
-    "detailImage": "menu-photos/kids-alfredo-636.webp",
+    "detailImage": "menu-photos/kids-alfredo-hq-636.webp",
     "representative": false,
     "imageVariants": [
       {
-        "src": "menu-photos/kids-alfredo-480.webp",
+        "src": "menu-photos/kids-alfredo-hq-480.webp",
         "width": 480,
         "height": 320
       },
       {
-        "src": "menu-photos/kids-alfredo-636.webp",
+        "src": "menu-photos/kids-alfredo-hq-636.webp",
         "width": 636,
         "height": 424
       }
     ],
-    "imageFit": "cover",
+    "imageFit": "contain",
     "imageAlt": "Kids Alfredo",
     "photoOriginal": "original-km6.jpg"
   },
@@ -1332,24 +1332,24 @@ const MENU_ITEMS = [
     "name": "Vanilla Milkshake",
     "price": 6,
     "description": "Classic creamy vanilla.",
-    "image": "menu-photos/vanilla-milkshake-960.webp",
+    "image": "menu-photos/vanilla-milkshake-hq-960.webp",
     "tags": [],
     "featured": false,
-    "detailImage": "menu-photos/vanilla-milkshake-1366.webp",
+    "detailImage": "menu-photos/vanilla-milkshake-hq-1366.webp",
     "representative": false,
     "imageVariants": [
       {
-        "src": "menu-photos/vanilla-milkshake-480.webp",
+        "src": "menu-photos/vanilla-milkshake-hq-480.webp",
         "width": 480,
         "height": 720
       },
       {
-        "src": "menu-photos/vanilla-milkshake-960.webp",
+        "src": "menu-photos/vanilla-milkshake-hq-960.webp",
         "width": 960,
         "height": 1439
       },
       {
-        "src": "menu-photos/vanilla-milkshake-1366.webp",
+        "src": "menu-photos/vanilla-milkshake-hq-1366.webp",
         "width": 1366,
         "height": 2048
       }
@@ -1363,19 +1363,19 @@ const MENU_ITEMS = [
     "name": "Mango Milkshake",
     "price": 6,
     "description": "Smooth and creamy mango.",
-    "image": "menu-photos/mango-milkshake-687.webp",
+    "image": "menu-photos/mango-milkshake-hq-687.webp",
     "tags": [],
     "featured": false,
-    "detailImage": "menu-photos/mango-milkshake-687.webp",
+    "detailImage": "menu-photos/mango-milkshake-hq-687.webp",
     "representative": false,
     "imageVariants": [
       {
-        "src": "menu-photos/mango-milkshake-480.webp",
+        "src": "menu-photos/mango-milkshake-hq-480.webp",
         "width": 480,
         "height": 720
       },
       {
-        "src": "menu-photos/mango-milkshake-687.webp",
+        "src": "menu-photos/mango-milkshake-hq-687.webp",
         "width": 687,
         "height": 1031
       }
@@ -1389,19 +1389,19 @@ const MENU_ITEMS = [
     "name": "Chocolate Milkshake",
     "price": 6,
     "description": "Rich chocolate shake.",
-    "image": "menu-photos/chocolate-milkshake-600.webp",
+    "image": "menu-photos/chocolate-milkshake-hq-600.webp",
     "tags": [],
     "featured": false,
-    "detailImage": "menu-photos/chocolate-milkshake-600.webp",
+    "detailImage": "menu-photos/chocolate-milkshake-hq-600.webp",
     "representative": false,
     "imageVariants": [
       {
-        "src": "menu-photos/chocolate-milkshake-480.webp",
+        "src": "menu-photos/chocolate-milkshake-hq-480.webp",
         "width": 480,
         "height": 720
       },
       {
-        "src": "menu-photos/chocolate-milkshake-600.webp",
+        "src": "menu-photos/chocolate-milkshake-hq-600.webp",
         "width": 600,
         "height": 900
       }
@@ -1415,29 +1415,29 @@ const MENU_ITEMS = [
     "name": "Cheesecake",
     "price": 7,
     "description": "Vanilla cheesecake with berry compote.",
-    "image": "menu-photos/cheesecake-960.webp",
+    "image": "menu-photos/cheesecake-hq-960.webp",
     "tags": [],
     "featured": false,
-    "detailImage": "menu-photos/cheesecake-1600.webp",
+    "detailImage": "menu-photos/cheesecake-hq-1600.webp",
     "representative": false,
     "imageVariants": [
       {
-        "src": "menu-photos/cheesecake-480.webp",
+        "src": "menu-photos/cheesecake-hq-480.webp",
         "width": 480,
         "height": 336
       },
       {
-        "src": "menu-photos/cheesecake-960.webp",
+        "src": "menu-photos/cheesecake-hq-960.webp",
         "width": 960,
         "height": 673
       },
       {
-        "src": "menu-photos/cheesecake-1600.webp",
+        "src": "menu-photos/cheesecake-hq-1600.webp",
         "width": 1600,
         "height": 1121
       }
     ],
-    "imageFit": "cover",
+    "imageFit": "contain",
     "imageAlt": "Cheesecake",
     "photoOriginal": "original-d1.jpg"
   },
@@ -1446,29 +1446,29 @@ const MENU_ITEMS = [
     "name": "Chocolate Cake",
     "price": 7,
     "description": "Chocolate cake with chocolate mousse.",
-    "image": "menu-photos/chocolate-cake-960.webp",
+    "image": "menu-photos/chocolate-cake-hq-960.webp",
     "tags": [],
     "featured": false,
-    "detailImage": "menu-photos/chocolate-cake-1600.webp",
+    "detailImage": "menu-photos/chocolate-cake-hq-1600.webp",
     "representative": false,
     "imageVariants": [
       {
-        "src": "menu-photos/chocolate-cake-480.webp",
+        "src": "menu-photos/chocolate-cake-hq-480.webp",
         "width": 480,
         "height": 320
       },
       {
-        "src": "menu-photos/chocolate-cake-960.webp",
+        "src": "menu-photos/chocolate-cake-hq-960.webp",
         "width": 960,
         "height": 640
       },
       {
-        "src": "menu-photos/chocolate-cake-1600.webp",
+        "src": "menu-photos/chocolate-cake-hq-1600.webp",
         "width": 1600,
         "height": 1066
       }
     ],
-    "imageFit": "cover",
+    "imageFit": "contain",
     "imageAlt": "Chocolate Cake",
     "photoOriginal": "original-d2.jpg"
   },
@@ -1477,29 +1477,29 @@ const MENU_ITEMS = [
     "name": "Cookies & Cream Cookie Skillet",
     "price": 8,
     "description": "Warm cookies and cream cookie with vanilla ice cream.",
-    "image": "menu-photos/cookies-cream-cookie-skillet-960.webp",
+    "image": "menu-photos/cookies-cream-cookie-skillet-hq-960.webp",
     "tags": [],
     "featured": false,
-    "detailImage": "menu-photos/cookies-cream-cookie-skillet-1600.webp",
+    "detailImage": "menu-photos/cookies-cream-cookie-skillet-hq-1600.webp",
     "representative": false,
     "imageVariants": [
       {
-        "src": "menu-photos/cookies-cream-cookie-skillet-480.webp",
+        "src": "menu-photos/cookies-cream-cookie-skillet-hq-480.webp",
         "width": 480,
         "height": 300
       },
       {
-        "src": "menu-photos/cookies-cream-cookie-skillet-960.webp",
+        "src": "menu-photos/cookies-cream-cookie-skillet-hq-960.webp",
         "width": 960,
         "height": 601
       },
       {
-        "src": "menu-photos/cookies-cream-cookie-skillet-1600.webp",
+        "src": "menu-photos/cookies-cream-cookie-skillet-hq-1600.webp",
         "width": 1600,
         "height": 1002
       }
     ],
-    "imageFit": "cover",
+    "imageFit": "contain",
     "imageAlt": "Cookies & Cream Cookie Skillet",
     "photoOriginal": "original-d8.jpg"
   },
@@ -1508,29 +1508,29 @@ const MENU_ITEMS = [
     "name": "Chocolate Chunk Cookie Skillet",
     "price": 8,
     "description": "Warm chocolate chunk cookie with vanilla ice cream.",
-    "image": "menu-photos/chocolate-chunk-cookie-skillet-960.webp",
+    "image": "menu-photos/chocolate-chunk-cookie-skillet-hq-960.webp",
     "tags": [],
     "featured": false,
-    "detailImage": "menu-photos/chocolate-chunk-cookie-skillet-1600.webp",
+    "detailImage": "menu-photos/chocolate-chunk-cookie-skillet-hq-1600.webp",
     "representative": false,
     "imageVariants": [
       {
-        "src": "menu-photos/chocolate-chunk-cookie-skillet-480.webp",
+        "src": "menu-photos/chocolate-chunk-cookie-skillet-hq-480.webp",
         "width": 480,
         "height": 320
       },
       {
-        "src": "menu-photos/chocolate-chunk-cookie-skillet-960.webp",
+        "src": "menu-photos/chocolate-chunk-cookie-skillet-hq-960.webp",
         "width": 960,
         "height": 641
       },
       {
-        "src": "menu-photos/chocolate-chunk-cookie-skillet-1600.webp",
+        "src": "menu-photos/chocolate-chunk-cookie-skillet-hq-1600.webp",
         "width": 1600,
         "height": 1068
       }
     ],
-    "imageFit": "cover",
+    "imageFit": "contain",
     "imageAlt": "Chocolate Chunk Cookie Skillet",
     "photoOriginal": "original-d7.jpg"
   },
@@ -1539,19 +1539,19 @@ const MENU_ITEMS = [
     "name": "Strawberry Shortcake Cookie Sundae",
     "price": 9,
     "description": "Warm strawberry cookie with berry compote.",
-    "image": "menu-photos/strawberry-shortcake-cookie-sundae-928.webp",
+    "image": "menu-photos/strawberry-shortcake-cookie-sundae-hq-928.webp",
     "tags": [],
     "featured": false,
-    "detailImage": "menu-photos/strawberry-shortcake-cookie-sundae-928.webp",
+    "detailImage": "menu-photos/strawberry-shortcake-cookie-sundae-hq-928.webp",
     "representative": false,
     "imageVariants": [
       {
-        "src": "menu-photos/strawberry-shortcake-cookie-sundae-480.webp",
+        "src": "menu-photos/strawberry-shortcake-cookie-sundae-hq-480.webp",
         "width": 480,
         "height": 637
       },
       {
-        "src": "menu-photos/strawberry-shortcake-cookie-sundae-928.webp",
+        "src": "menu-photos/strawberry-shortcake-cookie-sundae-hq-928.webp",
         "width": 928,
         "height": 1232
       }
@@ -1565,24 +1565,24 @@ const MENU_ITEMS = [
     "name": "Triple Chocolate Cookie Sundae",
     "price": 9,
     "description": "Warm triple chocolate cookie, ice cream and sauce.",
-    "image": "menu-photos/triple-chocolate-cookie-sundae-960.webp",
+    "image": "menu-photos/triple-chocolate-cookie-sundae-hq-960.webp",
     "tags": [],
     "featured": false,
-    "detailImage": "menu-photos/triple-chocolate-cookie-sundae-1200.webp",
+    "detailImage": "menu-photos/triple-chocolate-cookie-sundae-hq-1200.webp",
     "representative": false,
     "imageVariants": [
       {
-        "src": "menu-photos/triple-chocolate-cookie-sundae-480.webp",
+        "src": "menu-photos/triple-chocolate-cookie-sundae-hq-480.webp",
         "width": 480,
         "height": 720
       },
       {
-        "src": "menu-photos/triple-chocolate-cookie-sundae-960.webp",
+        "src": "menu-photos/triple-chocolate-cookie-sundae-hq-960.webp",
         "width": 960,
         "height": 1440
       },
       {
-        "src": "menu-photos/triple-chocolate-cookie-sundae-1200.webp",
+        "src": "menu-photos/triple-chocolate-cookie-sundae-hq-1200.webp",
         "width": 1200,
         "height": 1800
       }
@@ -1596,24 +1596,24 @@ const MENU_ITEMS = [
     "name": "Cookie Trio Skillet",
     "price": 16,
     "description": "Three cookies of your choice with vanilla ice cream.",
-    "image": "menu-photos/cookie-trio-skillet-800.webp",
+    "image": "menu-photos/cookie-trio-skillet-hq-800.webp",
     "tags": [],
     "featured": false,
-    "detailImage": "menu-photos/cookie-trio-skillet-800.webp",
+    "detailImage": "menu-photos/cookie-trio-skillet-hq-800.webp",
     "representative": false,
     "imageVariants": [
       {
-        "src": "menu-photos/cookie-trio-skillet-480.webp",
+        "src": "menu-photos/cookie-trio-skillet-hq-480.webp",
         "width": 480,
         "height": 480
       },
       {
-        "src": "menu-photos/cookie-trio-skillet-800.webp",
+        "src": "menu-photos/cookie-trio-skillet-hq-800.webp",
         "width": 800,
         "height": 800
       }
     ],
-    "imageFit": "cover",
+    "imageFit": "contain",
     "imageAlt": "Cookie Trio Skillet",
     "photoOriginal": "original-cookie-skillet-trio.jpg"
   },
@@ -1622,12 +1622,12 @@ const MENU_ITEMS = [
     "name": "Honey Sriracha Chicken Biscuit",
     "price": 16,
     "description": "With 2 eggs",
-    "image": "menu-photos/honey-sriracha-chicken-biscuit-960.webp",
+    "image": "menu-photos/honey-sriracha-chicken-biscuit-hq-960.webp",
     "tags": [
       "Spicy"
     ],
     "featured": false,
-    "detailImage": "menu-photos/honey-sriracha-chicken-biscuit-1280.webp",
+    "detailImage": "menu-photos/honey-sriracha-chicken-biscuit-hq-1280.webp",
     "representative": true,
     "photoCredit": {
       "author": "CalebJay",
@@ -1638,17 +1638,17 @@ const MENU_ITEMS = [
     },
     "imageVariants": [
       {
-        "src": "menu-photos/honey-sriracha-chicken-biscuit-480.webp",
+        "src": "menu-photos/honey-sriracha-chicken-biscuit-hq-480.webp",
         "width": 480,
         "height": 600
       },
       {
-        "src": "menu-photos/honey-sriracha-chicken-biscuit-960.webp",
+        "src": "menu-photos/honey-sriracha-chicken-biscuit-hq-960.webp",
         "width": 960,
         "height": 1200
       },
       {
-        "src": "menu-photos/honey-sriracha-chicken-biscuit-1280.webp",
+        "src": "menu-photos/honey-sriracha-chicken-biscuit-hq-1280.webp",
         "width": 1280,
         "height": 1600
       }
@@ -1662,10 +1662,10 @@ const MENU_ITEMS = [
     "name": "Biscuits & Gravy",
     "price": 16,
     "description": "With 2 eggs",
-    "image": "menu-photos/biscuits-gravy-960.webp",
+    "image": "menu-photos/biscuits-gravy-hq-960.webp",
     "tags": [],
     "featured": false,
-    "detailImage": "menu-photos/biscuits-gravy-1280.webp",
+    "detailImage": "menu-photos/biscuits-gravy-hq-1280.webp",
     "representative": true,
     "photoCredit": {
       "author": "Elvenjewel777",
@@ -1676,17 +1676,17 @@ const MENU_ITEMS = [
     },
     "imageVariants": [
       {
-        "src": "menu-photos/biscuits-gravy-480.webp",
+        "src": "menu-photos/biscuits-gravy-hq-480.webp",
         "width": 480,
         "height": 640
       },
       {
-        "src": "menu-photos/biscuits-gravy-960.webp",
+        "src": "menu-photos/biscuits-gravy-hq-960.webp",
         "width": 960,
         "height": 1280
       },
       {
-        "src": "menu-photos/biscuits-gravy-1280.webp",
+        "src": "menu-photos/biscuits-gravy-hq-1280.webp",
         "width": 1280,
         "height": 1707
       }
@@ -1700,10 +1700,10 @@ const MENU_ITEMS = [
     "name": "Chicken & Waffle",
     "price": 20,
     "description": "With 2 eggs",
-    "image": "menu-photos/chicken-waffle-960.webp",
+    "image": "menu-photos/chicken-waffle-hq-960.webp",
     "tags": [],
     "featured": false,
-    "detailImage": "menu-photos/chicken-waffle-1280.webp",
+    "detailImage": "menu-photos/chicken-waffle-hq-1280.webp",
     "representative": true,
     "photoCredit": {
       "author": "Andy Li",
@@ -1714,22 +1714,22 @@ const MENU_ITEMS = [
     },
     "imageVariants": [
       {
-        "src": "menu-photos/chicken-waffle-480.webp",
+        "src": "menu-photos/chicken-waffle-hq-480.webp",
         "width": 480,
         "height": 360
       },
       {
-        "src": "menu-photos/chicken-waffle-960.webp",
+        "src": "menu-photos/chicken-waffle-hq-960.webp",
         "width": 960,
         "height": 720
       },
       {
-        "src": "menu-photos/chicken-waffle-1280.webp",
+        "src": "menu-photos/chicken-waffle-hq-1280.webp",
         "width": 1280,
         "height": 960
       }
     ],
-    "imageFit": "cover",
+    "imageFit": "contain",
     "imageAlt": "Representative photo of Chicken & Waffle",
     "photoOriginal": "menu-photo-sources/chicken-waffle.jpg"
   },
@@ -1738,10 +1738,10 @@ const MENU_ITEMS = [
     "name": "Shrimp & Grits",
     "price": 21,
     "description": "",
-    "image": "menu-photos/shrimp-grits-960.webp",
+    "image": "menu-photos/shrimp-grits-hq-960.webp",
     "tags": [],
     "featured": false,
-    "detailImage": "menu-photos/shrimp-grits-1280.webp",
+    "detailImage": "menu-photos/shrimp-grits-hq-1280.webp",
     "representative": true,
     "photoCredit": {
       "author": "vxla",
@@ -1752,22 +1752,22 @@ const MENU_ITEMS = [
     },
     "imageVariants": [
       {
-        "src": "menu-photos/shrimp-grits-480.webp",
+        "src": "menu-photos/shrimp-grits-hq-480.webp",
         "width": 480,
         "height": 319
       },
       {
-        "src": "menu-photos/shrimp-grits-960.webp",
+        "src": "menu-photos/shrimp-grits-hq-960.webp",
         "width": 960,
         "height": 638
       },
       {
-        "src": "menu-photos/shrimp-grits-1280.webp",
+        "src": "menu-photos/shrimp-grits-hq-1280.webp",
         "width": 1280,
         "height": 850
       }
     ],
-    "imageFit": "cover",
+    "imageFit": "contain",
     "imageAlt": "Representative photo of Shrimp & Grits",
     "photoOriginal": "menu-photo-sources/shrimp-grits.jpg"
   },
@@ -1776,10 +1776,10 @@ const MENU_ITEMS = [
     "name": "Country Boy Waffle",
     "price": 25,
     "description": "",
-    "image": "menu-photos/country-boy-waffle-960.webp",
+    "image": "menu-photos/country-boy-waffle-hq-960.webp",
     "tags": [],
     "featured": false,
-    "detailImage": "menu-photos/country-boy-waffle-1280.webp",
+    "detailImage": "menu-photos/country-boy-waffle-hq-1280.webp",
     "representative": true,
     "photoCredit": {
       "author": "Andy Li",
@@ -1790,22 +1790,22 @@ const MENU_ITEMS = [
     },
     "imageVariants": [
       {
-        "src": "menu-photos/country-boy-waffle-480.webp",
+        "src": "menu-photos/country-boy-waffle-hq-480.webp",
         "width": 480,
         "height": 362
       },
       {
-        "src": "menu-photos/country-boy-waffle-960.webp",
+        "src": "menu-photos/country-boy-waffle-hq-960.webp",
         "width": 960,
         "height": 723
       },
       {
-        "src": "menu-photos/country-boy-waffle-1280.webp",
+        "src": "menu-photos/country-boy-waffle-hq-1280.webp",
         "width": 1280,
         "height": 964
       }
     ],
-    "imageFit": "cover",
+    "imageFit": "contain",
     "imageAlt": "Representative photo of Country Boy Waffle",
     "photoOriginal": "menu-photo-sources/country-boy-waffle.jpg"
   }
@@ -2002,7 +2002,7 @@ if (menuResults) {
     const variants = item.imageVariants || [];
     const srcset = variants.map(photo => `assets/${photo.src} ${photo.width}w`).join(', ');
     const original = variants[variants.length - 1];
-    return `src="assets/${escapeHTML(item.image)}" ${srcset ? `srcset="${escapeHTML(srcset)}" sizes="(min-width:1440px) 410px, (min-width:1080px) 30vw, (min-width:640px) 45vw, 90vw"` : ''} alt="${escapeHTML(item.imageAlt || item.name)}" width="${original?.width || 600}" height="${original?.height || 400}" style="object-fit:${item.imageFit === 'contain' ? 'contain' : 'cover'}" loading="lazy" decoding="async"`;
+    return `src="assets/${escapeHTML(item.image)}" ${srcset ? `srcset="${escapeHTML(srcset)}" sizes="(min-width:1360px) 410px, (min-width:1080px) calc((100vw - 128px) / 3), (min-width:800px) calc((100vw - 104px) / 2), (min-width:640px) calc((100vw - 60px) / 2), calc(100vw - 40px)"` : ''} alt="${escapeHTML(item.imageAlt || item.name)}" width="${original?.width || 600}" height="${original?.height || 400}" style="object-fit:${item.imageFit === 'contain' ? 'contain' : 'cover'}" loading="lazy" decoding="async"`;
   }
   $('.menu-count-label').textContent = `${MENU_ITEMS.length} dishes. Plenty of possibilities.`;
   function syncQuickFilters() {
@@ -2017,9 +2017,10 @@ if (menuResults) {
     image.srcset = (item.imageVariants || []).map(photo => `assets/${photo.src} ${photo.width}w`).join(', ');
     image.src = `assets/${item.detailImage || item.image}`;
     image.alt = item.imageAlt || item.name;
-    image.style.objectFit = item.imageFit === 'contain' ? 'contain' : 'cover';
+    image.style.objectFit = 'contain';
     const credit = $('#dish-dialog-photo-credit');
     credit.replaceChildren();
+    if (item.representative && !item.photoCredit) credit.textContent = 'AI-edited illustrative image; actual presentation may vary.';
     if (item.representative && item.photoCredit) {
       credit.append(document.createTextNode(`Representative photo — ${item.photoCredit.author}. `));
       const source = document.createElement('a');
@@ -2080,7 +2081,7 @@ if (menuResults) {
     menuResults.innerHTML = CATEGORIES.map(([id, label]) => {
       const group = items.filter(item => item.category === id);
       if (!group.length) return '';
-      return `<section class="menu-section" id="${id}" aria-labelledby="heading-${id}"><div class="menu-section-heading"><h2 id="heading-${id}">${escapeHTML(label)}</h2><span>${group.length} ${group.length === 1 ? 'dish' : 'dishes'}</span></div><div class="menu-items">${group.map(item => `<article class="menu-item"><div class="menu-item-photo"><img ${menuPhotoAttributes(item)}>${item.representative ? '<span class="menu-photo-note">Representative photo</span>' : ''}${item.featured ? '<span class="menu-favorite-badge">VJ’S FAVORITE</span>' : ''}</div><div class="menu-item-copy"><div class="menu-item-heading"><h3>${escapeHTML(item.name)}</h3><span class="item-price">${currency(item.price)}</span></div><p>${escapeHTML(item.description || 'Ask our team for today’s preparation.')}</p><div class="menu-item-tags">${item.tags.map(tag => `<span class="pill">${escapeHTML(tag)}</span>`).join('')}</div><div class="menu-item-actions"><button class="button button-outline dark-outline" type="button" data-menu-item="${MENU_ITEMS.indexOf(item)}" aria-label="View details for ${escapeHTML(item.name)}">View dish <span aria-hidden="true">↗</span></button><a href="tel:+19162602606" aria-label="Call to order ${escapeHTML(item.name)}">Call to order</a></div></div></article>`).join('')}</div></section>`;
+      return `<section class="menu-section" id="${id}" aria-labelledby="heading-${id}"><div class="menu-section-heading"><h2 id="heading-${id}">${escapeHTML(label)}</h2><span>${group.length} ${group.length === 1 ? 'dish' : 'dishes'}</span></div><div class="menu-items">${group.map(item => `<article class="menu-item"><div class="menu-item-photo"><button class="menu-photo-open" type="button" data-menu-item="${MENU_ITEMS.indexOf(item)}" aria-label="View larger photo of ${escapeHTML(item.name)}"><img ${menuPhotoAttributes(item)}><span class="menu-photo-expand" aria-hidden="true">↗</span></button>${item.representative ? '<span class="menu-photo-note">Representative photo</span>' : ''}${item.featured ? '<span class="menu-favorite-badge">VJ’S FAVORITE</span>' : ''}</div><div class="menu-item-copy"><div class="menu-item-heading"><h3>${escapeHTML(item.name)}</h3><span class="item-price">${currency(item.price)}</span></div><p>${escapeHTML(item.description || 'Ask our team for today’s preparation.')}</p><div class="menu-item-tags">${item.tags.map(tag => `<span class="pill">${escapeHTML(tag)}</span>`).join('')}</div><div class="menu-item-actions"><button class="button button-outline dark-outline" type="button" data-menu-item="${MENU_ITEMS.indexOf(item)}" aria-label="View details for ${escapeHTML(item.name)}">View dish <span aria-hidden="true">↗</span></button><a href="tel:+19162602606" aria-label="Call to order ${escapeHTML(item.name)}">Call to order</a></div></div></article>`).join('')}</div></section>`;
     }).join('') || `<div class="empty-state"><h2>No bites found.</h2><p>${diet.value === 'GF' ? 'No gluten-free dishes are verified yet. Ask our team about your dietary requirements.' : 'Try another dish or ingredient, or clear your filters to explore the full menu.'}</p><button class="button" type="button" data-reset-menu>Reset filters</button></div>`;
     menuSections = $$('.menu-section', menuResults);
     $$('a', tabs).forEach(link => {

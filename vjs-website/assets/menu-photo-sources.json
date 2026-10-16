@@ -6,19 +6,19 @@
     "originalHeight": 900,
     "variants": [
       {
-        "src": "menu-photos/french-fries-480.webp",
+        "src": "menu-photos/french-fries-hq-480.webp",
         "width": 480,
         "height": 720
       },
       {
-        "src": "menu-photos/french-fries-600.webp",
+        "src": "menu-photos/french-fries-hq-600.webp",
         "width": 600,
         "height": 900
       }
     ],
     "representative": false,
     "credit": null,
-    "changes": "Resized without upscaling; encoded as WebP. Aspect ratio retained."
+    "changes": "Resized without upscaling; encoded as WebP. Aspect ratio retained. Re-exported directly from original at WebP quality 95, without upscaling; complete dish framing."
   },
   {
     "dish": "Baked Potato",
@@ -27,24 +27,24 @@
     "originalHeight": 1600,
     "variants": [
       {
-        "src": "menu-photos/baked-potato-480.webp",
+        "src": "menu-photos/baked-potato-hq-480.webp",
         "width": 480,
         "height": 720
       },
       {
-        "src": "menu-photos/baked-potato-960.webp",
+        "src": "menu-photos/baked-potato-hq-960.webp",
         "width": 960,
         "height": 1441
       },
       {
-        "src": "menu-photos/baked-potato-1066.webp",
+        "src": "menu-photos/baked-potato-hq-1066.webp",
         "width": 1066,
         "height": 1600
       }
     ],
     "representative": false,
     "credit": null,
-    "changes": "Resized without upscaling; encoded as WebP. Aspect ratio retained."
+    "changes": "Resized without upscaling; encoded as WebP. Aspect ratio retained. Re-exported directly from original at WebP quality 95, without upscaling; complete dish framing."
   },
   {
     "dish": "Onion Rings",
@@ -53,19 +53,19 @@
     "originalHeight": 408,
     "variants": [
       {
-        "src": "menu-photos/onion-rings-480.webp",
+        "src": "menu-photos/onion-rings-hq-480.webp",
         "width": 480,
         "height": 320
       },
       {
-        "src": "menu-photos/onion-rings-612.webp",
+        "src": "menu-photos/onion-rings-hq-612.webp",
         "width": 612,
         "height": 408
       }
     ],
     "representative": false,
     "credit": null,
-    "changes": "Resized without upscaling; encoded as WebP. Aspect ratio retained."
+    "changes": "Resized without upscaling; encoded as WebP. Aspect ratio retained. Re-exported directly from original at WebP quality 95, without upscaling; complete dish framing."
   },
   {
     "dish": "Fried Mac & Cheese Bites",
@@ -74,19 +74,19 @@
     "originalHeight": 416,
     "variants": [
       {
-        "src": "menu-photos/fried-mac-cheese-bites-480.webp",
+        "src": "menu-photos/fried-mac-cheese-bites-hq-480.webp",
         "width": 480,
         "height": 333
       },
       {
-        "src": "menu-photos/fried-mac-cheese-bites-600.webp",
+        "src": "menu-photos/fried-mac-cheese-bites-hq-600.webp",
         "width": 600,
         "height": 416
       }
     ],
     "representative": false,
     "credit": null,
-    "changes": "Resized without upscaling; encoded as WebP. Aspect ratio retained."
+    "changes": "Resized without upscaling; encoded as WebP. Aspect ratio retained. Re-exported directly from original at WebP quality 95, without upscaling; complete dish framing."
   },
   {
     "dish": "Chips & Housemade Guacamole",
@@ -95,19 +95,19 @@
     "originalHeight": 408,
     "variants": [
       {
-        "src": "menu-photos/chips-housemade-guacamole-480.webp",
+        "src": "menu-photos/chips-housemade-guacamole-hq-480.webp",
         "width": 480,
         "height": 320
       },
       {
-        "src": "menu-photos/chips-housemade-guacamole-612.webp",
+        "src": "menu-photos/chips-housemade-guacamole-hq-612.webp",
         "width": 612,
         "height": 408
       }
     ],
     "representative": false,
     "credit": null,
-    "changes": "Resized without upscaling; encoded as WebP. Aspect ratio retained."
+    "changes": "Resized without upscaling; encoded as WebP. Aspect ratio retained. Re-exported directly from original at WebP quality 95, without upscaling; complete dish framing."
   },
   {
     "dish": "Boneless Wings",
@@ -116,19 +116,19 @@
     "originalHeight": 800,
     "variants": [
       {
-        "src": "menu-photos/boneless-wings-480.webp",
+        "src": "menu-photos/boneless-wings-hq-480.webp",
         "width": 480,
         "height": 640
       },
       {
-        "src": "menu-photos/boneless-wings-600.webp",
+        "src": "menu-photos/boneless-wings-hq-600.webp",
         "width": 600,
         "height": 800
       }
     ],
     "representative": false,
     "credit": null,
-    "changes": "Resized without upscaling; encoded as WebP. Aspect ratio retained."
+    "changes": "Resized without upscaling; encoded as WebP. Aspect ratio retained. Re-exported directly from original at WebP quality 95, without upscaling; complete dish framing."
   },
   {
     "dish": "Bone-In Wings",
@@ -137,19 +137,19 @@
     "originalHeight": 400,
     "variants": [
       {
-        "src": "menu-photos/bone-in-wings-480.webp",
+        "src": "menu-photos/bone-in-wings-hq-480.webp",
         "width": 480,
         "height": 320
       },
       {
-        "src": "menu-photos/bone-in-wings-600.webp",
+        "src": "menu-photos/bone-in-wings-hq-600.webp",
         "width": 600,
         "height": 400
       }
     ],
     "representative": false,
     "credit": null,
-    "changes": "Resized without upscaling; encoded as WebP. Aspect ratio retained."
+    "changes": "Resized without upscaling; encoded as WebP. Aspect ratio retained. Re-exported directly from original at WebP quality 95, without upscaling; complete dish framing."
   },
   {
     "dish": "VJ's Signature Sampler",
@@ -158,19 +158,19 @@
     "originalHeight": 960,
     "variants": [
       {
-        "src": "menu-photos/vj-s-signature-sampler-480.webp",
+        "src": "menu-photos/vj-s-signature-sampler-hq-480.webp",
         "width": 480,
-        "height": 266
+        "height": 360
       },
       {
-        "src": "menu-photos/vj-s-signature-sampler-960.webp",
+        "src": "menu-photos/vj-s-signature-sampler-hq-960.webp",
         "width": 960,
-        "height": 532
+        "height": 720
       },
       {
-        "src": "menu-photos/vj-s-signature-sampler-1280.webp",
+        "src": "menu-photos/vj-s-signature-sampler-hq-1280.webp",
         "width": 1280,
-        "height": 710
+        "height": 960
       }
     ],
     "representative": true,
@@ -181,7 +181,7 @@
       "license": "CC BY-SA 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
     },
-    "changes": "Cropped to focus on food, resized without upscaling and encoded as WebP."
+    "changes": "Cropped to focus on food, resized without upscaling and encoded as WebP. Re-exported directly from original at WebP quality 95, without upscaling; complete dish framing."
   },
   {
     "dish": "Classic Caesar Salad",
@@ -190,24 +190,24 @@
     "originalHeight": 2859,
     "variants": [
       {
-        "src": "menu-photos/classic-caesar-salad-480.webp",
+        "src": "menu-photos/classic-caesar-salad-hq-480.webp",
         "width": 480,
         "height": 320
       },
       {
-        "src": "menu-photos/classic-caesar-salad-960.webp",
+        "src": "menu-photos/classic-caesar-salad-hq-960.webp",
         "width": 960,
         "height": 640
       },
       {
-        "src": "menu-photos/classic-caesar-salad-1600.webp",
+        "src": "menu-photos/classic-caesar-salad-hq-1600.webp",
         "width": 1600,
         "height": 1067
       }
     ],
     "representative": false,
     "credit": null,
-    "changes": "Resized without upscaling; encoded as WebP. Aspect ratio retained."
+    "changes": "Resized without upscaling; encoded as WebP. Aspect ratio retained. Re-exported directly from original at WebP quality 95, without upscaling; complete dish framing."
   },
   {
     "dish": "Mediterranean Power Salad",
@@ -216,24 +216,24 @@
     "originalHeight": 1367,
     "variants": [
       {
-        "src": "menu-photos/mediterranean-power-salad-480.webp",
+        "src": "menu-photos/mediterranean-power-salad-hq-480.webp",
         "width": 480,
         "height": 320
       },
       {
-        "src": "menu-photos/mediterranean-power-salad-960.webp",
+        "src": "menu-photos/mediterranean-power-salad-hq-960.webp",
         "width": 960,
         "height": 641
       },
       {
-        "src": "menu-photos/mediterranean-power-salad-1600.webp",
+        "src": "menu-photos/mediterranean-power-salad-hq-1600.webp",
         "width": 1600,
         "height": 1068
       }
     ],
     "representative": false,
     "credit": null,
-    "changes": "Resized without upscaling; encoded as WebP. Aspect ratio retained."
+    "changes": "Resized without upscaling; encoded as WebP. Aspect ratio retained. Re-exported directly from original at WebP quality 95, without upscaling; complete dish framing."
   },
   {
     "dish": "Berry & Goat Cheese Salad",
@@ -242,24 +242,24 @@
     "originalHeight": 1365,
     "variants": [
       {
-        "src": "menu-photos/berry-goat-cheese-salad-480.webp",
+        "src": "menu-photos/berry-goat-cheese-salad-hq-480.webp",
         "width": 480,
         "height": 320
       },
       {
-        "src": "menu-photos/berry-goat-cheese-salad-960.webp",
+        "src": "menu-photos/berry-goat-cheese-salad-hq-960.webp",
         "width": 960,
         "height": 640
       },
       {
-        "src": "menu-photos/berry-goat-cheese-salad-1600.webp",
+        "src": "menu-photos/berry-goat-cheese-salad-hq-1600.webp",
         "width": 1600,
         "height": 1066
       }
     ],
     "representative": false,
     "credit": null,
-    "changes": "Resized without upscaling; encoded as WebP. Aspect ratio retained."
+    "changes": "Resized without upscaling; encoded as WebP. Aspect ratio retained. Re-exported directly from original at WebP quality 95, without upscaling; complete dish framing."
   },
   {
     "dish": "Classic Hamburger",
@@ -268,17 +268,17 @@
     "originalHeight": 1247,
     "variants": [
       {
-        "src": "menu-photos/classic-hamburger-480.webp",
+        "src": "menu-photos/classic-hamburger-hq-480.webp",
         "width": 480,
         "height": 312
       },
       {
-        "src": "menu-photos/classic-hamburger-960.webp",
+        "src": "menu-photos/classic-hamburger-hq-960.webp",
         "width": 960,
         "height": 624
       },
       {
-        "src": "menu-photos/classic-hamburger-1920.webp",
+        "src": "menu-photos/classic-hamburger-hq-1920.webp",
         "width": 1920,
         "height": 1247
       }
@@ -291,7 +291,7 @@
       "license": "Public domain",
       "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
     },
-    "changes": "Resized without upscaling and encoded as WebP."
+    "changes": "Resized without upscaling and encoded as WebP. Re-exported directly from original at WebP quality 95, without upscaling; complete dish framing."
   },
   {
     "dish": "Western Chicken Burger",
@@ -300,24 +300,24 @@
     "originalHeight": 1614,
     "variants": [
       {
-        "src": "menu-photos/western-chicken-burger-480.webp",
+        "src": "menu-photos/western-chicken-burger-hq-480.webp",
         "width": 480,
         "height": 417
       },
       {
-        "src": "menu-photos/western-chicken-burger-960.webp",
+        "src": "menu-photos/western-chicken-burger-hq-960.webp",
         "width": 960,
         "height": 834
       },
       {
-        "src": "menu-photos/western-chicken-burger-1600.webp",
+        "src": "menu-photos/western-chicken-burger-hq-1600.webp",
         "width": 1600,
         "height": 1391
       }
     ],
     "representative": false,
     "credit": null,
-    "changes": "Resized without upscaling; encoded as WebP. Aspect ratio retained."
+    "changes": "Resized without upscaling; encoded as WebP. Aspect ratio retained. Re-exported directly from original at WebP quality 95, without upscaling; complete dish framing."
   },
   {
     "dish": "Bacon Cheese Burger",
@@ -326,24 +326,24 @@
     "originalHeight": 1024,
     "variants": [
       {
-        "src": "bacon-burger-light-bbq-480.webp",
+        "src": "menu-photos/bacon-cheese-burger-hq-480.webp",
         "width": 480,
         "height": 320
       },
       {
-        "src": "bacon-burger-light-bbq-960.webp",
+        "src": "menu-photos/bacon-cheese-burger-hq-960.webp",
         "width": 960,
         "height": 640
       },
       {
-        "src": "bacon-burger-light-bbq-1536.webp",
+        "src": "menu-photos/bacon-cheese-burger-hq-1536.webp",
         "width": 1536,
         "height": 1024
       }
     ],
     "representative": true,
     "credit": null,
-    "changes": "AI-edited illustrative image using built-in imagegen: replace thick red sauce with a light brown BBQ glaze; make crispy bacon and golden onion rings recognizable; preserve burger, plate, pickles and warm photography."
+    "changes": "AI-edited illustrative image using built-in imagegen: replace thick red sauce with a light brown BBQ glaze; make crispy bacon and golden onion rings recognizable; preserve burger, plate, pickles and warm photography. Re-exported directly from original at WebP quality 95, without upscaling; complete dish framing."
   },
   {
     "dish": "Avocado Mushroom Burger",
@@ -352,19 +352,19 @@
     "originalHeight": 339,
     "variants": [
       {
-        "src": "menu-photos/avocado-mushroom-burger-480.webp",
+        "src": "menu-photos/avocado-mushroom-burger-hq-480.webp",
         "width": 480,
         "height": 258
       },
       {
-        "src": "menu-photos/avocado-mushroom-burger-630.webp",
+        "src": "menu-photos/avocado-mushroom-burger-hq-630.webp",
         "width": 630,
         "height": 339
       }
     ],
     "representative": false,
     "credit": null,
-    "changes": "Resized without upscaling; encoded as WebP. Aspect ratio retained."
+    "changes": "Resized without upscaling; encoded as WebP. Aspect ratio retained. Re-exported directly from original at WebP quality 95, without upscaling; complete dish framing."
   },
   {
     "dish": "Double Cheese Burger",
@@ -373,24 +373,24 @@
     "originalHeight": 2048,
     "variants": [
       {
-        "src": "menu-photos/double-cheese-burger-480.webp",
+        "src": "menu-photos/double-cheese-burger-hq-480.webp",
         "width": 480,
         "height": 480
       },
       {
-        "src": "menu-photos/double-cheese-burger-960.webp",
+        "src": "menu-photos/double-cheese-burger-hq-960.webp",
         "width": 960,
         "height": 960
       },
       {
-        "src": "menu-photos/double-cheese-burger-1600.webp",
+        "src": "menu-photos/double-cheese-burger-hq-1600.webp",
         "width": 1600,
         "height": 1601
       }
     ],
     "representative": false,
     "credit": null,
-    "changes": "Resized without upscaling; encoded as WebP. Aspect ratio retained."
+    "changes": "Resized without upscaling; encoded as WebP. Aspect ratio retained. Re-exported directly from original at WebP quality 95, without upscaling; complete dish framing."
   },
   {
     "dish": "Big Pappa Burger",
@@ -399,24 +399,24 @@
     "originalHeight": 5920,
     "variants": [
       {
-        "src": "menu-photos/big-pappa-burger-480.webp",
+        "src": "menu-photos/big-pappa-burger-hq-480.webp",
         "width": 480,
         "height": 720
       },
       {
-        "src": "menu-photos/big-pappa-burger-960.webp",
+        "src": "menu-photos/big-pappa-burger-hq-960.webp",
         "width": 960,
         "height": 1440
       },
       {
-        "src": "menu-photos/big-pappa-burger-1600.webp",
+        "src": "menu-photos/big-pappa-burger-hq-1600.webp",
         "width": 1600,
         "height": 2400
       }
     ],
     "representative": false,
     "credit": null,
-    "changes": "Resized without upscaling; encoded as WebP. Aspect ratio retained."
+    "changes": "Resized without upscaling; encoded as WebP. Aspect ratio retained. Re-exported directly from original at WebP quality 95, without upscaling; complete dish framing."
   },
   {
     "dish": "Teriyaki Salmon Burger",
@@ -425,17 +425,17 @@
     "originalHeight": 683,
     "variants": [
       {
-        "src": "menu-photos/teriyaki-salmon-burger-480.webp",
+        "src": "menu-photos/teriyaki-salmon-burger-hq-480.webp",
         "width": 480,
         "height": 320
       },
       {
-        "src": "menu-photos/teriyaki-salmon-burger-960.webp",
+        "src": "menu-photos/teriyaki-salmon-burger-hq-960.webp",
         "width": 960,
         "height": 640
       },
       {
-        "src": "menu-photos/teriyaki-salmon-burger-1024.webp",
+        "src": "menu-photos/teriyaki-salmon-burger-hq-1024.webp",
         "width": 1024,
         "height": 683
       }
@@ -448,7 +448,7 @@
       "license": "CC BY-SA 2.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0"
     },
-    "changes": "Resized without upscaling; encoded as WebP. Aspect ratio retained."
+    "changes": "Resized without upscaling; encoded as WebP. Aspect ratio retained. Re-exported directly from original at WebP quality 95, without upscaling; complete dish framing."
   },
   {
     "dish": "Chicken Club Sandwich",
@@ -457,24 +457,24 @@
     "originalHeight": 6336,
     "variants": [
       {
-        "src": "menu-photos/chicken-club-sandwich-480.webp",
+        "src": "menu-photos/chicken-club-sandwich-hq-480.webp",
         "width": 480,
         "height": 320
       },
       {
-        "src": "menu-photos/chicken-club-sandwich-960.webp",
+        "src": "menu-photos/chicken-club-sandwich-hq-960.webp",
         "width": 960,
         "height": 640
       },
       {
-        "src": "menu-photos/chicken-club-sandwich-1600.webp",
+        "src": "menu-photos/chicken-club-sandwich-hq-1600.webp",
         "width": 1600,
         "height": 1067
       }
     ],
     "representative": false,
     "credit": null,
-    "changes": "Resized without upscaling; encoded as WebP. Aspect ratio retained."
+    "changes": "Resized without upscaling; encoded as WebP. Aspect ratio retained. Re-exported directly from original at WebP quality 95, without upscaling; complete dish framing."
   },
   {
     "dish": "Fish Sandwich",
@@ -483,24 +483,24 @@
     "originalHeight": 4480,
     "variants": [
       {
-        "src": "menu-photos/fish-sandwich-480.webp",
+        "src": "menu-photos/fish-sandwich-hq-480.webp",
         "width": 480,
         "height": 320
       },
       {
-        "src": "menu-photos/fish-sandwich-960.webp",
+        "src": "menu-photos/fish-sandwich-hq-960.webp",
         "width": 960,
         "height": 640
       },
       {
-        "src": "menu-photos/fish-sandwich-1600.webp",
+        "src": "menu-photos/fish-sandwich-hq-1600.webp",
         "width": 1600,
         "height": 1067
       }
     ],
     "representative": false,
     "credit": null,
-    "changes": "Resized without upscaling; encoded as WebP. Aspect ratio retained."
+    "changes": "Resized without upscaling; encoded as WebP. Aspect ratio retained. Re-exported directly from original at WebP quality 95, without upscaling; complete dish framing."
   },
   {
     "dish": "Santa Fe Chicken Sandwich",
@@ -509,19 +509,19 @@
     "originalHeight": 900,
     "variants": [
       {
-        "src": "menu-photos/santa-fe-chicken-sandwich-480.webp",
+        "src": "menu-photos/santa-fe-chicken-sandwich-hq-480.webp",
         "width": 480,
         "height": 720
       },
       {
-        "src": "menu-photos/santa-fe-chicken-sandwich-600.webp",
+        "src": "menu-photos/santa-fe-chicken-sandwich-hq-600.webp",
         "width": 600,
         "height": 900
       }
     ],
     "representative": false,
     "credit": null,
-    "changes": "Resized without upscaling; encoded as WebP. Aspect ratio retained."
+    "changes": "Resized without upscaling; encoded as WebP. Aspect ratio retained. Re-exported directly from original at WebP quality 95, without upscaling; complete dish framing."
   },
   {
     "dish": "Chicken Kebab",
@@ -530,24 +530,24 @@
     "originalHeight": 2000,
     "variants": [
       {
-        "src": "menu-photos/chicken-kebab-480.webp",
+        "src": "menu-photos/chicken-kebab-hq-480.webp",
         "width": 480,
         "height": 640
       },
       {
-        "src": "menu-photos/chicken-kebab-960.webp",
+        "src": "menu-photos/chicken-kebab-hq-960.webp",
         "width": 960,
         "height": 1280
       },
       {
-        "src": "menu-photos/chicken-kebab-1500.webp",
+        "src": "menu-photos/chicken-kebab-hq-1500.webp",
         "width": 1500,
         "height": 2000
       }
     ],
     "representative": false,
     "credit": null,
-    "changes": "Resized without upscaling; encoded as WebP. Aspect ratio retained."
+    "changes": "Resized without upscaling; encoded as WebP. Aspect ratio retained. Re-exported directly from original at WebP quality 95, without upscaling; complete dish framing."
   },
   {
     "dish": "Garlic Parmesan Steak Kebab",
@@ -556,24 +556,24 @@
     "originalHeight": 4240,
     "variants": [
       {
-        "src": "menu-photos/garlic-parmesan-steak-kebab-480.webp",
+        "src": "menu-photos/garlic-parmesan-steak-kebab-hq-480.webp",
         "width": 480,
         "height": 719
       },
       {
-        "src": "menu-photos/garlic-parmesan-steak-kebab-960.webp",
+        "src": "menu-photos/garlic-parmesan-steak-kebab-hq-960.webp",
         "width": 960,
         "height": 1437
       },
       {
-        "src": "menu-photos/garlic-parmesan-steak-kebab-1600.webp",
+        "src": "menu-photos/garlic-parmesan-steak-kebab-hq-1600.webp",
         "width": 1600,
         "height": 2395
       }
     ],
     "representative": false,
     "credit": null,
-    "changes": "Resized without upscaling; encoded as WebP. Aspect ratio retained."
+    "changes": "Resized without upscaling; encoded as WebP. Aspect ratio retained. Re-exported directly from original at WebP quality 95, without upscaling; complete dish framing."
   },
   {
     "dish": "Steakhouse Beef Kebab",
@@ -582,24 +582,24 @@
     "originalHeight": 1365,
     "variants": [
       {
-        "src": "menu-photos/steakhouse-beef-kebab-480.webp",
+        "src": "menu-photos/steakhouse-beef-kebab-hq-480.webp",
         "width": 480,
         "height": 320
       },
       {
-        "src": "menu-photos/steakhouse-beef-kebab-960.webp",
+        "src": "menu-photos/steakhouse-beef-kebab-hq-960.webp",
         "width": 960,
         "height": 640
       },
       {
-        "src": "menu-photos/steakhouse-beef-kebab-1600.webp",
+        "src": "menu-photos/steakhouse-beef-kebab-hq-1600.webp",
         "width": 1600,
         "height": 1066
       }
     ],
     "representative": false,
     "credit": null,
-    "changes": "Resized without upscaling; encoded as WebP. Aspect ratio retained."
+    "changes": "Resized without upscaling; encoded as WebP. Aspect ratio retained. Re-exported directly from original at WebP quality 95, without upscaling; complete dish framing."
   },
   {
     "dish": "Mediterranean Lamb Kebab",
@@ -608,17 +608,17 @@
     "originalHeight": 960,
     "variants": [
       {
-        "src": "menu-photos/mediterranean-lamb-kebab-480.webp",
+        "src": "menu-photos/mediterranean-lamb-kebab-hq-480.webp",
         "width": 480,
         "height": 360
       },
       {
-        "src": "menu-photos/mediterranean-lamb-kebab-960.webp",
+        "src": "menu-photos/mediterranean-lamb-kebab-hq-960.webp",
         "width": 960,
         "height": 720
       },
       {
-        "src": "menu-photos/mediterranean-lamb-kebab-1280.webp",
+        "src": "menu-photos/mediterranean-lamb-kebab-hq-1280.webp",
         "width": 1280,
         "height": 960
       }
@@ -631,7 +631,7 @@
       "license": "CC BY-SA 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
     },
-    "changes": "Resized without upscaling; encoded as WebP. Aspect ratio retained."
+    "changes": "Resized without upscaling; encoded as WebP. Aspect ratio retained. Re-exported directly from original at WebP quality 95, without upscaling; complete dish framing."
   },
   {
     "dish": "Mixed Grill Kebab",
@@ -640,17 +640,17 @@
     "originalHeight": 851,
     "variants": [
       {
-        "src": "menu-photos/mixed-grill-kebab-480.webp",
+        "src": "menu-photos/mixed-grill-kebab-hq-480.webp",
         "width": 480,
         "height": 319
       },
       {
-        "src": "menu-photos/mixed-grill-kebab-960.webp",
+        "src": "menu-photos/mixed-grill-kebab-hq-960.webp",
         "width": 960,
         "height": 638
       },
       {
-        "src": "menu-photos/mixed-grill-kebab-1280.webp",
+        "src": "menu-photos/mixed-grill-kebab-hq-1280.webp",
         "width": 1280,
         "height": 851
       }
@@ -663,7 +663,7 @@
       "license": "CC BY-SA 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
     },
-    "changes": "Resized without upscaling; encoded as WebP. Aspect ratio retained."
+    "changes": "Resized without upscaling; encoded as WebP. Aspect ratio retained. Re-exported directly from original at WebP quality 95, without upscaling; complete dish framing."
   },
   {
     "dish": "Tri-Tip & Chicken Combo",
@@ -672,24 +672,24 @@
     "originalHeight": 3512,
     "variants": [
       {
-        "src": "menu-photos/tri-tip-chicken-combo-480.webp",
+        "src": "menu-photos/tri-tip-chicken-combo-hq-480.webp",
         "width": 480,
         "height": 320
       },
       {
-        "src": "menu-photos/tri-tip-chicken-combo-960.webp",
+        "src": "menu-photos/tri-tip-chicken-combo-hq-960.webp",
         "width": 960,
         "height": 640
       },
       {
-        "src": "menu-photos/tri-tip-chicken-combo-1600.webp",
+        "src": "menu-photos/tri-tip-chicken-combo-hq-1600.webp",
         "width": 1600,
         "height": 1067
       }
     ],
     "representative": false,
     "credit": null,
-    "changes": "Resized without upscaling; encoded as WebP. Aspect ratio retained."
+    "changes": "Resized without upscaling; encoded as WebP. Aspect ratio retained. Re-exported directly from original at WebP quality 95, without upscaling; complete dish framing."
   },
   {
     "dish": "Tri-Tip & Shrimp Combo",
@@ -698,24 +698,24 @@
     "originalHeight": 3471,
     "variants": [
       {
-        "src": "menu-photos/tri-tip-shrimp-combo-480.webp",
+        "src": "menu-photos/tri-tip-shrimp-combo-hq-480.webp",
         "width": 480,
         "height": 299
       },
       {
-        "src": "menu-photos/tri-tip-shrimp-combo-960.webp",
+        "src": "menu-photos/tri-tip-shrimp-combo-hq-960.webp",
         "width": 960,
         "height": 598
       },
       {
-        "src": "menu-photos/tri-tip-shrimp-combo-1600.webp",
+        "src": "menu-photos/tri-tip-shrimp-combo-hq-1600.webp",
         "width": 1600,
         "height": 997
       }
     ],
     "representative": false,
     "credit": null,
-    "changes": "Resized without upscaling; encoded as WebP. Aspect ratio retained."
+    "changes": "Resized without upscaling; encoded as WebP. Aspect ratio retained. Re-exported directly from original at WebP quality 95, without upscaling; complete dish framing."
   },
   {
     "dish": "Fish & Chips",
@@ -724,24 +724,24 @@
     "originalHeight": 1367,
     "variants": [
       {
-        "src": "menu-photos/fish-chips-480.webp",
+        "src": "menu-photos/fish-chips-hq-480.webp",
         "width": 480,
         "height": 320
       },
       {
-        "src": "menu-photos/fish-chips-960.webp",
+        "src": "menu-photos/fish-chips-hq-960.webp",
         "width": 960,
         "height": 641
       },
       {
-        "src": "menu-photos/fish-chips-1600.webp",
+        "src": "menu-photos/fish-chips-hq-1600.webp",
         "width": 1600,
         "height": 1068
       }
     ],
     "representative": false,
     "credit": null,
-    "changes": "Resized without upscaling; encoded as WebP. Aspect ratio retained."
+    "changes": "Resized without upscaling; encoded as WebP. Aspect ratio retained. Re-exported directly from original at WebP quality 95, without upscaling; complete dish framing."
   },
   {
     "dish": "Chicken Alfredo",
@@ -750,24 +750,24 @@
     "originalHeight": 1445,
     "variants": [
       {
-        "src": "menu-photos/chicken-alfredo-480.webp",
+        "src": "menu-photos/chicken-alfredo-hq-480.webp",
         "width": 480,
         "height": 339
       },
       {
-        "src": "menu-photos/chicken-alfredo-960.webp",
+        "src": "menu-photos/chicken-alfredo-hq-960.webp",
         "width": 960,
         "height": 677
       },
       {
-        "src": "menu-photos/chicken-alfredo-1600.webp",
+        "src": "menu-photos/chicken-alfredo-hq-1600.webp",
         "width": 1600,
         "height": 1129
       }
     ],
     "representative": false,
     "credit": null,
-    "changes": "Resized without upscaling; encoded as WebP. Aspect ratio retained."
+    "changes": "Resized without upscaling; encoded as WebP. Aspect ratio retained. Re-exported directly from original at WebP quality 95, without upscaling; complete dish framing."
   },
   {
     "dish": "Atlantic / Blackened Salmon",
@@ -776,24 +776,24 @@
     "originalHeight": 1414,
     "variants": [
       {
-        "src": "menu-photos/atlantic-blackened-salmon-480.webp",
+        "src": "menu-photos/atlantic-blackened-salmon-hq-480.webp",
         "width": 480,
         "height": 320
       },
       {
-        "src": "menu-photos/atlantic-blackened-salmon-960.webp",
+        "src": "menu-photos/atlantic-blackened-salmon-hq-960.webp",
         "width": 960,
         "height": 640
       },
       {
-        "src": "menu-photos/atlantic-blackened-salmon-1600.webp",
+        "src": "menu-photos/atlantic-blackened-salmon-hq-1600.webp",
         "width": 1600,
         "height": 1067
       }
     ],
     "representative": false,
     "credit": null,
-    "changes": "Resized without upscaling; encoded as WebP. Aspect ratio retained."
+    "changes": "Resized without upscaling; encoded as WebP. Aspect ratio retained. Re-exported directly from original at WebP quality 95, without upscaling; complete dish framing."
   },
   {
     "dish": "Slow Roasted Tri-Tip",
@@ -802,24 +802,24 @@
     "originalHeight": 944,
     "variants": [
       {
-        "src": "menu-photos/slow-roasted-tri-tip-480.webp",
+        "src": "menu-photos/slow-roasted-tri-tip-hq-480.webp",
         "width": 480,
         "height": 354
       },
       {
-        "src": "menu-photos/slow-roasted-tri-tip-960.webp",
+        "src": "menu-photos/slow-roasted-tri-tip-hq-960.webp",
         "width": 960,
         "height": 708
       },
       {
-        "src": "menu-photos/slow-roasted-tri-tip-1280.webp",
+        "src": "menu-photos/slow-roasted-tri-tip-hq-1280.webp",
         "width": 1280,
         "height": 944
       }
     ],
     "representative": false,
     "credit": null,
-    "changes": "Resized without upscaling; encoded as WebP. Aspect ratio retained."
+    "changes": "Resized without upscaling; encoded as WebP. Aspect ratio retained. Re-exported directly from original at WebP quality 95, without upscaling; complete dish framing."
   },
   {
     "dish": "Lamb Chop Dinner",
@@ -828,17 +828,17 @@
     "originalHeight": 960,
     "variants": [
       {
-        "src": "menu-photos/lamb-chop-dinner-480.webp",
+        "src": "menu-photos/lamb-chop-dinner-hq-480.webp",
         "width": 480,
         "height": 360
       },
       {
-        "src": "menu-photos/lamb-chop-dinner-960.webp",
+        "src": "menu-photos/lamb-chop-dinner-hq-960.webp",
         "width": 960,
         "height": 720
       },
       {
-        "src": "menu-photos/lamb-chop-dinner-1280.webp",
+        "src": "menu-photos/lamb-chop-dinner-hq-1280.webp",
         "width": 1280,
         "height": 960
       }
@@ -851,7 +851,7 @@
       "license": "CC BY-SA 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
     },
-    "changes": "Resized without upscaling; encoded as WebP. Aspect ratio retained."
+    "changes": "Resized without upscaling; encoded as WebP. Aspect ratio retained. Re-exported directly from original at WebP quality 95, without upscaling; complete dish framing."
   },
   {
     "dish": "BBQ Chicken Flat Bread",
@@ -860,24 +860,24 @@
     "originalHeight": 1365,
     "variants": [
       {
-        "src": "menu-photos/bbq-chicken-flat-bread-480.webp",
+        "src": "menu-photos/bbq-chicken-flat-bread-hq-480.webp",
         "width": 480,
         "height": 320
       },
       {
-        "src": "menu-photos/bbq-chicken-flat-bread-960.webp",
+        "src": "menu-photos/bbq-chicken-flat-bread-hq-960.webp",
         "width": 960,
         "height": 640
       },
       {
-        "src": "menu-photos/bbq-chicken-flat-bread-1600.webp",
+        "src": "menu-photos/bbq-chicken-flat-bread-hq-1600.webp",
         "width": 1600,
         "height": 1066
       }
     ],
     "representative": false,
     "credit": null,
-    "changes": "Resized without upscaling; encoded as WebP. Aspect ratio retained."
+    "changes": "Resized without upscaling; encoded as WebP. Aspect ratio retained. Re-exported directly from original at WebP quality 95, without upscaling; complete dish framing."
   },
   {
     "dish": "Pepperoni Flat Bread",
@@ -886,24 +886,24 @@
     "originalHeight": 3456,
     "variants": [
       {
-        "src": "menu-photos/pepperoni-flat-bread-480.webp",
+        "src": "menu-photos/pepperoni-flat-bread-hq-480.webp",
         "width": 480,
         "height": 360
       },
       {
-        "src": "menu-photos/pepperoni-flat-bread-960.webp",
+        "src": "menu-photos/pepperoni-flat-bread-hq-960.webp",
         "width": 960,
         "height": 720
       },
       {
-        "src": "menu-photos/pepperoni-flat-bread-1600.webp",
+        "src": "menu-photos/pepperoni-flat-bread-hq-1600.webp",
         "width": 1600,
         "height": 1200
       }
     ],
     "representative": false,
     "credit": null,
-    "changes": "Resized without upscaling; encoded as WebP. Aspect ratio retained."
+    "changes": "Resized without upscaling; encoded as WebP. Aspect ratio retained. Re-exported directly from original at WebP quality 95, without upscaling; complete dish framing."
   },
   {
     "dish": "Steakhouse Flat Bread",
@@ -912,24 +912,24 @@
     "originalHeight": 4032,
     "variants": [
       {
-        "src": "menu-photos/steakhouse-flat-bread-480.webp",
+        "src": "menu-photos/steakhouse-flat-bread-hq-480.webp",
         "width": 480,
         "height": 640
       },
       {
-        "src": "menu-photos/steakhouse-flat-bread-960.webp",
+        "src": "menu-photos/steakhouse-flat-bread-hq-960.webp",
         "width": 960,
         "height": 1280
       },
       {
-        "src": "menu-photos/steakhouse-flat-bread-1600.webp",
+        "src": "menu-photos/steakhouse-flat-bread-hq-1600.webp",
         "width": 1600,
         "height": 2133
       }
     ],
     "representative": false,
     "credit": null,
-    "changes": "Resized without upscaling; encoded as WebP. Aspect ratio retained."
+    "changes": "Resized without upscaling; encoded as WebP. Aspect ratio retained. Re-exported directly from original at WebP quality 95, without upscaling; complete dish framing."
   },
   {
     "dish": "Mini Cheese Burger",
@@ -938,24 +938,24 @@
     "originalHeight": 1453,
     "variants": [
       {
-        "src": "menu-photos/mini-cheese-burger-480.webp",
+        "src": "menu-photos/mini-cheese-burger-hq-480.webp",
         "width": 480,
         "height": 341
       },
       {
-        "src": "menu-photos/mini-cheese-burger-960.webp",
+        "src": "menu-photos/mini-cheese-burger-hq-960.webp",
         "width": 960,
         "height": 681
       },
       {
-        "src": "menu-photos/mini-cheese-burger-1600.webp",
+        "src": "menu-photos/mini-cheese-burger-hq-1600.webp",
         "width": 1600,
         "height": 1135
       }
     ],
     "representative": false,
     "credit": null,
-    "changes": "Resized without upscaling; encoded as WebP. Aspect ratio retained."
+    "changes": "Resized without upscaling; encoded as WebP. Aspect ratio retained. Re-exported directly from original at WebP quality 95, without upscaling; complete dish framing."
   },
   {
     "dish": "Crispy Chicken Bites",
@@ -964,24 +964,24 @@
     "originalHeight": 800,
     "variants": [
       {
-        "src": "menu-photos/crispy-chicken-bites-480.webp",
+        "src": "menu-photos/crispy-chicken-bites-hq-480.webp",
         "width": 480,
         "height": 320
       },
       {
-        "src": "menu-photos/crispy-chicken-bites-960.webp",
+        "src": "menu-photos/crispy-chicken-bites-hq-960.webp",
         "width": 960,
         "height": 640
       },
       {
-        "src": "menu-photos/crispy-chicken-bites-1200.webp",
+        "src": "menu-photos/crispy-chicken-bites-hq-1200.webp",
         "width": 1200,
         "height": 800
       }
     ],
     "representative": false,
     "credit": null,
-    "changes": "Resized without upscaling; encoded as WebP. Aspect ratio retained."
+    "changes": "Resized without upscaling; encoded as WebP. Aspect ratio retained. Re-exported directly from original at WebP quality 95, without upscaling; complete dish framing."
   },
   {
     "dish": "Mini Cheese Pizza",
@@ -990,24 +990,24 @@
     "originalHeight": 1200,
     "variants": [
       {
-        "src": "menu-photos/mini-cheese-pizza-480.webp",
+        "src": "menu-photos/mini-cheese-pizza-hq-480.webp",
         "width": 480,
         "height": 480
       },
       {
-        "src": "menu-photos/mini-cheese-pizza-960.webp",
+        "src": "menu-photos/mini-cheese-pizza-hq-960.webp",
         "width": 960,
         "height": 960
       },
       {
-        "src": "menu-photos/mini-cheese-pizza-1200.webp",
+        "src": "menu-photos/mini-cheese-pizza-hq-1200.webp",
         "width": 1200,
         "height": 1200
       }
     ],
     "representative": false,
     "credit": null,
-    "changes": "Resized without upscaling; encoded as WebP. Aspect ratio retained."
+    "changes": "Resized without upscaling; encoded as WebP. Aspect ratio retained. Re-exported directly from original at WebP quality 95, without upscaling; complete dish framing."
   },
   {
     "dish": "Kids Boneless Wings",
@@ -1016,24 +1016,24 @@
     "originalHeight": 3016,
     "variants": [
       {
-        "src": "menu-photos/kids-boneless-wings-480.webp",
+        "src": "menu-photos/kids-boneless-wings-hq-480.webp",
         "width": 480,
         "height": 480
       },
       {
-        "src": "menu-photos/kids-boneless-wings-960.webp",
+        "src": "menu-photos/kids-boneless-wings-hq-960.webp",
         "width": 960,
         "height": 960
       },
       {
-        "src": "menu-photos/kids-boneless-wings-1600.webp",
+        "src": "menu-photos/kids-boneless-wings-hq-1600.webp",
         "width": 1600,
         "height": 1600
       }
     ],
     "representative": false,
     "credit": null,
-    "changes": "Resized without upscaling; encoded as WebP. Aspect ratio retained."
+    "changes": "Resized without upscaling; encoded as WebP. Aspect ratio retained. Re-exported directly from original at WebP quality 95, without upscaling; complete dish framing."
   },
   {
     "dish": "Mini Corn Dogs",
@@ -1042,24 +1042,24 @@
     "originalHeight": 900,
     "variants": [
       {
-        "src": "menu-photos/mini-corn-dogs-480.webp",
+        "src": "menu-photos/mini-corn-dogs-hq-480.webp",
         "width": 480,
         "height": 360
       },
       {
-        "src": "menu-photos/mini-corn-dogs-960.webp",
+        "src": "menu-photos/mini-corn-dogs-hq-960.webp",
         "width": 960,
         "height": 720
       },
       {
-        "src": "menu-photos/mini-corn-dogs-1200.webp",
+        "src": "menu-photos/mini-corn-dogs-hq-1200.webp",
         "width": 1200,
         "height": 900
       }
     ],
     "representative": false,
     "credit": null,
-    "changes": "Resized without upscaling; encoded as WebP. Aspect ratio retained."
+    "changes": "Resized without upscaling; encoded as WebP. Aspect ratio retained. Re-exported directly from original at WebP quality 95, without upscaling; complete dish framing."
   },
   {
     "dish": "Kids Alfredo",
@@ -1068,19 +1068,19 @@
     "originalHeight": 424,
     "variants": [
       {
-        "src": "menu-photos/kids-alfredo-480.webp",
+        "src": "menu-photos/kids-alfredo-hq-480.webp",
         "width": 480,
         "height": 320
       },
       {
-        "src": "menu-photos/kids-alfredo-636.webp",
+        "src": "menu-photos/kids-alfredo-hq-636.webp",
         "width": 636,
         "height": 424
       }
     ],
     "representative": false,
     "credit": null,
-    "changes": "Resized without upscaling; encoded as WebP. Aspect ratio retained."
+    "changes": "Resized without upscaling; encoded as WebP. Aspect ratio retained. Re-exported directly from original at WebP quality 95, without upscaling; complete dish framing."
   },
   {
     "dish": "Vanilla Milkshake",
@@ -1089,24 +1089,24 @@
     "originalHeight": 2048,
     "variants": [
       {
-        "src": "menu-photos/vanilla-milkshake-480.webp",
+        "src": "menu-photos/vanilla-milkshake-hq-480.webp",
         "width": 480,
         "height": 720
       },
       {
-        "src": "menu-photos/vanilla-milkshake-960.webp",
+        "src": "menu-photos/vanilla-milkshake-hq-960.webp",
         "width": 960,
         "height": 1439
       },
       {
-        "src": "menu-photos/vanilla-milkshake-1366.webp",
+        "src": "menu-photos/vanilla-milkshake-hq-1366.webp",
         "width": 1366,
         "height": 2048
       }
     ],
     "representative": false,
     "credit": null,
-    "changes": "Resized without upscaling; encoded as WebP. Aspect ratio retained."
+    "changes": "Resized without upscaling; encoded as WebP. Aspect ratio retained. Re-exported directly from original at WebP quality 95, without upscaling; complete dish framing."
   },
   {
     "dish": "Mango Milkshake",
@@ -1115,19 +1115,19 @@
     "originalHeight": 1031,
     "variants": [
       {
-        "src": "menu-photos/mango-milkshake-480.webp",
+        "src": "menu-photos/mango-milkshake-hq-480.webp",
         "width": 480,
         "height": 720
       },
       {
-        "src": "menu-photos/mango-milkshake-687.webp",
+        "src": "menu-photos/mango-milkshake-hq-687.webp",
         "width": 687,
         "height": 1031
       }
     ],
     "representative": false,
     "credit": null,
-    "changes": "Resized without upscaling; encoded as WebP. Aspect ratio retained."
+    "changes": "Resized without upscaling; encoded as WebP. Aspect ratio retained. Re-exported directly from original at WebP quality 95, without upscaling; complete dish framing."
   },
   {
     "dish": "Chocolate Milkshake",
@@ -1136,19 +1136,19 @@
     "originalHeight": 900,
     "variants": [
       {
-        "src": "menu-photos/chocolate-milkshake-480.webp",
+        "src": "menu-photos/chocolate-milkshake-hq-480.webp",
         "width": 480,
         "height": 720
       },
       {
-        "src": "menu-photos/chocolate-milkshake-600.webp",
+        "src": "menu-photos/chocolate-milkshake-hq-600.webp",
         "width": 600,
         "height": 900
       }
     ],
     "representative": false,
     "credit": null,
-    "changes": "Resized without upscaling; encoded as WebP. Aspect ratio retained."
+    "changes": "Resized without upscaling; encoded as WebP. Aspect ratio retained. Re-exported directly from original at WebP quality 95, without upscaling; complete dish framing."
   },
   {
     "dish": "Cheesecake",
@@ -1157,24 +1157,24 @@
     "originalHeight": 1449,
     "variants": [
       {
-        "src": "menu-photos/cheesecake-480.webp",
+        "src": "menu-photos/cheesecake-hq-480.webp",
         "width": 480,
         "height": 336
       },
       {
-        "src": "menu-photos/cheesecake-960.webp",
+        "src": "menu-photos/cheesecake-hq-960.webp",
         "width": 960,
         "height": 673
       },
       {
-        "src": "menu-photos/cheesecake-1600.webp",
+        "src": "menu-photos/cheesecake-hq-1600.webp",
         "width": 1600,
         "height": 1121
       }
     ],
     "representative": false,
     "credit": null,
-    "changes": "Resized without upscaling; encoded as WebP. Aspect ratio retained."
+    "changes": "Resized without upscaling; encoded as WebP. Aspect ratio retained. Re-exported directly from original at WebP quality 95, without upscaling; complete dish framing."
   },
   {
     "dish": "Chocolate Cake",
@@ -1183,24 +1183,24 @@
     "originalHeight": 1365,
     "variants": [
       {
-        "src": "menu-photos/chocolate-cake-480.webp",
+        "src": "menu-photos/chocolate-cake-hq-480.webp",
         "width": 480,
         "height": 320
       },
       {
-        "src": "menu-photos/chocolate-cake-960.webp",
+        "src": "menu-photos/chocolate-cake-hq-960.webp",
         "width": 960,
         "height": 640
       },
       {
-        "src": "menu-photos/chocolate-cake-1600.webp",
+        "src": "menu-photos/chocolate-cake-hq-1600.webp",
         "width": 1600,
         "height": 1066
       }
     ],
     "representative": false,
     "credit": null,
-    "changes": "Resized without upscaling; encoded as WebP. Aspect ratio retained."
+    "changes": "Resized without upscaling; encoded as WebP. Aspect ratio retained. Re-exported directly from original at WebP quality 95, without upscaling; complete dish framing."
   },
   {
     "dish": "Cookies & Cream Cookie Skillet",
@@ -1209,24 +1209,24 @@
     "originalHeight": 1282,
     "variants": [
       {
-        "src": "menu-photos/cookies-cream-cookie-skillet-480.webp",
+        "src": "menu-photos/cookies-cream-cookie-skillet-hq-480.webp",
         "width": 480,
         "height": 300
       },
       {
-        "src": "menu-photos/cookies-cream-cookie-skillet-960.webp",
+        "src": "menu-photos/cookies-cream-cookie-skillet-hq-960.webp",
         "width": 960,
         "height": 601
       },
       {
-        "src": "menu-photos/cookies-cream-cookie-skillet-1600.webp",
+        "src": "menu-photos/cookies-cream-cookie-skillet-hq-1600.webp",
         "width": 1600,
         "height": 1002
       }
     ],
     "representative": false,
     "credit": null,
-    "changes": "Resized without upscaling; encoded as WebP. Aspect ratio retained."
+    "changes": "Resized without upscaling; encoded as WebP. Aspect ratio retained. Re-exported directly from original at WebP quality 95, without upscaling; complete dish framing."
   },
   {
     "dish": "Chocolate Chunk Cookie Skillet",
@@ -1235,24 +1235,24 @@
     "originalHeight": 1367,
     "variants": [
       {
-        "src": "menu-photos/chocolate-chunk-cookie-skillet-480.webp",
+        "src": "menu-photos/chocolate-chunk-cookie-skillet-hq-480.webp",
         "width": 480,
         "height": 320
       },
       {
-        "src": "menu-photos/chocolate-chunk-cookie-skillet-960.webp",
+        "src": "menu-photos/chocolate-chunk-cookie-skillet-hq-960.webp",
         "width": 960,
         "height": 641
       },
       {
-        "src": "menu-photos/chocolate-chunk-cookie-skillet-1600.webp",
+        "src": "menu-photos/chocolate-chunk-cookie-skillet-hq-1600.webp",
         "width": 1600,
         "height": 1068
       }
     ],
     "representative": false,
     "credit": null,
-    "changes": "Resized without upscaling; encoded as WebP. Aspect ratio retained."
+    "changes": "Resized without upscaling; encoded as WebP. Aspect ratio retained. Re-exported directly from original at WebP quality 95, without upscaling; complete dish framing."
   },
   {
     "dish": "Strawberry Shortcake Cookie Sundae",
@@ -1261,19 +1261,19 @@
     "originalHeight": 1232,
     "variants": [
       {
-        "src": "menu-photos/strawberry-shortcake-cookie-sundae-480.webp",
+        "src": "menu-photos/strawberry-shortcake-cookie-sundae-hq-480.webp",
         "width": 480,
         "height": 637
       },
       {
-        "src": "menu-photos/strawberry-shortcake-cookie-sundae-928.webp",
+        "src": "menu-photos/strawberry-shortcake-cookie-sundae-hq-928.webp",
         "width": 928,
         "height": 1232
       }
     ],
     "representative": false,
     "credit": null,
-    "changes": "Resized without upscaling; encoded as WebP. Aspect ratio retained."
+    "changes": "Resized without upscaling; encoded as WebP. Aspect ratio retained. Re-exported directly from original at WebP quality 95, without upscaling; complete dish framing."
   },
   {
     "dish": "Triple Chocolate Cookie Sundae",
@@ -1282,24 +1282,24 @@
     "originalHeight": 1800,
     "variants": [
       {
-        "src": "menu-photos/triple-chocolate-cookie-sundae-480.webp",
+        "src": "menu-photos/triple-chocolate-cookie-sundae-hq-480.webp",
         "width": 480,
         "height": 720
       },
       {
-        "src": "menu-photos/triple-chocolate-cookie-sundae-960.webp",
+        "src": "menu-photos/triple-chocolate-cookie-sundae-hq-960.webp",
         "width": 960,
         "height": 1440
       },
       {
-        "src": "menu-photos/triple-chocolate-cookie-sundae-1200.webp",
+        "src": "menu-photos/triple-chocolate-cookie-sundae-hq-1200.webp",
         "width": 1200,
         "height": 1800
       }
     ],
     "representative": false,
     "credit": null,
-    "changes": "Resized without upscaling; encoded as WebP. Aspect ratio retained."
+    "changes": "Resized without upscaling; encoded as WebP. Aspect ratio retained. Re-exported directly from original at WebP quality 95, without upscaling; complete dish framing."
   },
   {
     "dish": "Cookie Trio Skillet",
@@ -1308,19 +1308,19 @@
     "originalHeight": 800,
     "variants": [
       {
-        "src": "menu-photos/cookie-trio-skillet-480.webp",
+        "src": "menu-photos/cookie-trio-skillet-hq-480.webp",
         "width": 480,
         "height": 480
       },
       {
-        "src": "menu-photos/cookie-trio-skillet-800.webp",
+        "src": "menu-photos/cookie-trio-skillet-hq-800.webp",
         "width": 800,
         "height": 800
       }
     ],
     "representative": false,
     "credit": null,
-    "changes": "Resized without upscaling; encoded as WebP. Aspect ratio retained."
+    "changes": "Resized without upscaling; encoded as WebP. Aspect ratio retained. Re-exported directly from original at WebP quality 95, without upscaling; complete dish framing."
   },
   {
     "dish": "Honey Sriracha Chicken Biscuit",
@@ -1329,17 +1329,17 @@
     "originalHeight": 1600,
     "variants": [
       {
-        "src": "menu-photos/honey-sriracha-chicken-biscuit-480.webp",
+        "src": "menu-photos/honey-sriracha-chicken-biscuit-hq-480.webp",
         "width": 480,
         "height": 600
       },
       {
-        "src": "menu-photos/honey-sriracha-chicken-biscuit-960.webp",
+        "src": "menu-photos/honey-sriracha-chicken-biscuit-hq-960.webp",
         "width": 960,
         "height": 1200
       },
       {
-        "src": "menu-photos/honey-sriracha-chicken-biscuit-1280.webp",
+        "src": "menu-photos/honey-sriracha-chicken-biscuit-hq-1280.webp",
         "width": 1280,
         "height": 1600
       }
@@ -1352,7 +1352,7 @@
       "license": "CC BY-SA 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
     },
-    "changes": "Resized without upscaling; encoded as WebP. Aspect ratio retained."
+    "changes": "Resized without upscaling; encoded as WebP. Aspect ratio retained. Re-exported directly from original at WebP quality 95, without upscaling; complete dish framing."
   },
   {
     "dish": "Biscuits & Gravy",
@@ -1361,17 +1361,17 @@
     "originalHeight": 1707,
     "variants": [
       {
-        "src": "menu-photos/biscuits-gravy-480.webp",
+        "src": "menu-photos/biscuits-gravy-hq-480.webp",
         "width": 480,
         "height": 640
       },
       {
-        "src": "menu-photos/biscuits-gravy-960.webp",
+        "src": "menu-photos/biscuits-gravy-hq-960.webp",
         "width": 960,
         "height": 1280
       },
       {
-        "src": "menu-photos/biscuits-gravy-1280.webp",
+        "src": "menu-photos/biscuits-gravy-hq-1280.webp",
         "width": 1280,
         "height": 1707
       }
@@ -1384,7 +1384,7 @@
       "license": "CC BY-SA 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
     },
-    "changes": "Resized without upscaling; encoded as WebP. Aspect ratio retained."
+    "changes": "Resized without upscaling; encoded as WebP. Aspect ratio retained. Re-exported directly from original at WebP quality 95, without upscaling; complete dish framing."
   },
   {
     "dish": "Chicken & Waffle",
@@ -1393,17 +1393,17 @@
     "originalHeight": 960,
     "variants": [
       {
-        "src": "menu-photos/chicken-waffle-480.webp",
+        "src": "menu-photos/chicken-waffle-hq-480.webp",
         "width": 480,
         "height": 360
       },
       {
-        "src": "menu-photos/chicken-waffle-960.webp",
+        "src": "menu-photos/chicken-waffle-hq-960.webp",
         "width": 960,
         "height": 720
       },
       {
-        "src": "menu-photos/chicken-waffle-1280.webp",
+        "src": "menu-photos/chicken-waffle-hq-1280.webp",
         "width": 1280,
         "height": 960
       }
@@ -1416,7 +1416,7 @@
       "license": "CC0",
       "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en"
     },
-    "changes": "Resized without upscaling; encoded as WebP. Aspect ratio retained."
+    "changes": "Resized without upscaling; encoded as WebP. Aspect ratio retained. Re-exported directly from original at WebP quality 95, without upscaling; complete dish framing."
   },
   {
     "dish": "Shrimp & Grits",
@@ -1425,17 +1425,17 @@
     "originalHeight": 850,
     "variants": [
       {
-        "src": "menu-photos/shrimp-grits-480.webp",
+        "src": "menu-photos/shrimp-grits-hq-480.webp",
         "width": 480,
         "height": 319
       },
       {
-        "src": "menu-photos/shrimp-grits-960.webp",
+        "src": "menu-photos/shrimp-grits-hq-960.webp",
         "width": 960,
         "height": 638
       },
       {
-        "src": "menu-photos/shrimp-grits-1280.webp",
+        "src": "menu-photos/shrimp-grits-hq-1280.webp",
         "width": 1280,
         "height": 850
       }
@@ -1448,7 +1448,7 @@
       "license": "CC BY 2.0",
       "licenseUrl": "https://creativecommons.org/licenses/by/2.0"
     },
-    "changes": "Resized without upscaling; encoded as WebP. Aspect ratio retained."
+    "changes": "Resized without upscaling; encoded as WebP. Aspect ratio retained. Re-exported directly from original at WebP quality 95, without upscaling; complete dish framing."
   },
   {
     "dish": "Country Boy Waffle",
@@ -1457,17 +1457,17 @@
     "originalHeight": 964,
     "variants": [
       {
-        "src": "menu-photos/country-boy-waffle-480.webp",
+        "src": "menu-photos/country-boy-waffle-hq-480.webp",
         "width": 480,
         "height": 362
       },
       {
-        "src": "menu-photos/country-boy-waffle-960.webp",
+        "src": "menu-photos/country-boy-waffle-hq-960.webp",
         "width": 960,
         "height": 723
       },
       {
-        "src": "menu-photos/country-boy-waffle-1280.webp",
+        "src": "menu-photos/country-boy-waffle-hq-1280.webp",
         "width": 1280,
         "height": 964
       }
@@ -1480,6 +1480,6 @@
       "license": "CC0",
       "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en"
     },
-    "changes": "Resized without upscaling; encoded as WebP. Aspect ratio retained."
+    "changes": "Resized without upscaling; encoded as WebP. Aspect ratio retained. Re-exported directly from original at WebP quality 95, without upscaling; complete dish framing."
   }
 ]

@@ -46,9 +46,9 @@ Run `npm run check` for JavaScript syntax checks.
 - Event capacity, pricing, minimums and seating availability are unconfirmed. Package concepts are suggestions, labeled as requiring restaurant approval. Replace with approved information.
 - Parking/accessibility details require restaurant confirmation; the site gives a direct contact option.
 - Social profile URLs were not supplied: footer icons are labeled “coming soon,” with no fake links. Replace with accessible linked SVG icons when profiles are verified.
-- Full menu pricing/descriptions come from the previous project’s `dist/menu.json`; verify against the current PDF. Dietary labels are examples, not allergy assurances. Eleven representative photos can be replaced with VJ’s own photos when available; two brunch descriptions defer to staff.
+- Full menu pricing/descriptions come from the previous project’s `dist/menu.json`; verify against the current PDF. Dietary labels are examples, not allergy assurances. Twelve illustrative photos (eleven licensed reference photos and one AI-edited burger image) can be replaced with VJ’s own photos when available; two brunch descriptions defer to staff.
 - VJ’s Kitchen and Chocolate Bash are labeled coming soon. No opening date is assumed.
-- BJ’s blocks automated browser access. The redesign uses a public homepage screenshot as a layout reference: a two-tier utility/navigation header, pill buttons, a compact promotional hero, overlapping feature cards, alternating image campaigns and a large category grid. All production images, branding and copy remain VJ’s; no BJ’s assets are included.
+- BJ’s blocks automated browser access. The redesign uses a public homepage screenshot as a layout reference: a two-tier utility/navigation header, pill buttons, a compact promotional hero, overlapping feature cards, alternating image campaigns and a large category grid. The site uses VJ’s branding and copy, restaurant photos and labeled illustrative imagery; no BJ’s assets are included.
 
 ## Asset cache updates
 
@@ -63,3 +63,9 @@ All order and takeout buttons stay on this website. The ordering page explains p
 - `assets/menu-photo-sources.json` records the original source, dimensions, generated variants and licenses for every menu image. Representative photos are commercial-use-compatible Wikimedia Commons images found through web searches; attribution and license links are visible under Menu photography & credits and inside the relevant dish dialogs. Resized/converted images retain their listed licenses.
 - `MENU_ITEMS.imageVariants` drives responsive srcset. `imageFit` preserves portrait dishes without cutting them off. Keep `representative` and `photoCredit` metadata when using an illustrative photo instead of an actual VJ’s dish photo.
 - Phone layouts use single-column dish cards, 16px form controls to avoid input zoom, larger tap targets and stacked filters on narrow screens. Tablets use two columns; laptops use three. Photo frames reserve their dimensions to prevent image loading shifts.
+
+## Menu image quality update
+
+All 57 dish photos are exported directly from their recorded originals as quality-95 responsive WebP files (`*-hq-*.webp`), without upscaling. Cards and dish dialogs contain the whole image. Tap a dish photo or select View dish to open its larger view. Existing low-resolution originals remain limited by their source detail; replace those originals with restaurant photography for a further improvement.
+
+Menu descriptions and controls use larger type, phones use one column, tablets use two, and laptops use three. Tablet search/filter controls wrap to prevent crowding.
