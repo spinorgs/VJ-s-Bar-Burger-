@@ -40,7 +40,7 @@ footer{background:#25221f}.footer-grid h3{letter-spacing:1px}.page-intro,.page-b
 @media(max-width:1100px){.food-first-hero{min-height:600px}.food-hero-copy h1{font-size:80px}.hero-dish-note{right:25px;max-width:310px;padding:18px}.food-first-home .menu-category-card>img{height:230px}.food-welcome-strip .shell{gap:25px;font-size:10px}}
 @media(max-width:900px){.food-first-home .reference-header nav{background:#fffdf8}.food-first-hero{min-height:600px}.food-hero-copy h1{font-size:74px}.food-hero-copy>p:not(.eyebrow){font-size:15px}.hero-dish-note{max-width:280px;bottom:25px;padding:16px}.hero-dish-note strong{font-size:14px}.hero-dish-note b{margin-left:10px}.hero-dish-note small{font-size:10px}.food-first-home .menu-category-card>img{height:190px}.food-first-home .menu-category-card h3{font-size:30px}.food-welcome-strip .shell{gap:16px;letter-spacing:.7px}.food-first-home .promo-copy{padding:20px}.food-first-home .promo-copy h3{font-size:28px}.food-first-home .promo>img{height:170px}}
 @media(max-width:600px){.food-first-hero{min-height:670px;align-items:flex-start}.food-hero-copy{padding:40px 0 185px}.food-hero-copy h1{font-size:64px;line-height:.98}.food-hero-copy .eyebrow{font-size:9px;letter-spacing:1.5px}.food-hero-copy>p:not(.eyebrow){font-size:14px;max-width:300px;margin:21px 0}.food-hero-copy .actions{gap:10px;margin-top:23px}.food-hero-copy .button{font-size:12px;padding:13px 15px;gap:12px}.food-hero-photo{object-position:61% center}.food-hero-shade{background:linear-gradient(90deg,#100c09d9,#100c0960),linear-gradient(0deg,#100c0980,transparent 55%)}.hero-dish-note{left:16px;right:16px;bottom:24px;max-width:none;padding:17px 20px}.hero-dish-note strong{font-size:16px}.hero-dish-note b{float:right}.hero-dish-note small{font-size:11px}.food-welcome-strip{padding:16px 0}.food-welcome-strip .shell{gap:12px;justify-content:space-between;font-size:8px;letter-spacing:.4px}.food-welcome-strip span:last-child{display:none}.food-welcome-strip span:nth-child(4){display:none}.food-first-home .browse-menu,.food-first-home .specials-home{padding:45px 0}.food-first-home .menu-category-card>img{height:245px}.food-first-home .menu-category-card h3{font-size:34px}.food-first-home .split>img{height:280px}.food-first-home .split-copy h2{font-size:44px}.food-first-home .promo>img{height:220px}.food-first-home .promo-copy{padding:25px}.food-first-home .promo-copy h3{font-size:32px}.food-first-home .event-banner h2{font-size:39px}}
-/* Colorful restaurant identity: cherry red, sunny yellow and deep teal. */
+/* Colorful restaurant identity: burgundy, sunny yellow and warm cream. */
 :root{--red:#b88f24;--gold:#f8c94e;--ink:#24231f;--cream:#fff9ef;--muted:#665e55}
 body,.food-first-home{background:#fffaf2}.brand-row,.food-first-home .brand-row{background:#fff1d7;border-top:4px solid var(--red)}.brand-name{color:#a57f1e}.header-contact{border-color:#ebd6b2}.contact-icon{background:#ffd7cf;color:#a57f1e}.reference-header{box-shadow:0 3px 16px #70261412}.navigation-row,.food-first-home .navigation-row{background:#fffdf8}.reference-header nav,.food-first-home .reference-header nav{color:#24231f}.reference-header nav a:hover,.reference-header nav a[aria-current],.food-first-home .reference-header nav a:hover{color:#b88f24;border-color:#b88f24}.menu-dropdown-toggle,.food-first-home .menu-dropdown-toggle{color:#b88f24}.header-visit,.food-first-home .header-visit{background:#f8c94e;color:#24231f;border-color:#f8c94e;border-radius:8px}.header-visit:hover,.food-first-home .header-visit:hover{background:#edb830;border-color:#edb830;color:#24231f}.menu-dropdown{border-top:4px solid var(--red);border-radius:0 0 14px 14px}.reference-header nav .menu-dropdown-all{color:#b88f24}
 .button{background:var(--red);border-color:var(--red);border-radius:8px}.button:hover{background:#93711a;border-color:#93711a}.outline-dark{background:transparent;color:var(--red)}.outline-dark:hover{color:#fff}.light{background:#f8c94e;border-color:#f8c94e;color:#24231f}.light:hover{background:#edb830;border-color:#edb830;color:#24231f}
@@ -300,17 +300,17 @@ footer{background:#301b23;color:#f5eee6;padding:46px 0 22px;font-family:'DM Sans
 
 .bar-hero-visual img[src*="hd-drinks-"]{object-position:center center}
 
-/* Homepage hero palette matched to the selected reference. */
-.bar-hero{background:#142622;color:#fff7df}
-.bar-hero-visual:after{background:linear-gradient(90deg,#142622 0%,#14262230 45%,transparent 75%)}
+/* Homepage hero palette: burgundy, cream and gold. */
+.bar-hero{background:#301b23;color:#fff7df}
+.bar-hero-visual:after{background:linear-gradient(90deg,#301b23 0%,#301b2330 45%,transparent 75%)}
 .bar-hero h1{color:#fff7df}.bar-hero h1 span,.bar-hero-content .eyebrow{color:#f8c94e}
-.bar-hero-content>p:not(.eyebrow){color:#d5e3db}
-.bar-hero .button{background:#f8c94e;border-color:#f8c94e;color:#162d26}
-.bar-hero .bar-hero-outline{background:transparent;color:#fff7df;border-color:#b7c7bc}
-.bar-hero .bar-hero-outline:hover{background:#fff7df;color:#162d26;border-color:#fff7df}
+.bar-hero-content>p:not(.eyebrow){color:#e8dfe1}
+.bar-hero .button{background:#f8c94e;border-color:#f8c94e;color:#301b23}
+.bar-hero .bar-hero-outline{background:transparent;color:#fff7df;border-color:#c7b7ba}
+.bar-hero .bar-hero-outline:hover{background:#fff7df;color:#301b23;border-color:#fff7df}
 .bar-food-link{color:#f1e2bd;border-color:#f1e2bd70}
-.bar-promise-strip{background:#f8c94e;color:#20392e}
-@media(max-width:700px){.bar-hero-visual:after{background:linear-gradient(0deg,#142622,transparent 40%)}}
+.bar-promise-strip{background:#f8c94e;color:#392025}
+@media(max-width:700px){.bar-hero-visual:after{background:linear-gradient(0deg,#301b23,transparent 40%)}}
 
 /* Local welcome section: readable copy paired with the real restaurant exterior. */
 .local-introduction{max-width:1240px;display:grid;grid-template-columns:minmax(0,1.12fr) minmax(0,1fr);align-items:center;gap:64px;padding-top:72px;padding-bottom:72px}
@@ -351,3 +351,79 @@ footer{background:#301b23;color:#f5eee6;padding:46px 0 22px;font-family:'DM Sans
 }
 @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}*,*:before,*:after{animation-duration:.01ms!important;transition-duration:.01ms!important}}
 @media(max-width:600px){.mobile-dock a{min-height:50px;display:flex;align-items:center;justify-content:center;font-size:13px}.mobile-dock a:last-child{background:#f8c94e;color:#29251e}}
+
+/* Shared responsive type scale: phone, tablet and desktop. */
+:root{
+ --font-body:'DM Sans',Arial,sans-serif;
+ --font-display:'Barlow Condensed',Arial,sans-serif;
+ --text-body:clamp(16px,.25vw + 15px,18px);
+ --text-title:clamp(38px,5.5vw,72px);
+ --text-section:clamp(30px,3.6vw,50px);
+ --text-card:clamp(24px,2.2vw,30px);
+}
+body{font-family:var(--font-body);font-size:var(--text-body);line-height:1.7;-webkit-text-size-adjust:100%;text-size-adjust:100%}
+button,input,select,textarea{font-family:var(--font-body)}
+h1,h2,h3{overflow-wrap:break-word;text-wrap:balance}
+.page-intro h1,.page-title,.food-menu-intro .page-title,.location-summary h1{
+ font-family:var(--font-display);font-size:var(--text-title);line-height:1.08;letter-spacing:.2px
+}
+h2,.food-first-home .section-heading h2,.browse-menu .section-heading h2,
+.food-first-home .split-copy h2,.food-first-home .event-banner h2,
+.sports-section .section-heading h2,.whiskey-copy h2,.updates-copy h2{
+ font-family:var(--font-display);font-size:var(--text-section);line-height:1.12;letter-spacing:.1px
+}
+.bar-hero h1{font-size:clamp(42px,5.7vw,80px);line-height:1.04;letter-spacing:.2px;max-width:620px}
+.local-introduction h2{font-family:var(--font-body);font-size:clamp(28px,3.1vw,42px);line-height:1.2;letter-spacing:-.7px}
+.bar-discovery-card h3,.food-first-home .menu-category-card h3,.food-first-home .promo-copy h3,.promo h3,.dish-copy h3{
+ font-family:var(--font-display);font-size:var(--text-card);line-height:1.18;letter-spacing:.1px
+}
+.local-introduction-copy p,.bar-hero-content>p:not(.eyebrow),.bar-discovery-card p:not(.eyebrow),
+.whiskey-copy>p:not(.eyebrow),.food-first-home .split-copy p:not(.eyebrow),
+.food-first-home .promo-copy p:not(.eyebrow),.bar-discovery .section-heading>p,
+.sports-section .section-heading>p,.sports-visit p,.menu-item-copy p{
+ font-size:var(--text-body);line-height:1.75
+}
+.whiskey-copy .whiskey-small{font-size:13px!important}
+.menu-item-heading button{font-size:clamp(20px,1.8vw,24px);line-height:1.25}
+.button,.bar-hero .button,.visit-banner .button,.local-introduction .button{
+ font-size:15px;line-height:1.4;min-height:48px;display:inline-flex;align-items:center;justify-content:center;text-align:center
+}
+.eyebrow,.bar-hero-content .eyebrow,.local-introduction .eyebrow,
+.bar-discovery-card .eyebrow,.whiskey-copy .eyebrow,.food-first-home .promo-copy .eyebrow{
+ font-size:12px;line-height:1.6;letter-spacing:1.3px
+}
+.bar-food-link,.local-introduction .text-link,.text-link{font-size:15px;line-height:1.5}
+.footer-grid p,.footer-grid a:not(:has(img)),.gateway-businesses p{font-size:14px;line-height:1.75}
+.footer-grid h3{font-family:var(--font-body);font-size:13px;line-height:1.5;letter-spacing:1px}
+.visit-banner h2{font-family:var(--font-body);font-style:normal;font-weight:700;font-size:clamp(28px,3vw,38px);line-height:1.2}
+.search input{font-size:16px}
+:focus-visible{outline:3px solid #966b0b;outline-offset:4px}
+.bar-hero :focus-visible,footer :focus-visible,.whiskey-feature :focus-visible{outline-color:#f8c94e}
+@media(min-width:901px){
+ .reference-header nav a{font-size:13px;letter-spacing:.5px}
+ .reference-header nav{gap:clamp(10px,1.2vw,20px)}
+}
+@media(min-width:701px) and (max-width:1100px){
+ .bar-discovery-grid{grid-template-columns:repeat(2,minmax(0,1fr));gap:24px}
+ .bar-discovery-card:last-child{grid-column:1/-1;display:grid;grid-template-columns:1fr 1fr}
+ .bar-discovery-card:last-child>img{height:100%;min-height:280px}
+ .bar-hero-content>p:not(.eyebrow){max-width:350px}
+ .whiskey-layout{gap:32px}
+}
+@media(max-width:700px){
+ .bar-hero h1{font-size:clamp(40px,8.5vw,58px)}
+ .bar-hero-content>p:not(.eyebrow){max-width:none}
+ .bar-hero-content{padding-top:24px;padding-bottom:32px}
+ .bar-discovery-card h3 br{display:none}
+ .bar-promise-strip .shell{font-size:11px;letter-spacing:.6px;line-height:1.6}
+ .bar-hero .actions{display:grid;grid-template-columns:repeat(2,minmax(0,1fr))}
+ .bar-hero .button{padding:14px 12px;font-size:14px}
+ .local-introduction .text-link{white-space:normal}
+ .footer-grid a:not(:has(img)){min-height:44px}
+ .home-hours>div{gap:12px}
+ .home-hours dt,.home-hours dd{font-size:14px;line-height:1.6}
+}
+@media(max-width:380px){
+ .bar-hero .actions{grid-template-columns:1fr}
+ .bar-hero h1{font-size:40px}
+}

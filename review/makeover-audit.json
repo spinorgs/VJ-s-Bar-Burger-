@@ -1,0 +1,578 @@
+[
+  {
+    "width": 320,
+    "file": "index",
+    "overflow": false,
+    "green": [],
+    "clipped": [],
+    "hero": "40px"
+  },
+  {
+    "width": 320,
+    "file": "menu",
+    "overflow": false,
+    "green": [],
+    "clipped": [],
+    "hero": "38px"
+  },
+  {
+    "width": 320,
+    "file": "drinks",
+    "overflow": false,
+    "green": [],
+    "clipped": [],
+    "hero": "38px"
+  },
+  {
+    "width": 320,
+    "file": "specials",
+    "overflow": false,
+    "green": [],
+    "clipped": [],
+    "hero": "38px"
+  },
+  {
+    "width": 320,
+    "file": "about",
+    "overflow": false,
+    "green": [],
+    "clipped": [],
+    "hero": "38px"
+  },
+  {
+    "width": 320,
+    "file": "private-events",
+    "overflow": false,
+    "green": [],
+    "clipped": [],
+    "hero": "38px"
+  },
+  {
+    "width": 320,
+    "file": "find-us",
+    "overflow": false,
+    "green": [],
+    "clipped": [],
+    "hero": "38px"
+  },
+  {
+    "width": 320,
+    "file": "delivery-takeout",
+    "overflow": false,
+    "green": [],
+    "clipped": [],
+    "hero": "38px"
+  },
+  {
+    "width": 390,
+    "file": "index",
+    "overflow": false,
+    "green": [],
+    "clipped": [],
+    "hero": "40px"
+  },
+  {
+    "width": 390,
+    "file": "menu",
+    "overflow": false,
+    "green": [],
+    "clipped": [],
+    "hero": "38px"
+  },
+  {
+    "width": 390,
+    "file": "drinks",
+    "overflow": false,
+    "green": [],
+    "clipped": [],
+    "hero": "38px"
+  },
+  {
+    "width": 390,
+    "file": "specials",
+    "overflow": false,
+    "green": [],
+    "clipped": [],
+    "hero": "38px"
+  },
+  {
+    "width": 390,
+    "file": "about",
+    "overflow": false,
+    "green": [],
+    "clipped": [],
+    "hero": "38px"
+  },
+  {
+    "width": 390,
+    "file": "private-events",
+    "overflow": false,
+    "green": [],
+    "clipped": [],
+    "hero": "38px"
+  },
+  {
+    "width": 390,
+    "file": "find-us",
+    "overflow": false,
+    "green": [],
+    "clipped": [],
+    "hero": "38px"
+  },
+  {
+    "width": 390,
+    "file": "delivery-takeout",
+    "overflow": false,
+    "green": [],
+    "clipped": [],
+    "hero": "38px"
+  },
+  {
+    "width": 600,
+    "file": "index",
+    "overflow": false,
+    "green": [],
+    "clipped": [],
+    "hero": "51px"
+  },
+  {
+    "width": 600,
+    "file": "menu",
+    "overflow": false,
+    "green": [],
+    "clipped": [],
+    "hero": "38px"
+  },
+  {
+    "width": 600,
+    "file": "drinks",
+    "overflow": false,
+    "green": [],
+    "clipped": [],
+    "hero": "38px"
+  },
+  {
+    "width": 600,
+    "file": "specials",
+    "overflow": false,
+    "green": [],
+    "clipped": [],
+    "hero": "38px"
+  },
+  {
+    "width": 600,
+    "file": "about",
+    "overflow": false,
+    "green": [],
+    "clipped": [],
+    "hero": "38px"
+  },
+  {
+    "width": 600,
+    "file": "private-events",
+    "overflow": false,
+    "green": [],
+    "clipped": [],
+    "hero": "38px"
+  },
+  {
+    "width": 600,
+    "file": "find-us",
+    "overflow": false,
+    "green": [],
+    "clipped": [],
+    "hero": "38px"
+  },
+  {
+    "width": 600,
+    "file": "delivery-takeout",
+    "overflow": false,
+    "green": [],
+    "clipped": [],
+    "hero": "38px"
+  },
+  {
+    "width": 768,
+    "file": "index",
+    "overflow": false,
+    "green": [],
+    "clipped": [],
+    "hero": "43.776px"
+  },
+  {
+    "width": 768,
+    "file": "menu",
+    "overflow": false,
+    "green": [],
+    "clipped": [],
+    "hero": "42.24px"
+  },
+  {
+    "width": 768,
+    "file": "drinks",
+    "overflow": false,
+    "green": [],
+    "clipped": [],
+    "hero": "42.24px"
+  },
+  {
+    "width": 768,
+    "file": "specials",
+    "overflow": false,
+    "green": [],
+    "clipped": [],
+    "hero": "42.24px"
+  },
+  {
+    "width": 768,
+    "file": "about",
+    "overflow": false,
+    "green": [],
+    "clipped": [],
+    "hero": "42.24px"
+  },
+  {
+    "width": 768,
+    "file": "private-events",
+    "overflow": false,
+    "green": [],
+    "clipped": [],
+    "hero": "42.24px"
+  },
+  {
+    "width": 768,
+    "file": "find-us",
+    "overflow": false,
+    "green": [],
+    "clipped": [],
+    "hero": "42.24px"
+  },
+  {
+    "width": 768,
+    "file": "delivery-takeout",
+    "overflow": false,
+    "green": [],
+    "clipped": [],
+    "hero": "42.24px"
+  },
+  {
+    "width": 820,
+    "file": "index",
+    "overflow": false,
+    "green": [],
+    "clipped": [],
+    "hero": "46.74px"
+  },
+  {
+    "width": 820,
+    "file": "menu",
+    "overflow": false,
+    "green": [],
+    "clipped": [],
+    "hero": "45.1px"
+  },
+  {
+    "width": 820,
+    "file": "drinks",
+    "overflow": false,
+    "green": [],
+    "clipped": [],
+    "hero": "45.1px"
+  },
+  {
+    "width": 820,
+    "file": "specials",
+    "overflow": false,
+    "green": [],
+    "clipped": [],
+    "hero": "45.1px"
+  },
+  {
+    "width": 820,
+    "file": "about",
+    "overflow": false,
+    "green": [],
+    "clipped": [],
+    "hero": "45.1px"
+  },
+  {
+    "width": 820,
+    "file": "private-events",
+    "overflow": false,
+    "green": [],
+    "clipped": [],
+    "hero": "45.1px"
+  },
+  {
+    "width": 820,
+    "file": "find-us",
+    "overflow": false,
+    "green": [],
+    "clipped": [],
+    "hero": "45.1px"
+  },
+  {
+    "width": 820,
+    "file": "delivery-takeout",
+    "overflow": false,
+    "green": [],
+    "clipped": [],
+    "hero": "45.1px"
+  },
+  {
+    "width": 1024,
+    "file": "index",
+    "overflow": false,
+    "green": [],
+    "clipped": [],
+    "hero": "58.368px"
+  },
+  {
+    "width": 1024,
+    "file": "menu",
+    "overflow": false,
+    "green": [],
+    "clipped": [],
+    "hero": "56.32px"
+  },
+  {
+    "width": 1024,
+    "file": "drinks",
+    "overflow": false,
+    "green": [],
+    "clipped": [],
+    "hero": "56.32px"
+  },
+  {
+    "width": 1024,
+    "file": "specials",
+    "overflow": false,
+    "green": [],
+    "clipped": [],
+    "hero": "56.32px"
+  },
+  {
+    "width": 1024,
+    "file": "about",
+    "overflow": false,
+    "green": [],
+    "clipped": [],
+    "hero": "56.32px"
+  },
+  {
+    "width": 1024,
+    "file": "private-events",
+    "overflow": false,
+    "green": [],
+    "clipped": [],
+    "hero": "56.32px"
+  },
+  {
+    "width": 1024,
+    "file": "find-us",
+    "overflow": false,
+    "green": [],
+    "clipped": [],
+    "hero": "56.32px"
+  },
+  {
+    "width": 1024,
+    "file": "delivery-takeout",
+    "overflow": false,
+    "green": [],
+    "clipped": [],
+    "hero": "56.32px"
+  },
+  {
+    "width": 1280,
+    "file": "index",
+    "overflow": false,
+    "green": [],
+    "clipped": [],
+    "hero": "72.96px"
+  },
+  {
+    "width": 1280,
+    "file": "menu",
+    "overflow": false,
+    "green": [],
+    "clipped": [],
+    "hero": "70.4px"
+  },
+  {
+    "width": 1280,
+    "file": "drinks",
+    "overflow": false,
+    "green": [],
+    "clipped": [],
+    "hero": "70.4px"
+  },
+  {
+    "width": 1280,
+    "file": "specials",
+    "overflow": false,
+    "green": [],
+    "clipped": [],
+    "hero": "70.4px"
+  },
+  {
+    "width": 1280,
+    "file": "about",
+    "overflow": false,
+    "green": [],
+    "clipped": [],
+    "hero": "70.4px"
+  },
+  {
+    "width": 1280,
+    "file": "private-events",
+    "overflow": false,
+    "green": [],
+    "clipped": [],
+    "hero": "70.4px"
+  },
+  {
+    "width": 1280,
+    "file": "find-us",
+    "overflow": false,
+    "green": [],
+    "clipped": [],
+    "hero": "70.4px"
+  },
+  {
+    "width": 1280,
+    "file": "delivery-takeout",
+    "overflow": false,
+    "green": [],
+    "clipped": [],
+    "hero": "70.4px"
+  },
+  {
+    "width": 1440,
+    "file": "index",
+    "overflow": false,
+    "green": [],
+    "clipped": [],
+    "hero": "80px"
+  },
+  {
+    "width": 1440,
+    "file": "menu",
+    "overflow": false,
+    "green": [],
+    "clipped": [],
+    "hero": "72px"
+  },
+  {
+    "width": 1440,
+    "file": "drinks",
+    "overflow": false,
+    "green": [],
+    "clipped": [],
+    "hero": "72px"
+  },
+  {
+    "width": 1440,
+    "file": "specials",
+    "overflow": false,
+    "green": [],
+    "clipped": [],
+    "hero": "72px"
+  },
+  {
+    "width": 1440,
+    "file": "about",
+    "overflow": false,
+    "green": [],
+    "clipped": [],
+    "hero": "72px"
+  },
+  {
+    "width": 1440,
+    "file": "private-events",
+    "overflow": false,
+    "green": [],
+    "clipped": [],
+    "hero": "72px"
+  },
+  {
+    "width": 1440,
+    "file": "find-us",
+    "overflow": false,
+    "green": [],
+    "clipped": [],
+    "hero": "72px"
+  },
+  {
+    "width": 1440,
+    "file": "delivery-takeout",
+    "overflow": false,
+    "green": [],
+    "clipped": [],
+    "hero": "72px"
+  },
+  {
+    "width": 1728,
+    "file": "index",
+    "overflow": false,
+    "green": [],
+    "clipped": [],
+    "hero": "80px"
+  },
+  {
+    "width": 1728,
+    "file": "menu",
+    "overflow": false,
+    "green": [],
+    "clipped": [],
+    "hero": "72px"
+  },
+  {
+    "width": 1728,
+    "file": "drinks",
+    "overflow": false,
+    "green": [],
+    "clipped": [],
+    "hero": "72px"
+  },
+  {
+    "width": 1728,
+    "file": "specials",
+    "overflow": false,
+    "green": [],
+    "clipped": [],
+    "hero": "72px"
+  },
+  {
+    "width": 1728,
+    "file": "about",
+    "overflow": false,
+    "green": [],
+    "clipped": [],
+    "hero": "72px"
+  },
+  {
+    "width": 1728,
+    "file": "private-events",
+    "overflow": false,
+    "green": [],
+    "clipped": [],
+    "hero": "72px"
+  },
+  {
+    "width": 1728,
+    "file": "find-us",
+    "overflow": false,
+    "green": [],
+    "clipped": [],
+    "hero": "72px"
+  },
+  {
+    "width": 1728,
+    "file": "delivery-takeout",
+    "overflow": false,
+    "green": [],
+    "clipped": [],
+    "hero": "72px"
+  }
+]
