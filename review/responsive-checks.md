@@ -23,3 +23,7 @@ These are Chrome viewport checks on macOS, not physical-device tests or Safari v
 Replaced green interface colors with burgundy, cream and gold, including the homepage hero and its gradients, button text and borders. Standardized responsive display headings and DM Sans body text, increased small labels and body copy, and adjusted tablet cards and phone actions.
 
 Chrome viewport checks passed all eight pages at 320, 390, 600, 768, 820, 1024, 1280, 1440 and 1728 pixels (72 cases): no document overflow, clipped headings or green computed interface colors. Mobile navigation, Tri-Tip search (three results), and dish dialog opening passed at 390 pixels. Results: `makeover-audit.json`; previews: `makeover-390.png`, `makeover-768.png`, `makeover-1440.png`. These are viewport checks on macOS Chrome; physical devices and Safari were not tested.
+
+## October 19 compact mobile footer
+
+Mobile footer now uses a bordered burgundy card, two columns for navigation and contact details, smaller 11–12px copy, compact social links and side-by-side business details. Desktop footer layout is preserved. Chrome checks passed all eight pages at 320, 390, 430, 600, 768 and 1440 pixels (48 cases), with no document overflow or clipped footer text. The mobile homepage footer measures 675px tall at 390px width, including bottom spacing. Previews: `compact-footer-390.png` and `compact-footer-1440.png`.

@@ -427,3 +427,29 @@ h2,.food-first-home .section-heading h2,.browse-menu .section-heading h2,
  .bar-hero .actions{grid-template-columns:1fr}
  .bar-hero h1{font-size:40px}
 }
+
+/* Compact mobile footer card. */
+@media(max-width:600px){
+ footer{padding:20px 0 calc(76px + env(safe-area-inset-bottom))}
+ footer .footer-grid{grid-template-columns:minmax(0,.8fr) minmax(0,1.2fr);gap:16px 14px;padding:18px 14px;border:1px solid #dcc08a40;border-radius:12px;background:#ffffff04}
+ .footer-grid>div{min-width:0}
+ .footer-grid>div:first-child{grid-column:1/-1;display:grid;grid-template-columns:64px minmax(0,1fr);gap:12px;align-items:center}
+ .footer-grid .logo{width:64px;height:52px}
+ .footer-grid>div:first-child p{margin:0;font-size:11px;line-height:1.6}
+ .footer-grid>div:nth-child(2),.footer-grid>div:nth-child(3){grid-column:auto;order:0}
+ .footer-grid h3{font-size:11px;line-height:1.4;letter-spacing:.7px;margin-bottom:6px}
+ .footer-grid p,.footer-grid a:not(:has(img)),.gateway-businesses p{font-size:12px;line-height:1.6;overflow-wrap:anywhere}
+ .footer-grid p{margin:6px 0}
+ .footer-grid a:not(:has(img)){min-height:36px;display:flex;align-items:center;padding:6px 0}
+ .footer-grid .delivery-note{font-size:11px;margin-bottom:0}
+ .footer-grid>div:nth-child(4){grid-column:1/-1;padding-top:12px;border-top:1px solid #ffffff1c}
+ .footer-social{display:flex;flex-wrap:wrap;gap:0 16px}
+ .footer-social a{flex:1 1 130px}
+ .footer-grid>.gateway-businesses{grid-template-columns:repeat(2,minmax(0,1fr));gap:10px 14px;padding:12px 0 0;border-bottom:0;align-items:start}
+ .gateway-businesses h4{grid-column:1/-1;font-size:10px;line-height:1.5;letter-spacing:.6px}
+ .gateway-businesses p{margin:0}
+ .gateway-businesses strong{font-size:12px}
+ .business-status{font-size:10px;line-height:1.5;margin:4px 0 0;padding:2px 6px}
+ .footer-bottom{margin-top:12px;gap:12px;font-size:10px;line-height:1.5}
+ .footer-bottom a{min-height:36px;display:inline-flex;align-items:center}
+}
