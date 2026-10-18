@@ -7,3 +7,13 @@ Navigation, all 12 category links, category filtering, search, opening dish deta
 This is viewport emulation in Chrome; Safari and physical iPhone/iPad testing were not performed.
 
 Bar-led homepage and updated bar page also passed the same 80 layout cases. Navigation, category filters, three-result Tri-Tip search, and dialogs passed at five widths. Visually reviewed desktop/mobile cocktail hero, tablet rare-whiskey feature, mobile sports cards, and tablet menu photographs.
+
+## October 18 mobile-first refinement
+
+Checked all 8 pages in Chrome on macOS at 320, 360, 390, 430, 768, 820, 1024, 1280, 1440 and 1728 pixels: all 80 cases passed document overflow, key heading/header bounds and assigned-image checks. Unassigned hidden dialog image elements are excluded from broken-image checks.
+
+Navigation, menu search, dish dialog open/close and all five brunch photo controls passed at 320, 390, 768, 1024 and 1440 pixels. Search correctly returns all dishes matching the query. Screenshot review covered mobile, tablet and desktop homepage views.
+
+Refinements: shorter mobile hero, larger mobile body/footer text, 44–50px primary touch controls, improved fixed-bottom button contrast, and reduced-motion support. Desktop/tablet hero layout retained. Screenshots and machine-readable results: responsive-390.png, responsive-768.png, responsive-1440.png, responsive-audit.json and responsive-interactions.json.
+
+These are Chrome viewport checks on macOS, not physical-device tests or Safari validation.

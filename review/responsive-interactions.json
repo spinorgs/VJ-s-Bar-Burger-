@@ -1,0 +1,37 @@
+[
+  {
+    "width": 320,
+    "nav": true,
+    "search": true,
+    "dialog": true,
+    "brunch": true
+  },
+  {
+    "width": 390,
+    "nav": true,
+    "search": true,
+    "dialog": true,
+    "brunch": true
+  },
+  {
+    "width": 768,
+    "nav": true,
+    "search": true,
+    "dialog": true,
+    "brunch": true
+  },
+  {
+    "width": 1024,
+    "nav": true,
+    "search": true,
+    "dialog": true,
+    "brunch": true
+  },
+  {
+    "width": 1440,
+    "nav": true,
+    "search": true,
+    "dialog": true,
+    "brunch": true
+  }
+]

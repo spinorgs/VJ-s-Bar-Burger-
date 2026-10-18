@@ -61,7 +61,10 @@
     "category": "Starters",
     "name": "VJ's Signature Sampler",
     "price": "$22",
-    "description": "A shareable assortment of house starters."
+    "description": "A shareable assortment of house starters.",
+    "image": "menu-pdf/starters.webp",
+    "imageAlt": "Representative starters photo: wings with celery",
+    "imageUsage": "Representative starters photograph from the restaurant-supplied menu; not an exact sampler photograph."
   },
   {
     "category": "Salads",
@@ -148,8 +151,9 @@
     "name": "Teriyaki Salmon Burger",
     "price": "$18",
     "description": "Seasoned salmon, lettuce, tomato, grilled pineapple finished with teriyaki glaze.",
-    "image": "original-salmon.jpg",
-    "thumbnail": "thumb-original-salmon.webp"
+    "image": "menu-replacements/teriyaki-salmon-burger.png",
+    "imageAlt": "Teriyaki salmon burger with lettuce, tomato and grilled pineapple",
+    "imageSource": "AI-generated representative image matching the menu description, October 18, 2026"
   },
   {
     "category": "Sandwiches",
@@ -309,7 +313,10 @@
     "category": "GrillHouse Entrees",
     "name": "Lamb Chop Dinner",
     "price": "$36",
-    "description": "4 grilled lamb chops with rosemary seasoning, garlic mashed potatoes, honey-glazed roasted carrots and a blackberry-balsamic red wine reduction."
+    "description": "4 grilled lamb chops with rosemary seasoning, garlic mashed potatoes, honey-glazed roasted carrots and a blackberry-balsamic red wine reduction.",
+    "image": "menu-replacements/lamb-chop-dinner.webp",
+    "imageAlt": "Lamb Chop Dinner — representative food photograph",
+    "imageSource": "AI-generated representative menu image, October 18, 2026"
   },
   {
     "category": "Kids Menu",
@@ -449,30 +456,45 @@
     "category": "Brunch Menu",
     "name": "Honey Sriracha Chicken Biscuit",
     "price": "$16",
-    "description": "With 2 eggs"
+    "description": "With 2 eggs",
+    "image": "menu-replacements/honey-sriracha-chicken-biscuit.webp",
+    "imageAlt": "Honey Sriracha Chicken Biscuit — representative food photograph",
+    "imageSource": "AI-generated representative menu image, October 18, 2026"
   },
   {
     "category": "Brunch Menu",
     "name": "Biscuits & Gravy",
     "price": "$16",
-    "description": "With 2 eggs"
+    "description": "With 2 eggs",
+    "image": "menu-replacements/biscuits-and-gravy.webp",
+    "imageAlt": "Biscuits & Gravy — representative food photograph",
+    "imageSource": "AI-generated representative menu image, October 18, 2026"
   },
   {
     "category": "Brunch Menu",
     "name": "Chicken & Waffle",
     "price": "$20",
-    "description": "With 2 eggs"
+    "description": "With 2 eggs",
+    "image": "menu-replacements/chicken-and-waffle.webp",
+    "imageAlt": "Chicken & Waffle — representative food photograph",
+    "imageSource": "AI-generated representative menu image, October 18, 2026"
   },
   {
     "category": "Brunch Menu",
     "name": "Shrimp & Grits",
     "price": "$21",
-    "description": ""
+    "description": "",
+    "image": "menu-replacements/shrimp-and-grits.webp",
+    "imageAlt": "Shrimp & Grits — representative food photograph",
+    "imageSource": "AI-generated representative menu image, October 18, 2026"
   },
   {
     "category": "Brunch Menu",
     "name": "Country Boy Waffle",
     "price": "$25",
-    "description": ""
+    "description": "",
+    "image": "menu-replacements/country-boy-waffle.webp",
+    "imageAlt": "Country Boy Waffle — representative food photograph",
+    "imageSource": "AI-generated representative menu image, October 18, 2026"
   }
 ]

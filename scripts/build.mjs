@@ -15,5 +15,5 @@ for(const item of menu)for(const key of ['image','thumbnail'])if(item[key]){
 }
 if(missing.length)throw new Error(missing.join('\n'));
 await rm('dist',{recursive:true,force:true});await mkdir('dist');
-for(const file of [...pages,'style.css','appearance.css','app.js','menu.json','assets'])await cp(file,path.join('dist',file),{recursive:true});
+for(const file of [...pages,'style.css','appearance.css','app.js','menu.json','assets','robots.txt','sitemap.xml'])await cp(file,path.join('dist',file),{recursive:true});
 console.log(`Built ${pages.length} pages; verified local destinations and images for ${menu.length} menu items.`);
