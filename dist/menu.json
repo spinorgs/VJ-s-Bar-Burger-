@@ -364,9 +364,7 @@
     "category": "Kids Menu",
     "name": "Kids Alfredo",
     "price": "$11",
-    "description": "Creamy Alfredo noodles for kids.",
-    "image": "original-km6.jpg",
-    "thumbnail": "thumb-original-km6.webp"
+    "description": "Creamy Alfredo noodles for kids."
   },
   {
     "category": "Milkshakes",
