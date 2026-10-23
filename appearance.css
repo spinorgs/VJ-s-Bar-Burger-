@@ -453,3 +453,7 @@ h2,.food-first-home .section-heading h2,.browse-menu .section-heading h2,
  .footer-bottom{margin-top:12px;gap:12px;font-size:10px;line-height:1.5}
  .footer-bottom a{min-height:36px;display:inline-flex;align-items:center}
 }
+
+/* Owner-supplied cocktail hero, October 20, 2026. */
+.bar-hero-visual img[src*="pink-cocktail-"]{object-position:center 68%}
+@media(max-width:700px){.bar-hero-visual img[src*="pink-cocktail-"]{object-position:center 66%}}
