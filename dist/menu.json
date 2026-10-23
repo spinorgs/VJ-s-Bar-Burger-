@@ -4,55 +4,55 @@
     "name": "French Fries",
     "price": "$4",
     "description": "Crisp, golden fries.",
-    "image": "original-fries.jpg",
-    "thumbnail": "thumb-original-fries.webp"
+    "image": "original-fries.jpg?v=9650d01aa945",
+    "thumbnail": "thumb-original-fries.webp?v=fa42a490ab42"
   },
   {
     "category": "Starters",
     "name": "Baked Potato",
     "price": "$5",
     "description": "Warm with butter and sour cream; add bacon +$3.",
-    "image": "original-bakedpotato.jpg",
-    "thumbnail": "thumb-original-bakedpotato.webp"
+    "image": "original-bakedpotato.jpg?v=1f37efb879b2",
+    "thumbnail": "thumb-original-bakedpotato.webp?v=37a5c0f6acc6"
   },
   {
     "category": "Starters",
     "name": "Onion Rings",
     "price": "$10",
     "description": "Golden, crispy onion rings.",
-    "image": "original-onionrings.jpg",
-    "thumbnail": "thumb-original-onionrings.webp"
+    "image": "original-onionrings.jpg?v=3f39c9096c03",
+    "thumbnail": "thumb-original-onionrings.webp?v=1f5c513c61c0"
   },
   {
     "category": "Starters",
     "name": "Fried Mac & Cheese Bites",
     "price": "$11",
     "description": "Crispy golden bites filled with creamy macaroni and casein cheese sauce.",
-    "image": "original-cheesebites.jpg",
-    "thumbnail": "thumb-original-cheesebites.webp"
+    "image": "original-cheesebites.jpg?v=59271980c808",
+    "thumbnail": "thumb-original-cheesebites.webp?v=087d8a11cb23"
   },
   {
     "category": "Starters",
     "name": "Chips & Housemade Guacamole",
     "price": "$11",
     "description": "House chips with fresh guacamole.",
-    "image": "original-chips.jpg",
-    "thumbnail": "thumb-original-chips.webp"
+    "image": "original-chips.jpg?v=7d4cd3f8970a",
+    "thumbnail": "thumb-original-chips.webp?v=bf708e5d8e89"
   },
   {
     "category": "Starters",
     "name": "Boneless Wings",
     "price": "$15",
     "description": "Eight wings; choose lemon pepper, BBQ, Buffalo, honey Sriracha or garlic butter.",
-    "image": "original-boneless.jpg",
-    "thumbnail": "thumb-original-boneless.webp"
+    "image": "original-boneless.jpg?v=28a484486bb8",
+    "thumbnail": "thumb-original-boneless.webp?v=cc724fa078b0"
   },
   {
     "category": "Starters",
     "name": "Bone-In Wings",
     "price": "$16",
     "description": "Eight wings; choose lemon pepper, BBQ, Buffalo, honey Sriracha or garlic butter.",
-    "image": "menu-pdf/starters.webp",
+    "image": "menu-pdf/starters.webp?v=6350a130927e",
     "imageSource": "Restaurant-supplied dine-in menu PDF, October 17, 2026",
     "imageCredit": "VJ’s Bar & Burger supplied menu",
     "imageUsage": "Extracted from user-supplied menu"
@@ -62,7 +62,7 @@
     "name": "VJ's Signature Sampler",
     "price": "$22",
     "description": "A shareable assortment of house starters.",
-    "image": "menu-replacements/vjs-signature-sampler.webp",
+    "image": "menu-replacements/vjs-signature-sampler.webp?v=9b404f2a6a4d",
     "imageAlt": "Sample platter with fried appetizers, loaded cheese fries, and two dipping sauces",
     "imageUsage": "User-supplied sample photograph for the signature sampler."
   },
@@ -71,15 +71,15 @@
     "name": "Classic Caesar Salad",
     "price": "$12",
     "description": "Romaine, Parmesan and croutons in Caesar dressing.",
-    "image": "original-cessarsalad.jpg",
-    "thumbnail": "thumb-original-cessarsalad.webp"
+    "image": "original-cessarsalad.jpg?v=1ba5e62097ce",
+    "thumbnail": "thumb-original-cessarsalad.webp?v=077258569d80"
   },
   {
     "category": "Salads",
     "name": "Mediterranean Power Salad",
     "price": "$14",
     "description": "Greens, feta, tomato, cucumber and red wine vinaigrette.",
-    "image": "menu-pdf/salads.webp",
+    "image": "menu-pdf/salads.webp?v=be2623dff342",
     "imageSource": "Restaurant-supplied dine-in menu PDF, October 17, 2026",
     "imageCredit": "VJ’s Bar & Burger supplied menu",
     "imageUsage": "Extracted from user-supplied menu"
@@ -89,15 +89,15 @@
     "name": "Berry & Goat Cheese Salad",
     "price": "$15",
     "description": "Berries, walnuts, goat cheese and raspberry vinaigrette.",
-    "image": "original-berrysalad.jpg",
-    "thumbnail": "thumb-original-berrysalad.webp"
+    "image": "original-berrysalad.jpg?v=6d4152bd57c5",
+    "thumbnail": "thumb-original-berrysalad.webp?v=890648c010e0"
   },
   {
     "category": "Burgers",
     "name": "Classic Hamburger",
     "price": "$13",
     "description": "Juicy, handmade half-pound beef patty with lettuce, tomato, onion and pickles.",
-    "image": "menu-replacements/classic-hamburger.webp",
+    "image": "menu-replacements/classic-hamburger.webp?v=45be7b626865",
     "imageSource": "https://autoreserve.com/en/restaurants/hhvL1giY9dXrhYp66HWt",
     "imageCredit": "SHOGUN BURGER via AutoReserve",
     "imageUsage": "Permission not verified; local reference only"
@@ -107,31 +107,31 @@
     "name": "Western Chicken Burger",
     "price": "$16",
     "description": "Juicy chicken breast with mayo, BBQ, bacon, onion rings, smoked Gouda, lettuce and tomatoes.",
-    "image": "original-burger7.jpg",
-    "thumbnail": "thumb-original-burger7.webp"
+    "image": "original-burger7.jpg?v=41a9ae80a9e9",
+    "thumbnail": "thumb-original-burger7.webp?v=37b5a364a5ec"
   },
   {
     "category": "Burgers",
     "name": "Bacon Cheese Burger",
     "price": "$16",
     "description": "Juicy, handmade half-pound beef patty with bacon, smoked Gouda, onion rings and BBQ sauce.",
-    "image": "original-burger3.jpg",
-    "thumbnail": "thumb-original-burger3.webp"
+    "image": "original-burger3.jpg?v=283ebab74edc",
+    "thumbnail": "thumb-original-burger3.webp?v=aba9ac01e444"
   },
   {
     "category": "Burgers",
     "name": "Avocado Mushroom Burger",
     "price": "$17",
     "description": "Juicy, handmade half-pound beef patty with avocado, mushrooms, Swiss cheese and mayo.",
-    "image": "original-burger5.jpg",
-    "thumbnail": "thumb-original-burger5.webp"
+    "image": "original-burger5.jpg?v=9fa4356503d0",
+    "thumbnail": "thumb-original-burger5.webp?v=d174287783d7"
   },
   {
     "category": "Burgers",
     "name": "Double Cheese Burger",
     "price": "$17",
     "description": "Half pound of juicy, handmade beef in two patties with American cheese and classic toppings.",
-    "image": "menu-pdf/burgers.webp",
+    "image": "menu-pdf/burgers.webp?v=d0b8b86f1acb",
     "imageSource": "Restaurant-supplied dine-in menu PDF, October 17, 2026",
     "imageCredit": "VJ’s Bar & Burger supplied menu",
     "imageUsage": "Extracted from user-supplied menu"
@@ -141,7 +141,7 @@
     "name": "Big Pappa Burger",
     "price": "$18",
     "description": "Two juicy, handmade beef patties with bacon, avocado, pepper jack, fried egg and Thousand Island sauce.",
-    "image": "menu-replacements/big-pappa-two-patties.jpg",
+    "image": "menu-replacements/big-pappa-two-patties.jpg?v=0582899708cd",
     "imageSource": "https://unsplash.com/photos/double-patty-cheeseburger-6XmQV6GccYU",
     "imageCredit": "sina piryae / Unsplash",
     "imageUsage": "Unsplash License"
@@ -151,7 +151,7 @@
     "name": "Teriyaki Salmon Burger",
     "price": "$18",
     "description": "Seasoned salmon, lettuce, tomato, grilled pineapple finished with teriyaki glaze.",
-    "image": "menu-replacements/teriyaki-salmon-burger.png",
+    "image": "menu-replacements/teriyaki-salmon-burger.png?v=802f31f94b96",
     "imageAlt": "Teriyaki salmon burger with lettuce, tomato and grilled pineapple",
     "imageSource": "AI-generated representative image matching the menu description, October 18, 2026"
   },
@@ -160,7 +160,7 @@
     "name": "Chicken Club Sandwich",
     "price": "$16",
     "description": "Toasted sourdough, chicken, bacon, lettuce and tomato.",
-    "image": "menu-pdf/sandwiches.webp",
+    "image": "menu-pdf/sandwiches.webp?v=9a5400a8a664",
     "imageSource": "Restaurant-supplied dine-in menu PDF, October 17, 2026",
     "imageCredit": "VJ’s Bar & Burger supplied menu",
     "imageUsage": "Extracted from user-supplied menu"
@@ -170,31 +170,31 @@
     "name": "Fish Sandwich",
     "price": "$16",
     "description": "Toasted sourdough with fish, tartar sauce, lettuce and tomato.",
-    "image": "original-fish-sandwich-2.jpg",
-    "thumbnail": "thumb-original-fish-sandwich-2.webp"
+    "image": "original-fish-sandwich-2.jpg?v=4da97c4629ec",
+    "thumbnail": "thumb-original-fish-sandwich-2.webp?v=36e7c18a778b"
   },
   {
     "category": "Sandwiches",
     "name": "Santa Fe Chicken Sandwich",
     "price": "$17",
     "description": "Sourdough, chipotle aioli, guacamole, peppers and jalapeño.",
-    "image": "original-santa-fe-chicken-sandwich.avif",
-    "thumbnail": "thumb-original-santa-fe-chicken-sandwich.webp"
+    "image": "original-santa-fe-chicken-sandwich.avif?v=8ed54cffce87",
+    "thumbnail": "thumb-original-santa-fe-chicken-sandwich.webp?v=665775d3aa67"
   },
   {
     "category": "Kebabs",
     "name": "Chicken Kebab",
     "price": "$18",
     "description": "Choose BBQ, Nashville hot or pineapple teriyaki with vegetables.",
-    "image": "original-cgk2.jpg",
-    "thumbnail": "thumb-original-cgk2.webp"
+    "image": "original-cgk2.jpg?v=de29db837323",
+    "thumbnail": "thumb-original-cgk2.webp?v=d01ef7906624"
   },
   {
     "category": "Kebabs",
     "name": "Garlic Parmesan Steak Kebab",
     "price": "$20",
     "description": "Marinated steak, garlic Parmesan and sautéed vegetables.",
-    "image": "menu-replacements/garlic-parmesan-steak-kebab.jpg",
+    "image": "menu-replacements/garlic-parmesan-steak-kebab.jpg?v=612af810468a",
     "imageSource": "https://overthefirecooking.com/parmesan-crusted-steak-skewers/",
     "imageCredit": "Derek Wolf / Over The Fire Cooking",
     "imageUsage": "Permission not verified; local reference only"
@@ -204,7 +204,7 @@
     "name": "Steakhouse Beef Kebab",
     "price": "$20",
     "description": "Steak skewer with peppers, onions and mushrooms.",
-    "image": "menu-pdf/kebabs.webp",
+    "image": "menu-pdf/kebabs.webp?v=4fbf430a7e22",
     "imageSource": "Restaurant-supplied dine-in menu PDF, October 17, 2026",
     "imageCredit": "VJ’s Bar & Burger supplied menu",
     "imageUsage": "Extracted from user-supplied menu"
@@ -214,7 +214,7 @@
     "name": "Mediterranean Lamb Kebab",
     "price": "$20",
     "description": "Grilled lamb skewer with vegetables.",
-    "image": "menu-replacements/mediterranean-lamb-kebab.jpg",
+    "image": "menu-replacements/mediterranean-lamb-kebab.jpg?v=4b868ad20e23",
     "imageSource": "https://www.pexels.com/photo/close-up-photo-of-grilled-skewered-meat-9510363/",
     "imageCredit": "Pexels",
     "imageUsage": "Pexels License"
@@ -224,7 +224,7 @@
     "name": "Mixed Grill Kebab",
     "price": "$30",
     "description": "Assorted house kebabs; ask which skewers are included.",
-    "image": "menu-pdf/kebabs.webp",
+    "image": "menu-pdf/kebabs.webp?v=4fbf430a7e22",
     "imageSource": "Restaurant-supplied dine-in menu PDF, October 17, 2026",
     "imageCredit": "VJ’s Bar & Burger supplied menu",
     "imageUsage": "Extracted from user-supplied menu"
@@ -234,7 +234,7 @@
     "name": "BBQ Chicken Flat Bread",
     "price": "$15",
     "description": "Grilled chicken, BBQ sauce, red onion, mozzarella and cilantro.",
-    "image": "menu-pdf/flatbreads.webp",
+    "image": "menu-pdf/flatbreads.webp?v=162bac37f9d5",
     "imageSource": "Restaurant-supplied dine-in menu PDF, October 17, 2026",
     "imageCredit": "VJ’s Bar & Burger supplied menu",
     "imageUsage": "Extracted from user-supplied menu"
@@ -244,23 +244,23 @@
     "name": "Pepperoni Flat Bread",
     "price": "$16",
     "description": "Pepperoni, mozzarella, house pizza sauce and Italian herbs.",
-    "image": "original-pepperoni.jpg",
-    "thumbnail": "thumb-original-pepperoni.webp"
+    "image": "original-pepperoni.jpg?v=01b6dd1d00b9",
+    "thumbnail": "thumb-original-pepperoni.webp?v=c3f83e3bad30"
   },
   {
     "category": "Flat Bread Pizzas",
     "name": "Steakhouse Flat Bread",
     "price": "$17",
     "description": "Steak, caramelized onions, peppers, mozzarella and blue cheese.",
-    "image": "original-steak.jpg",
-    "thumbnail": "thumb-original-steak.webp"
+    "image": "original-steak.jpg?v=68a3290a498c",
+    "thumbnail": "thumb-original-steak.webp?v=f215004bd8e1"
   },
   {
     "category": "Smoke house Signature Plated",
     "name": "Tri-Tip & Chicken Combo",
     "price": "$28",
     "description": "Tri-tip and chicken with your choice of two sides.",
-    "image": "menu-replacements/tri-tip-chicken-combo.jpg",
+    "image": "menu-replacements/tri-tip-chicken-combo.jpg?v=0ca312f78a4e",
     "imageSource": "https://sloroastkitchen.com/menu/tri-tip-and-chicken.html",
     "imageCredit": "Slo Roast Kitchen",
     "imageUsage": "Permission not verified; local reference only"
@@ -270,7 +270,7 @@
     "name": "Tri-Tip & Shrimp Combo",
     "price": "$29",
     "description": "Tri-tip and shrimp with your choice of two sides.",
-    "image": "menu-replacements/tri-tip-shrimp-combo.jpg",
+    "image": "menu-replacements/tri-tip-shrimp-combo.jpg?v=c225316340b6",
     "imageSource": "https://www.bjsrestaurants.com/menu-item/tri-tip-shrimp-scampi",
     "imageCredit": "BJ’s Restaurants",
     "imageUsage": "Permission not verified; local reference only"
@@ -280,23 +280,23 @@
     "name": "Fish & Chips",
     "price": "$21",
     "description": "Crispy battered cod with fries.",
-    "image": "original-fishchips.jpg",
-    "thumbnail": "thumb-original-fishchips.webp"
+    "image": "original-fishchips.jpg?v=07b1ca98b4e1",
+    "thumbnail": "thumb-original-fishchips.webp?v=39709efbd650"
   },
   {
     "category": "GrillHouse Entrees",
     "name": "Chicken Alfredo",
     "price": "$22",
     "description": "Chicken over creamy Alfredo noodles with broccoli.",
-    "image": "original-chickenal.jpg",
-    "thumbnail": "thumb-original-chickenal.webp"
+    "image": "original-chickenal.jpg?v=28b4cff1c68c",
+    "thumbnail": "thumb-original-chickenal.webp?v=57f2514e8531"
   },
   {
     "category": "GrillHouse Entrees",
     "name": "Atlantic / Blackened Salmon",
     "price": "$25",
     "description": "8 oz salmon, lemon butter, jasmine rice and a half salad.",
-    "image": "menu-pdf/grillhouse.webp",
+    "image": "menu-pdf/grillhouse.webp?v=8b35ee4109ea",
     "imageSource": "Restaurant-supplied dine-in menu PDF, October 17, 2026",
     "imageCredit": "VJ’s Bar & Burger supplied menu",
     "imageUsage": "Extracted from user-supplied menu"
@@ -306,15 +306,15 @@
     "name": "Slow Roasted Tri-Tip",
     "price": "$29",
     "description": "Juicy 8 oz tri-tip cut, dry rubbed with a flavorful blend of spices and slow cooked at temperature.",
-    "image": "original-slowrib.jpg",
-    "thumbnail": "thumb-original-slowrib.webp"
+    "image": "original-slowrib.jpg?v=2292bb543794",
+    "thumbnail": "thumb-original-slowrib.webp?v=a13b07a8be42"
   },
   {
     "category": "GrillHouse Entrees",
     "name": "Lamb Chop Dinner",
     "price": "$36",
     "description": "4 grilled lamb chops with rosemary seasoning, garlic mashed potatoes, honey-glazed roasted carrots and a blackberry-balsamic red wine reduction.",
-    "image": "menu-replacements/lamb-chop-dinner.webp",
+    "image": "menu-replacements/lamb-chop-dinner.webp?v=5ffb68fe43c1",
     "imageAlt": "Lamb Chop Dinner — representative food photograph",
     "imageSource": "AI-generated representative menu image, October 18, 2026"
   },
@@ -323,23 +323,23 @@
     "name": "Mini Cheese Burger",
     "price": "$10",
     "description": "Kid-sized cheeseburger with fries and a drink.",
-    "image": "original-km1.jpg",
-    "thumbnail": "thumb-original-km1.webp"
+    "image": "original-km1.jpg?v=abae7c79871f",
+    "thumbnail": "thumb-original-km1.webp?v=99002ad5203f"
   },
   {
     "category": "Kids Menu",
     "name": "Crispy Chicken Bites",
     "price": "$10",
     "description": "Bite-sized crispy chicken with fries and a drink.",
-    "image": "original-km2.jpg",
-    "thumbnail": "thumb-original-km2.webp"
+    "image": "original-km2.jpg?v=ce637c9538d0",
+    "thumbnail": "thumb-original-km2.webp?v=0c51e481e7f1"
   },
   {
     "category": "Kids Menu",
     "name": "Mini Cheese Pizza",
     "price": "$10",
     "description": "Small cheese pizza with fries and a drink.",
-    "image": "menu-pdf/kids.webp",
+    "image": "menu-pdf/kids.webp?v=b6eeb57c8296",
     "imageSource": "Restaurant-supplied dine-in menu PDF, October 17, 2026",
     "imageCredit": "VJ’s Bar & Burger supplied menu",
     "imageUsage": "Extracted from user-supplied menu"
@@ -349,23 +349,23 @@
     "name": "Kids Boneless Wings",
     "price": "$10",
     "description": "Boneless wings with fries and a drink.",
-    "image": "original-km4.jpg",
-    "thumbnail": "thumb-original-km4.webp"
+    "image": "original-km4.jpg?v=0e930c12fa44",
+    "thumbnail": "thumb-original-km4.webp?v=ce90fcb636e7"
   },
   {
     "category": "Kids Menu",
     "name": "Mini Corn Dogs",
     "price": "$10",
     "description": "Mini corn dogs with fries and a drink.",
-    "image": "original-km5.jpg",
-    "thumbnail": "thumb-original-km5.webp"
+    "image": "original-km5.jpg?v=e332747d110b",
+    "thumbnail": "thumb-original-km5.webp?v=6380b8cdb288"
   },
   {
     "category": "Kids Menu",
     "name": "Kids Alfredo",
     "price": "$11",
     "description": "Creamy Alfredo noodles for kids.",
-    "image": "menu-replacements/kids-alfredo.webp",
+    "image": "menu-replacements/kids-alfredo.webp?v=682d6184d85a",
     "imageAlt": "Sample photo of plain fettuccine Alfredo in a creamy cheese sauce",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Fettuccine_Alfredo_originals.jpg",
     "imageCredit": "Civa61",
@@ -376,15 +376,15 @@
     "name": "Vanilla Milkshake",
     "price": "$6",
     "description": "Classic creamy vanilla.",
-    "image": "original-vanilla-milkshake.jpg",
-    "thumbnail": "thumb-original-vanilla-milkshake.webp"
+    "image": "original-vanilla-milkshake.jpg?v=e8c4485d5456",
+    "thumbnail": "thumb-original-vanilla-milkshake.webp?v=ea1a02ebc11b"
   },
   {
     "category": "Milkshakes",
     "name": "Mango Milkshake",
     "price": "$6",
     "description": "Smooth and creamy mango.",
-    "image": "menu-pdf/milkshakes.webp",
+    "image": "menu-pdf/milkshakes.webp?v=c48bbf3436b5",
     "imageSource": "Restaurant-supplied dine-in menu PDF, October 17, 2026",
     "imageCredit": "VJ’s Bar & Burger supplied menu",
     "imageUsage": "Extracted from user-supplied menu"
@@ -394,63 +394,63 @@
     "name": "Chocolate Milkshake",
     "price": "$6",
     "description": "Rich chocolate shake.",
-    "image": "original-chocolate-milkshake.avif",
-    "thumbnail": "thumb-original-chocolate-milkshake.webp"
+    "image": "original-chocolate-milkshake.avif?v=c83575cb3633",
+    "thumbnail": "thumb-original-chocolate-milkshake.webp?v=e0548970c428"
   },
   {
     "category": "Desserts",
     "name": "Cheesecake",
     "price": "$7",
     "description": "Vanilla cheesecake with berry compote.",
-    "image": "original-d1.jpg",
-    "thumbnail": "thumb-original-d1.webp"
+    "image": "original-d1.jpg?v=db6f8b875acf",
+    "thumbnail": "thumb-original-d1.webp?v=64e056bcc444"
   },
   {
     "category": "Desserts",
     "name": "Chocolate Cake",
     "price": "$7",
     "description": "Chocolate cake with chocolate mousse.",
-    "image": "original-d2.jpg",
-    "thumbnail": "thumb-original-d2.webp"
+    "image": "original-d2.jpg?v=119e5ae80ff2",
+    "thumbnail": "thumb-original-d2.webp?v=ff75a064899f"
   },
   {
     "category": "Desserts",
     "name": "Cookies & Cream Cookie Skillet",
     "price": "$8",
     "description": "Warm cookies and cream cookie with vanilla ice cream.",
-    "image": "original-d8.jpg",
-    "thumbnail": "thumb-original-d8.webp"
+    "image": "original-d8.jpg?v=06e27714c3c5",
+    "thumbnail": "thumb-original-d8.webp?v=f846781f9f20"
   },
   {
     "category": "Desserts",
     "name": "Chocolate Chunk Cookie Skillet",
     "price": "$8",
     "description": "Warm chocolate chunk cookie with vanilla ice cream.",
-    "image": "original-d7.jpg",
-    "thumbnail": "thumb-original-d7.webp"
+    "image": "original-d7.jpg?v=ff477a177587",
+    "thumbnail": "thumb-original-d7.webp?v=effce879520b"
   },
   {
     "category": "Desserts",
     "name": "Strawberry Shortcake Cookie Sundae",
     "price": "$9",
     "description": "Warm strawberry cookie with berry compote.",
-    "image": "original-strawberry-shortcake-cookie-skillet.jpg",
-    "thumbnail": "thumb-original-strawberry-shortcake-cookie-skillet.webp"
+    "image": "original-strawberry-shortcake-cookie-skillet.jpg?v=50467bcf47d7",
+    "thumbnail": "thumb-original-strawberry-shortcake-cookie-skillet.webp?v=d686b4f95879"
   },
   {
     "category": "Desserts",
     "name": "Triple Chocolate Cookie Sundae",
     "price": "$9",
     "description": "Warm triple chocolate cookie, ice cream and sauce.",
-    "image": "original-triple-chocolate-cookie-skillet.jpg",
-    "thumbnail": "thumb-original-triple-chocolate-cookie-skillet.webp"
+    "image": "original-triple-chocolate-cookie-skillet.jpg?v=ae457f3682f3",
+    "thumbnail": "thumb-original-triple-chocolate-cookie-skillet.webp?v=d408ebaa61bc"
   },
   {
     "category": "Desserts",
     "name": "Cookie Trio Skillet",
     "price": "$16",
     "description": "Three cookies of your choice with vanilla ice cream.",
-    "image": "menu-pdf/desserts.webp",
+    "image": "menu-pdf/desserts.webp?v=f131783239e9",
     "imageSource": "Restaurant-supplied dine-in menu PDF, October 17, 2026",
     "imageCredit": "VJ’s Bar & Burger supplied menu",
     "imageUsage": "Extracted from user-supplied menu"
@@ -460,7 +460,7 @@
     "name": "Honey Sriracha Chicken Biscuit",
     "price": "$16",
     "description": "With 2 eggs",
-    "image": "menu-replacements/honey-sriracha-chicken-biscuit.webp",
+    "image": "menu-replacements/honey-sriracha-chicken-biscuit.webp?v=81735a525c5a",
     "imageAlt": "Honey Sriracha Chicken Biscuit — representative food photograph",
     "imageSource": "AI-generated representative menu image, October 18, 2026"
   },
@@ -469,7 +469,7 @@
     "name": "Biscuits & Gravy",
     "price": "$16",
     "description": "With 2 eggs",
-    "image": "menu-replacements/biscuits-and-gravy.webp",
+    "image": "menu-replacements/biscuits-and-gravy.webp?v=b67441672691",
     "imageAlt": "Biscuits & Gravy — representative food photograph",
     "imageSource": "AI-generated representative menu image, October 18, 2026"
   },
@@ -478,7 +478,7 @@
     "name": "Chicken & Waffle",
     "price": "$20",
     "description": "With 2 eggs",
-    "image": "menu-replacements/chicken-and-waffle.webp",
+    "image": "menu-replacements/chicken-and-waffle.webp?v=3dbddec5c43b",
     "imageAlt": "Chicken & Waffle — representative food photograph",
     "imageSource": "AI-generated representative menu image, October 18, 2026"
   },
@@ -487,7 +487,7 @@
     "name": "Shrimp & Grits",
     "price": "$21",
     "description": "",
-    "image": "menu-replacements/shrimp-and-grits.webp",
+    "image": "menu-replacements/shrimp-and-grits.webp?v=1e9de6303e81",
     "imageAlt": "Shrimp & Grits — representative food photograph",
     "imageSource": "AI-generated representative menu image, October 18, 2026"
   },
@@ -496,7 +496,7 @@
     "name": "Country Boy Waffle",
     "price": "$25",
     "description": "",
-    "image": "menu-replacements/country-boy-waffle.webp",
+    "image": "menu-replacements/country-boy-waffle.webp?v=774f77026be2",
     "imageAlt": "Country Boy Waffle — representative food photograph",
     "imageSource": "AI-generated representative menu image, October 18, 2026"
   }
