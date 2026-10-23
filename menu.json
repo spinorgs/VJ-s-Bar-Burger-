@@ -62,9 +62,9 @@
     "name": "VJ's Signature Sampler",
     "price": "$22",
     "description": "A shareable assortment of house starters.",
-    "image": "menu-pdf/starters.webp",
-    "imageAlt": "Representative starters photo: wings with celery",
-    "imageUsage": "Representative starters photograph from the restaurant-supplied menu; not an exact sampler photograph."
+    "image": "menu-replacements/vjs-signature-sampler.webp",
+    "imageAlt": "Sample platter with fried appetizers, loaded cheese fries, and two dipping sauces",
+    "imageUsage": "User-supplied sample photograph for the signature sampler."
   },
   {
     "category": "Salads",
