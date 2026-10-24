@@ -513,3 +513,6 @@ p{line-height:1.75}
 
 /* Frame the sports screens and seating in the dining photo. */
 .sports-venue-photo>img[src*="live-sports-dining-"]{object-position:center 60%}
+
+/* Keep the cocktail, rather than the defocused back bar, in specials cards. */
+.promo:has(.promo-copy)>img[src*="pink-cocktail-"]{object-position:center 94%}
