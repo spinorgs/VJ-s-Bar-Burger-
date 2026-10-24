@@ -94,6 +94,8 @@ function showDish(name) {
   if (!menuReady) return;
   const item = items.find(i => i.name === name); if (!item) return;
   const img = document.querySelector('#detail-image'); img.hidden = !images[name]; if (images[name]) { img.src = 'assets/' + images[name]; img.alt = item.imageAlt || name; } else { img.removeAttribute('src'); img.alt = ''; }
+  const imageCredit = document.querySelector('#detail-image-credit');
+  if (imageCredit) { imageCredit.hidden = item.name !== 'Kids Alfredo'; imageCredit.textContent = item.name === 'Kids Alfredo' ? 'Illustrative sample image; actual presentation may vary.' : ''; }
   document.querySelector('#detail-category').textContent = (labels[item.category] || item.category).toUpperCase(); document.querySelector('#detail-title').textContent = name; document.querySelector('#detail-price').textContent = item.price; document.querySelector('#detail-description').textContent = item.description; document.querySelector('#detail-note').textContent = notes[item.category] || 'Ask our team about ingredients and availability.'; showDialog(detail);
 }
 document.addEventListener('click', e => { const dish = e.target.closest('[data-dish]'); if (dish) showDish(dish.dataset.dish); const image = e.target.closest('[data-photo]'); if (image) { const img = document.querySelector('#gallery-image'); img.src = image.dataset.photo; img.alt = image.dataset.caption; document.querySelector('#photo-caption').textContent = image.dataset.caption; showDialog(photo); } });
@@ -107,10 +109,15 @@ function updateOpeningStatus() {
   const parts = new Intl.DateTimeFormat('en-US', {timeZone:'America/Los_Angeles', weekday:'short', hour:'numeric', minute:'numeric', hourCycle:'h23'}).formatToParts(new Date());
   const value = type => parts.find(p => p.type === type)?.value;
   const day = value('weekday'), now = Number(value('hour')) * 60 + Number(value('minute'));
-  const opening = day === 'Mon' ? 17 : 11;
-  const closing = day === 'Fri' || day === 'Sat' ? 23 : day === 'Sun' || day === 'Mon' ? 21 : 22;
+  if (day === 'Mon') {
+    status.textContent = 'Monday hours vary — contact us for game-day opening.';
+    document.querySelector('.status-dot')?.classList.remove('is-open');
+    return;
+  }
+  const opening = 11;
+  const closing = day === 'Fri' || day === 'Sat' ? 23 : day === 'Sun' ? 21 : 22;
   const open = now >= opening * 60 && now < closing * 60;
-  status.textContent = open ? 'Open today until ' + (closing - 12) + ' pm' : now < opening * 60 ? 'Opening today at ' + (opening === 17 ? '5 pm' : '11 am') : 'See you tomorrow at ' + (day === 'Sun' ? '5 pm' : '11 am');
+  status.textContent = open ? 'Open today until ' + (closing - 12) + ' pm' : now < opening * 60 ? 'Opening today at ' + (opening === 17 ? '5 pm' : '11 am') : day === 'Sun' ? 'Monday hours vary — contact us.' : 'See you tomorrow at 11 am';
   document.querySelector('.status-dot')?.classList.toggle('is-open', open);
 }
 updateOpeningStatus(); setInterval(updateOpeningStatus, 60000); document.querySelector('#year').textContent = new Date().getFullYear();

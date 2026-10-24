@@ -365,11 +365,9 @@
     "name": "Kids Alfredo",
     "price": "$11",
     "description": "Creamy Alfredo noodles for kids.",
-    "image": "menu-replacements/kids-alfredo.webp?v=682d6184d85a",
-    "imageAlt": "Sample photo of plain fettuccine Alfredo in a creamy cheese sauce",
-    "imageSource": "https://commons.wikimedia.org/wiki/File:Fettuccine_Alfredo_originals.jpg",
-    "imageCredit": "Civa61",
-    "imageUsage": "Representative Alfredo photograph, cropped and resized; CC BY 4.0. Not an exact photograph of the restaurant serving."
+    "image": "menu-replacements/kids-alfredo-v2.webp?v=8d76381258ff",
+    "imageAlt": "Illustrative sample of creamy fettuccine Alfredo in a white bowl",
+    "imageUsage": "AI-generated illustrative sample; actual presentation may vary."
   },
   {
     "category": "Milkshakes",

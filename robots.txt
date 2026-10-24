@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://vjs-bar-burger.web.app/sitemap.xml
+Sitemap: https://vjsgrill.bar/sitemap.xml
